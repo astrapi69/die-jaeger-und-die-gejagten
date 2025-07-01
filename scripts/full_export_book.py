@@ -12,7 +12,7 @@ os.chdir("..")
 BOOK_DIR = "./manuscript"                       # Location of markdown files organized by sections
 OUTPUT_DIR = "./output"                         # Output directory for compiled formats
 BACKUP_DIR = "./output_backup"                  # Backup location for previous output
-OUTPUT_FILE = "book"                            # Base name for the output files #TODO replace with your data
+OUTPUT_FILE = "die-jaeger-und-die-gejagten-book"# Base name for the output files
 METADATA_FILE = "config/metadata.yaml"          # YAML file for Pandoc metadata (title, author, etc.)
 LOG_FILE = "export.log"                         # Log file for script and Pandoc output/errors
 

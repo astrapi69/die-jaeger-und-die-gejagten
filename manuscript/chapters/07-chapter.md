@@ -1,6 +1,8 @@
-# Kapitel 7: Der Wendepunkt
+# Kapitel 7: Der Wendepunkt {#kapitel-7}
 
-## Erdorbit
+![Transformation](../../assets/chapter_07_transformation.png)
+
+## Erdorbit {#-erdorbit}
 
 ## 13:22 Uhr Ortszeit
 

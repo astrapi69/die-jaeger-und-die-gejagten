@@ -1,8 +1,10 @@
-# Kapitel 2: Die erste Nacht
+# Kapitel 2: Die erste Nacht {#kapitel-2}
+
+![Terror beginnt](../../assets/chapter_02_terror.png)
 
 ## Sarajevo, Bosnien-Herzegowina
 
-## 3:42 Uhr Ortszeit
+## 3:42 Uhr Ortszeit  {#-sarajevo-1}
 
 Aida Ramić schoss aus dem Schlaf hoch, als ihr Laptop-Bildschirm explodierte.
 
@@ -76,7 +78,7 @@ Die Leitung war tot.
 
 ---
 
-## Los Angeles, USA
+## Los Angeles, USA {#-los-angeles-1}
 
 ## 6:58 Uhr Ortszeit
 
@@ -159,7 +161,7 @@ Er hatte sie gesehen. Leuchtende Punkte am Himmel, die sich wie lebende Sterne b
 
 ---
 
-## Brno, Tschechische Republik
+## Brno, Tschechische Republik {#-brno-1}
 
 ## 12:34 Uhr Ortszeit
 

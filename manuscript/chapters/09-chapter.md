@@ -1,4 +1,6 @@
-# Kapitel 9: Das Herz der Finsternis
+# Kapitel 9: Das Herz der Finsternis {#kapitel-9}
+
+![Die Wächter](../../assets/chapter_09_guardians.png)
 
 ## Erdorbit
 

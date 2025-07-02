@@ -1,0 +1,79 @@
+{
+  "project_name": "die_jaeger_und_die_gejagten",
+  "created_date": "2025-07-01T00:00:00",
+  "description": "Illustrations for the sci-fi novel 'Die Jäger und die Gejagten'",
+  "settings": {
+    "steps": 40,
+    "guidance": 8.5,
+    "width": 1024,
+    "height": 1536,
+    "style": "cinematic, sci-fi realism, moody lighting"
+  },
+  "prompts": [
+    {
+      "text": "A terrified woman sits upright in bed in the darkness, clutching her head, as tiny alien machines shimmer near her ear — the invasion has begun.",
+      "filename": "chapter_01_invasion.png",
+      "settings": {}
+    },
+    {
+      "text": "A chaotic city street with people attacking each other irrationally, fires in the background, and news screens reporting inexplicable violence.",
+      "filename": "chapter_02_terror.png",
+      "settings": {}
+    },
+    {
+      "text": "A dimly lit abandoned church basement, where a group of survivors meet in secret — their faces show fear and quiet determination.",
+      "filename": "chapter_03_resistance.png",
+      "settings": {
+        "guidance": 9.0
+      }
+    },
+    {
+      "text": "A night sky lit by a mysterious, glowing presence above Earth, as the first Anari ships descend — gentle, elegant, and not of this world.",
+      "filename": "chapter_04_the_hunters_arrive.png",
+      "settings": {
+        "seed": 40404
+      }
+    },
+    {
+      "text": "A radiant light being (Anari) floating outside a window, calming a possessed human with waves of energy that resemble flowing starlight.",
+      "filename": "chapter_05_revelation.png",
+      "settings": {}
+    },
+    {
+      "text": "Hospitals around the world filled with light and healing — soldiers rising from beds, blind children seeing their parents for the first time.",
+      "filename": "chapter_06_healing.png",
+      "settings": {
+        "guidance": 9.2
+      }
+    },
+    {
+      "text": "A powerful Anari scanning a human mind — visualized as a glowing neural landscape being freed from dark, spiked alien tendrils.",
+      "filename": "chapter_07_transformation.png",
+      "settings": {}
+    },
+    {
+      "text": "A crystalline prison of suspended Vak'tar parasites floating in a containment field — silent and eerie, with ghostly remnants of their former power.",
+      "filename": "chapter_08_justice.png",
+      "settings": {
+        "seed": 80808
+      }
+    },
+    {
+      "text": "A circle of humans standing with light in their hands, chosen as guardians, overlooking a city slowly recovering under new stars.",
+      "filename": "chapter_09_guardians.png",
+      "settings": {}
+    },
+    {
+      "text": "A quiet rooftop scene at dawn — Sarah Chen watches the Anari leave the sky as humans begin planting trees in the ruins below.",
+      "filename": "chapter_10_departure.png",
+      "settings": {
+        "guidance": 9.3
+      }
+    },
+    {
+      "text": "A futuristic hospital garden 20 years later, where children play in peace — the new generation shaped by Anari legacy.",
+      "filename": "epilogue_new_world.png",
+      "settings": {}
+    }
+  ]
+}

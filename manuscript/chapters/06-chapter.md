@@ -1,6 +1,8 @@
-# Kapitel 6: Erstes Blut
+# Kapitel 6: Erstes Blut {#kapitel-6}
 
-## Orbit des Mars
+![Wiedergutmachung](../../assets/chapter_06_healing.png)
+
+## Orbit des Mars {#-orbit-des-mars}
 
 ## 11:43 Uhr Erdzeit
 

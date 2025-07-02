@@ -1,4 +1,6 @@
-# Kapitel 5: Metamorphose
+# Kapitel 5: Metamorphose {#kapitel-5}
+
+![Die Befreier](../../assets/chapter_05_revelation.png)
 
 ## Griffith Observatory, Los Angeles
 

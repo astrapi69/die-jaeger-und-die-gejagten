@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "write-book-template"  # TODO: replace with your actual project name
+name = "die-jaeger-und-die-gejagten"
 version = "0.1.0"
-description = "Template project for writing and publishing books using markdown and automation tools"  # TODO: customize
+description = "Eine Science-Fiction Gruselgeschichte über parasitäre Aliens, kosmische Gerechtigkeit und die Transformation der Menschheit"
 authors = ["Asterios Raptis <asteri.raptis@gmail.com>"]
 readme = "README.md"
 packages = [
@@ -13,6 +13,7 @@ python = ">=3.10,<3.13"
 pandas = "^2.2.3"
 python-dotenv = "^1.1.0"
 requests = "^2.31.0"
+pillow = "^11.2.1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0.0"
@@ -26,6 +27,7 @@ replace-emojis = "scripts.replace_emojis:main"
 translate-book-deepl = "scripts.translate_book_deepl:main"
 translate-book-lmstudio = "scripts.translate_book_lmstudio:main"
 create-chapters = "scripts.create_chapters:main"
+generate-images = "scripts.generate_images:main"
 
 # 🏁 Export Shortcuts
 export-epub = "scripts.shortcuts:export_epub"

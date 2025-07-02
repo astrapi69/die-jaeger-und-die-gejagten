@@ -1,6 +1,8 @@
 # Die Jäger und die Gejagten
 
-## Kapitel 1: Das Flüstern im Dunkeln
+## Kapitel 1: Das Flüstern im Dunkeln {#kapitel-1}
+
+![Die Invasion](../../assets/chapter_01_invasion.png)
 
 Dr. Sarah Chen erwachte mit einem Schrei, der nie ihre Lippen verließ.
 

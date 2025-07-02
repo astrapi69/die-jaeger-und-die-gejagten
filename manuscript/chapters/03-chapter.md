@@ -1,6 +1,6 @@
 # Kapitel 3: Erste Kontakte  {#kapitel-3}
 
-![Der Widerstand](../../assets/chapter_03_resistance.png)
+![Der Widerstand](../../assets/chapter_03_resistance.jpg)
 
 ## San Francisco, USA  {#-san-francisco-1}
 

@@ -1,6 +1,6 @@
 # Kapitel 8: Die letzte Stunde {#kapitel-8}
 
-![Gerechtigkeit](../../assets/chapter_08_justice.png)
+![Gerechtigkeit](../../assets/chapter_08_justice.jpg)
 
 ## Griffith Observatory, Los Angeles
 

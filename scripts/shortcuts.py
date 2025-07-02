@@ -53,6 +53,18 @@ def export_epub():
     export("epub")
 
 
+def export_epub2():
+    """
+    Shortcut: Export EPUB with cover using EPUB version 2 (compatible with epubli)
+    """
+    sys.argv = [
+        "full-export",
+        "--format=epub",
+        "--epub2"
+    ]
+    export_main()
+
+
 def export_markdown():
     """
     Shortcut: Export only the Markdown version of the book
@@ -65,6 +77,18 @@ def export_epub_with_cover():
     Shortcut: Export EPUB version with a cover image
     """
     export("epub", "./assets/covers/cover.jpg")
+
+def export_epub2_with_cover():
+    """
+    Shortcut: Export EPUB with cover using EPUB version 2 (compatible with epubli)
+    """
+    sys.argv = [
+        "full-export",
+        "--format=epub",
+        "--cover=./assets/covers/cover.jpg",
+        "--epub2"
+    ]
+    export_main()
 
 
 def export_print_version_epub():
@@ -93,7 +117,9 @@ if __name__ == "__main__":
 
     available_shortcuts = {
         "export_epub": export_epub,
+        "export_epub2": export_epub2,
         "export_epub_with_cover": export_epub_with_cover,
+        "export_epub2_with_cover": export_epub2_with_cover,
         "export_markdown": export_markdown,
         "export_pdf": export_pdf,
         "export_docx": export_docx,

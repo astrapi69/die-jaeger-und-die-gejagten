@@ -2,7 +2,7 @@
 
 ## Kapitel 1: Das Flüstern im Dunkeln {#kapitel-1}
 
-![Die Invasion](../../assets/chapter_01_invasion.png)
+![Die Invasion](../../assets/chapter_01_invasion.jpg)
 
 Dr. Sarah Chen erwachte mit einem Schrei, der nie ihre Lippen verließ.
 

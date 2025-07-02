@@ -1,6 +1,6 @@
 # Kapitel 4: Die Wahrheit über die Sterne {#kapitel-4}
 
-![Die Jäger kommen](../../assets/chapter_04_the_hunters_arrive.png)
+![Die Jäger kommen](../../assets/chapter_04_the_hunters_arrive.jpg)
 
 ## Griffith Observatory, Los Angeles
 

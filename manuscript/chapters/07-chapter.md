@@ -1,6 +1,6 @@
 # Kapitel 7: Der Wendepunkt {#kapitel-7}
 
-![Transformation](../../assets/chapter_07_transformation.png)
+![Transformation](../../assets/chapter_07_transformation.jpg)
 
 ## Erdorbit {#-erdorbit}
 

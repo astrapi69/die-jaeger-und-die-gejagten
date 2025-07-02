@@ -1,6 +1,6 @@
 # Kapitel 2: Die erste Nacht {#kapitel-2}
 
-![Terror beginnt](../../assets/chapter_02_terror.png)
+![Terror beginnt](../../assets/chapter_02_terror.jpg)
 
 ## Sarajevo, Bosnien-Herzegowina
 

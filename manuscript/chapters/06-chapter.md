@@ -1,6 +1,6 @@
 # Kapitel 6: Erstes Blut {#kapitel-6}
 
-![Wiedergutmachung](../../assets/chapter_06_healing.png)
+![Wiedergutmachung](../../assets/chapter_06_healing.jpg)
 
 ## Orbit des Mars {#-orbit-des-mars}
 

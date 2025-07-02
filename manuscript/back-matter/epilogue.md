@@ -1,6 +1,6 @@
 # Epilog: Eine neue Morgendämmerung 
 
-![Die neue Welt](../../assets/epilogue_new_world.png)
+![Die neue Welt](../../assets/epilogue_new_world.jpg)
 
 ## Zehn Jahre später {#-zehn-jahre-später}
 
@@ -337,7 +337,7 @@ Und Liebe war immer stärker als Angst.
 ---
 
 ## Irgendwo zwischen den Sternen {#-irgendwo}
-![Der Abschied](../../assets/chapter_10_departure.png)
+![Der Abschied](../../assets/chapter_10_departure.jpg)
 ## An Bord der "Ewigen Hoffnung"
 
 ## Zeit ist relativ

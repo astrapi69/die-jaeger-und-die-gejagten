@@ -1,26 +1,26 @@
-# Über den Autor {#-ueber-den-autor}
+# About the author {#-ueber-den-autor}
 
 ## Draven Quantum
 
-**Draven Quantum** ist ein Autor spekulativer Science Fiction, der sich an der Schnittstelle zwischen kosmischem Horror
-und menschlicher Hoffnung bewegt. Seine Werke verbinden intensive Action-Sequenzen mit tiefgreifender emotionaler
-Charakterentwicklung und erschaffen Zukunftsvisionen, die sowohl erschreckend als auch inspirierend sind.
+**Draven Quantum** is an author of speculative science fiction that straddles the line between cosmic horror and human hope.
+and human hope. His works combine intense action sequences with profound emotional character
+character development and create visions of the future that are both terrifying and inspiring.
 
-Mit einem Hintergrund in **Kognitionswissenschaften** und einer lebenslangen Faszination für **Alien-Zivilisationen und
-menschliche Resilienz** erforscht Draven Quantum Themen wie Bewusstsein, interplanetare Ethik, kollektive Heilung und
-die Frage: Was macht uns menschlich, wenn wir mehr als menschlich werden?
+With a background in **cognitive science** and a lifelong fascination with **alien civilizations and human resilience
+human resilience**, Draven Quantum explores topics such as consciousness, interplanetary ethics, collective healing, and the question
+the question: What makes us human when we become more than human?
 
-> *„Die besten Science Fiction Geschichten", so glaubt Draven Quantum, „zeigen uns nicht nur, was möglich ist, sondern
-wer wir werden könnten."*
+> *"The best science fiction stories," Draven Quantum believes, "show us not only what is possible, but
+who we could become. "*
 
-Nach seinem gefeierten Debütroman ***Schatten über New Eden*** – einer eindringlichen Liebesgeschichte in einer
-dystopischen Zukunft – erkundet Draven Quantum in ***Die Jäger und die Gejagten*** ein völlig neues Terrain: eine
-emotionale Reise von individuellem Horror zu galaktischer Hoffnung, in der fünf Menschen entdecken, dass Empathie die
-mächtigste Waffe gegen kosmische Unterdrückung ist.
+Following his acclaimed debut novel ***Shadows over New Eden*** - a haunting love story set in a
+dystopian future - Draven Quantum explores an entirely new terrain in ***The Hunters and the Hunted***: an
+an emotional journey from individual horror to galactic hope, in which five humans discover that empathy is the
+most powerful weapon against cosmic oppression.
 
-Mit zwei erfolgreichen Romanen hat sich Draven Quantum als eine der innovativsten Stimmen der modernen Science Fiction
-etabliert, die komplexe philosophische Fragen in packende, actionreiche Narrative einwebt.
+With two successful novels under his belt, Draven Quantum has established himself as one of the most innovative voices in modern science fiction
+who weaves complex philosophical questions into gripping, action-packed narratives.
 
 ---
 
-*Draven Quantum schreibt unter einem Pseudonym.*
+*Draven Quantum writes under a pseudonym.

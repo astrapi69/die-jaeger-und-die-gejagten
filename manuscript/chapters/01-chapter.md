@@ -1,195 +1,195 @@
-# Die Jäger und die Gejagten
+# The hunters and the hunted
 
-## Kapitel 1: Das Flüstern im Dunkeln {#kapitel-1}
+## Chapter 1: Whispering in the dark {#chapter-1}
 
-![Die Invasion](../../assets/chapter_01_invasion.jpg)
+![The invasion](../../assets/chapter_01_invasion.jpg)
 
-Dr. Sarah Chen erwachte mit einem Schrei, der nie ihre Lippen verließ.
+Dr. Sarah Chen awoke with a scream that never left her lips.
 
-3:17 Uhr. Die Digitalanzeige ihres Weckers strahlte sie durch die Dunkelheit ihres Schlafzimmers an wie ein roter
-Vorwurf. Schweißperlen rannen über ihre Stirn, obwohl die Novemberluft kalt durch das gekippte Fenster strömte.
+3:17 am. The digital display of her alarm clock beamed at her through the darkness of her bedroom like a red
+reproach. Beads of sweat trickled down her forehead, even though the November air streamed coldly through the tilted window.
 
-Etwas war anders. Falsch.
+Something was different. Wrong.
 
-Sie lag völlig still und lauschte in die Stille hinein. Ihr Neurologen-Gehirn arbeitete automatisch: Puls erhöht, Atmung
-flach, Adrenalin-Schub ohne erkennbaren Auslöser. Ein Alptraum? Nein. Sie erinnerte sich an keine Träume.
+She lay completely still and listened into the silence. Her neurologist's brain worked automatically: pulse increased, breathing
+shallow, adrenaline rush with no recognizable trigger. A nightmare? No. She didn't remember any dreams.
 
-Dann hörte sie es.
+Then she heard it.
 
-Ein Summen. So leise, dass sie sich fragte, ob es überhaupt real war. Wie das Brummen alter Stromleitungen oder das
-ferne Rauschen einer Autobahn. Aber metallischer. Lebendiger.
+A humming sound. So quiet that she wondered if it was real at all. Like the humming of old power lines or the
+the distant roar of a highway. But more metallic. More vivid.
 
-*Hungriger.*
+*Hungry.
 
-Sarah richtete sich langsam auf und tastete nach dem Lichtschalter. Das schwache Licht der Nachttischlampe vertrieb die
-Schatten, aber nicht das Unbehagen, das sich wie Eiswasser in ihren Adern ausbreitete.
+Sarah slowly sat up and felt for the light switch. The dim light from the bedside lamp chased away the shadows
+shadows, but not the unease that spread through her veins like ice water.
 
-Das Summen war verschwunden.
+The buzzing had disappeared.
 
-Sie stand auf und ging zum Fenster. Die Straße lag verlassen da, die Laternen warfen gelbe Kegel auf den nassen Asphalt.
-Alles normal. Alles ruhig.
+She got up and went to the window. The street was deserted, the lanterns cast yellow cones on the wet asphalt.
+Everything was normal. Everything was quiet.
 
-Zu ruhig.
+Too quiet.
 
-Wo waren die Katzen, die sonst um diese Zeit durch die Gärten schlichen? Wo das Bellen von Herrn Kowalskis Hund, der
-jeden Nachtwanderer verbellte? Die Stille war nicht nur die Abwesenheit von Geräuschen – sie war *absolut*. Als hätte
-jemand die Welt auf stumm geschaltet.
+Where were the cats that usually sneaked through the gardens at this time of day? Where was the barking of Mr. Kowalski's dog, who
+barked at every night walker? The silence was not just the absence of sound - it was *absolute*. As if
+someone had muted the world.
 
-Sarah zog ihren Morgenmantel über und schlich zur Küche. Ein Glas warme Milch, vielleicht würde das helfen. Während sie
-die Milch in einen Topf goss, bemerkte sie ihre zitternden Hände.
+Sarah put on her robe and crept to the kitchen. A glass of warm milk, maybe that would help. As she
+pouring the milk into a saucepan, she noticed her trembling hands.
 
-*Komm schon, Sarah*, schalt sie sich selbst. *Du bist Neurologin. Du kennst Panikattacken.*
+*Come on, Sarah*, she scolded herself. *You're a neurologist. You know panic attacks.
 
-Aber das hier war keine Panikattacke. Das hier war...
+But this wasn't a panic attack. This was...
 
-Das Summen war zurück.
+The buzzing was back.
 
-Diesmal kam es nicht von draußen. Es kam aus ihrem Kopf.
+This time it didn't come from outside. It came from her head.
 
-Sarah erstarrte, der Milchtopf noch in der Hand. Das Geräusch pulsierte hinter ihren Augen, rhythmisch wie ein zweiter
-Herzschlag. Wie ein Signal.
+Sarah froze, the pot of milk still in her hand. The sound pulsed behind her eyes, rhythmic like a second heartbeat.
+heartbeat. Like a signal.
 
-Wie eine Sprache.
+Like a language.
 
-*Endlich*, flüsterte eine Stimme in ihrem Kopf, die nicht ihre eigene war. *Ein neuer Wirt. Und so... vielversprechend.*
+*At last*, whispered a voice in her head that was not her own. *A new host. And so... promising.
 
-Der Milchtopf entglitt ihren Fingern und zerschellte auf dem Küchenboden. Weiße Spritzer überall, Scherben wie Zähne im
-Kerzenlicht.
+The milk pot slipped from her fingers and smashed on the kitchen floor. White splashes everywhere, shards like teeth in the
+candlelight.
 
-"Was... wer...?" Sarah griff sich an den Kopf, drückte ihre Handflächen gegen die Schläfen. Das Summen wurde lauter,
-bohrte sich tiefer in ihr Bewusstsein.
+"What... Who...?" Sarah grabbed her head, pressing her palms against her temples. The buzzing grew louder,
+drilled deeper into her consciousness.
 
-*Hab keine Angst*, schnurrte die Stimme amüsiert. *Ich bin hier, um dich zu... vervollständigen.*
+*Don't be afraid*, the voice purred amusedly. *I'm here to... complete you*.
 
-Sarah rannte zum Badezimmer und starrte sich im Spiegel an. Ihr Gesicht war bleich, die Augen geweitet vor Panik. Aber
-da war noch etwas anderes. Ihre Pupillen – sie flackerten. Als würde ein schwaches Licht dahinter pulsieren.
+Sarah ran to the bathroom and stared at herself in the mirror. Her face was pale, her eyes wide with panic. But
+there was something else. Her pupils - they were flickering. As if a faint light was pulsing behind them.
 
-*Du bist Wissenschaftlerin*, fuhr die Stimme fort, und Sarah spürte, wie sich ihre Gedanken ordneten, obwohl sie es
-nicht wollte. *Du wirst verstehen. Wir sind die nächste Evolutionsstufe. Nicht für uns – für euch.*
+*You're a scientist*, the voice continued, and Sarah felt her thoughts organize themselves, even though she didn't want to.
+didn't want to. *You will understand. We are the next stage of evolution. Not for us - for you.
 
-"Raus." Sarah kniff die Augen zusammen und konzentrierte sich. "Raus aus meinem Kopf!"
+"Out." Sarah narrowed her eyes and concentrated. "Get out of my head!"
 
-*So funktioniert das nicht, Liebes.* Die Stimme klang jetzt näher, intimer. *Ich bin bereits Teil von dir. Sieh.*
+*That's not how it works, love.* The voice sounded closer now, more intimate. *I'm already part of you. Look.
 
-Ohne dass Sarah es wollte, hob sich ihre rechte Hand. Sie beobachtete fasziniert und entsetzt, wie ihre eigenen Finger
-sich spreizten und langsam zur Faust ballten. Dann öffneten sie sich wieder.
+Without Sarah wanting it, her right hand lifted. She watched, fascinated and horrified, as her own fingers
+spread apart and slowly clenched into a fist. Then they opened again.
 
-Nicht ihre Bewegung. Nicht ihre Entscheidung.
+Not their movement. Not their decision.
 
-*Beeindruckend, nicht wahr? Euer neurologisches System ist so... primitiv. So leicht zu überschreiben.*
+*Impressive, isn't it? Your neurological system is so... primitive. So easy to overwrite.
 
-Sarah rannte zurück ins Schlafzimmer und griff nach ihrem Handy. 911. Sie musste... sie musste jemanden anrufen. Einen
-Krankenwagen. Die Polizei. Irgendwen.
+Sarah ran back into the bedroom and grabbed her cell phone. 911. She had to... She had to call someone. An
+Ambulance. The police. Someone.
 
-Aber ihre Finger wählten eine andere Nummer.
+But her fingers dialed a different number.
 
-"Hallo?" Eine verschlafene Stimme. Ihre Nachbarin, Mrs. Patterson.
+"Hello?" A sleepy voice. Her neighbor, Mrs. Patterson.
 
-"Mrs. Patterson", hörte Sarah sich sagen, obwohl sie die Worte nicht sprach. "Könnten Sie mal rüberkommen? Mir ist...
-mir ist etwas passiert."
+"Mrs. Patterson," Sarah heard herself say, though she didn't speak the words. "Could you come over here? I've...
+Something's happened to me."
 
-*Perfekt*, lobte die Stimme. *Du lernst schnell.*
+*Perfect*, praised the voice. *You learn quickly.
 
-"Sarah? Es ist mitten in der Nacht, Liebes. Ist alles in Ordnung?"
+"Sarah? It's the middle of the night, dear. Is everything all right?"
 
-"Bitte," Sarah kämpfte darum, ihre eigenen Worte zu formen, "kommen Sie... nicht... hier..."
+"Please," Sarah struggled to form her own words, "don't... don't... here..."
 
-Aber ihre Stimme sagte: "Ich bin gestürzt. Ich brauche Hilfe. Die Tür ist offen."
+But her voice said: "I've fallen. I need help. The door is open."
 
-Mrs. Patterson seufzte. "Ich komme sofort."
+Mrs. Patterson sighed, "I'll be right there."
 
-Das Gespräch endete. Sarah starrte das Handy an, als wäre es eine Schlange.
+The conversation ended. Sarah stared at the cell phone as if it were a snake.
 
-*Warum?* schaffte sie es zu denken.
+*Why?* she managed to think.
 
-*Weil sie vertraut. Weil sie schwach ist. Weil wir uns ausbreiten müssen.* Die Stimme klang jetzt begierig. *Euer Planet
-ist so voller köstlicher kleiner Fleischwesen. So voller Schmerz und Angst. Wir werden euch helfen, euer Potenzial zu
-entfalten.*
+*Because she trusts. Because she is weak. Because we need to spread out.* The voice sounded eager now. *Your planet
+is so full of delicious little flesh creatures. So full of pain and fear. We will help you realize your potential.
+unfold.*
 
-Sarah hörte Schritte vor der Haustür. Mrs. Patterson, die 78-jährige Witwe von nebenan, die jeden Sonntag Kekse backte
-und drei Katzen hatte.
+Sarah heard footsteps outside the front door. Mrs. Patterson, the 78-year-old widow next door who baked cookies every Sunday
+and had three cats.
 
-*Nein.* Sarah warf sich gegen die Schlafzimmertür und drehte den Schlüssel um. *Ich lasse nicht zu, dass du ihr
-wehtust.*
+*No.* Sarah threw herself against the bedroom door and turned the key. *I won't let you hurt her.
+hurt her.
 
-*Du lässt zu?* Die Stimme lachte, ein Geräusch wie zersplitterndes Glas. *Du verstehst noch nicht, wer hier die
-Kontrolle hat.*
+*The voice laughed, a sound like shattering glass. *You still don't understand who's in control here.
+control here.
 
-Sarahs Körper bewegte sich gegen ihren Willen. Ihre Beine trugen sie zur Tür, ihre Hand drehte den Schlüssel zurück. Sie
-kämpfte gegen jede Bewegung, aber es war, als würde sie gegen Stahl ankämpfen.
+Sarah's body moved against her will. Her legs carried her to the door, her hand turned the key back. She
+fought against every movement, but it was as if she was fighting against steel.
 
-"Sarah? Ich bin da!" Mrs. Pattersons Stimme von unten.
+"Sarah? I'm here!" Mrs. Patterson's voice from downstairs.
 
-*Geh.* Die Stimme war jetzt ein Befehl, eisenkalt und unwiderstehlich. *Öffne die Tür. Lade sie herein.*
+*The voice was now a command, cold as iron and irresistible. *Open the door. Invite her in.
 
-Sarah ging die Treppe hinunter, jeder Schritt ein Verrat an ihrem eigenen Willen. Sie sah ihre Hand auf die Türklinke
-zugehen, sah, wie sie sich bewegte, um zu öffnen.
+Sarah walked down the stairs, each step a betrayal of her own will. She saw her hand move towards the door handle
+towards the door handle, saw it move to open.
 
-Und dann, in einem letzten verzweifelten Aufbäumen ihrer Willenskraft, schrie sie: "LAUFEN SIE! LAUFEN SIE WEG!"
+And then, in a last desperate surge of willpower, she screamed, "RUN! RUN AWAY!"
 
-Stille.
+Silence.
 
-*Das*, sagte die Stimme leise, *war sehr unklug.*
+*That*, the voice said softly, *was very unwise.
 
-Der Schmerz kam wie ein Blitz. Sarah sank auf die Knie, ihre Hände an den Kopf gepresst. Es fühlte sich an, als würde
-ihr Gehirn mit glühenden Nadeln durchstochen.
+The pain came like a bolt of lightning. Sarah sank to her knees, her hands pressed to her head. It felt as if her brain was being
+her brain was being pierced with red-hot needles.
 
-"Sarah? Was ist los da drin?" Mrs. Pattersons besorgte Stimme. "Ich rufe die Polizei!"
+"Sarah? What's going on in there?" Mrs. Patterson's worried voice. "I'm calling the police!"
 
-*Nein*, befahl die Stimme, und der Schmerz ließ nach. *Du wirst ihr sagen, dass alles in Ordnung ist. Du wirst sie
-hereinbitten. Und du wirst zusehen, wie wir ihr zeigen, was Schmerz wirklich bedeutet.*
+*No*, the voice commanded, and the pain subsided. *You will tell her that everything is all right. You will
+invite her in. And you will watch as we show her what pain really means.
 
-Sarah stand langsam auf. Ihre Hand bewegte sich zur Türklinke.
+Sarah stood up slowly. Her hand moved to the door handle.
 
-Aber in diesem Moment hörte sie etwas anderes. Ein anderes Summen. Höher, klarer. Und die Stimme in ihrem Kopf...
-verstummte.
+But at that moment she heard something else. A different hum. Higher, clearer. And the voice in her head...
+fell silent.
 
-*Was...?* Ein Hauch von Verwirrung. Zum ersten Mal klang das Ding in ihrem Kopf unsicher.
+*What...?* A hint of confusion. For the first time, the thing in her head sounded uncertain.
 
-Das neue Summen wurde lauter. Und mit ihm kam Licht – ein sanftes, goldenes Leuchten, das durch das Fenster neben der
-Tür fiel.
+The new humming grew louder. And with it came light - a soft, golden glow that fell through the window next to the door.
+door.
 
-Sarah drehte sich um und sah hinaus.
+Sarah turned around and looked outside.
 
-Am Himmel schwebten Lichter. Hunderte von ihnen. Wie leuchtende Schneeflocken, die sich in perfekten Mustern bewegten.
-Sie pulstierten im Rhythmus des neuen Summens, als würden sie miteinander sprechen.
+Lights hovered in the sky. Hundreds of them. Like glowing snowflakes, moving in perfect patterns.
+They pulsed to the rhythm of the new hum, as if they were talking to each other.
 
-*Nein*, zischte die Stimme in ihrem Kopf, jetzt panisch. *Das ist nicht möglich. Sie sollten nicht... sie können
-nicht...*
+*No*, hissed the voice in her head, now panicked. *That's not possible. You shouldn't... you can't
+not...*
 
-Das goldene Licht wurde heller. Und plötzlich spürte Sarah, wie sich etwas in ihrem Kopf löste. Als würde ein Käfig
-geöffnet.
+The golden light became brighter. And suddenly Sarah felt something loosen in her head. As if a cage
+opened.
 
-Sie konnte wieder klar denken.
+She could think clearly again.
 
-"Mrs. Patterson!" rief sie durch die Tür. "Gehen Sie nach Hause! Schließen Sie alle Türen und Fenster ab! Vertrauen Sie
-niemandem!"
+"Mrs. Patterson!" she called through the door. "Go home! Lock all the doors and windows! Don't trust
+no one!"
 
-"Sarah, was redest du da? Lass mich rein!"
+"Sarah, what are you talking about? Let me in!"
 
-"NEIN!" Sarah lehnte sich gegen die Tür. "Schauen Sie in den Himmel! Sehen Sie die Lichter? Irgendetwas passiert. Etwas
-Großes."
+"NO!" Sarah leaned against the door. "Look up at the sky! Do you see the lights? Something is happening. Something
+Big."
 
-Sie hörte Mrs. Pattersons erstaunte Laute. "Mein Gott... was ist das?"
+She heard Mrs. Patterson's astonished murmur. "My God... what is that?"
 
-*Komm zurück*, wisperte die Stimme in Sarahs Kopf, aber sie klang schwächer jetzt. *Du gehörst mir.*
+*Come back*, the voice in Sarah's head whispered, but it sounded weaker now. *You're mine.
 
-"Nein", sagte Sarah laut. "Ich gehöre niemandem."
+"No," Sarah said loudly. "I don't belong to anyone."
 
-Das goldene Licht pulsierte einmal hell auf, und die Stimme verstummte völlig.
+The golden light pulsed brightly once, and the voice fell completely silent.
 
-Sarah sank gegen die Tür und starrte durch das Fenster hinaus auf die tanzenden Lichter am Himmel. Irgendwo da draußen,
-in der Dunkelheit, schrien Menschen. Aber hier, in diesem Moment, war sie frei.
+Sarah sank against the door and stared out through the window at the dancing lights in the sky. Somewhere out there,
+in the darkness, people were screaming. But here, in this moment, she was free.
 
-Die Frage war nur: Für wie lange?
+The only question was: for how long?
 
-Und wer waren die neuen Spieler in diesem kosmischen Schachspiel?
+And who were the new players in this cosmic chess game?
 
-Sarah griff nach ihrem Laptop. Als Neurologin musste sie verstehen, was gerade passierte. Als Mensch musste sie
-überleben.
+Sarah reached for her laptop. As a neurologist, she had to understand what was happening. As a human being, she had to
+survive.
 
-Als ob das Schicksal der Welt davon abhinge.
+As if the fate of the world depended on it.
 
-Was, wie sie bald erfahren würde, tatsächlich der Fall war.
+Which, as she would soon learn, was indeed the case.
 
 ---

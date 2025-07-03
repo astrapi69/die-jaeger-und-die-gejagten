@@ -1,236 +1,236 @@
-# Kapitel 8: Die letzte Stunde {#kapitel-8}
+# Chapter 8: The final hour {#chapter-8}
 
-![Gerechtigkeit](../../assets/chapter_08_justice.jpg)
+![justice](../../assets/chapter_08_justice.jpg)
 
 ## Griffith Observatory, Los Angeles
 
-## 23:58 Uhr Ortszeit
+## 23:58 local time
 
-In zwei Minuten würde die Vak'tar-Hauptflotte das Sonnensystem erreichen.
+In two minutes, the Vak'tar main fleet would reach the solar system.
 
-Sarah Chen stand auf dem Dach des Observatoriums und blickte zu den Sternen hinauf. Um sie herum hatte sich die Erde in
-den letzten elf Stunden in etwas verwandelt, das sie nie für möglich gehalten hätte: einen galaktischen
-Willkommenspalast.
+Sarah Chen stood on the roof of the observatory and looked up at the stars. Around her, the earth had been transformed
+transformed into something she would never have thought possible: a galactic welcome palace.
+welcome palace.
 
-Überall auf dem Planeten leuchteten Landebahnen. Krankenhäuser hatten ihre Türen geöffnet. Schulen waren zu Unterkünften
-umgebaut worden. In New York, London, Tokio, Sydney – in jeder großen Stadt der Welt warteten Menschen mit Decken,
-Nahrung und medizinischer Ausrüstung.
+Runways were lit up all over the planet. Hospitals had opened their doors. Schools had been converted into
+had been converted into shelters. In New York, London, Tokyo, Sydney - in every major city in the world, people were waiting with blankets,
+food and medical equipment.
 
-"Bereit?" fragte Daryl, der neben ihr stand. Seine adaptive Rüstung schimmerte im Mondlicht wie flüssiges Silber.
+"Ready?" Daryl asked, standing next to her. His adaptive armor shimmered like liquid silver in the moonlight.
 
-"Niemand kann bereit sein für das, was wir vorhaben," antwortete Sarah. "Aber wir sind so bereit, wie Menschen nur sein
-können."
+"No one can be ready for what we're about to do," Sarah replied. "But we are as ready as people can be.
+can be."
 
-Father Martinez kniete in Meditation, sein Heiler-Stab leuchtete sanft neben ihm. Aida hatte sich mit ihrem
-Quantum-Interface verbunden und überwachte jeden Kommunikationskanal im Sonnensystem. Miriam stand bei den drei
-befreiten Alien-Schiffen und sprach leise mit Zephyr und den anderen.
+Father Martinez knelt in meditation, his healing staff glowing gently beside him. Aida had connected to her
+quantum interface and was monitoring every communication channel in the solar system. Miriam stood by the three
+liberated alien ships and spoke quietly to Zephyr and the others.
 
-**Sie kommen**, leuchtete Aida plötzlich.
+**They're coming**, Aida suddenly lit up.
 
-Sarah spürte sie, bevor sie sie sah. Eine Welle von Kälte, die durch den Raum rollte. Zwei Stunden früher als
-vorhergesagt.
+Sarah felt it before she saw it. A wave of cold that rolled through the room. Two hours earlier than
+predicted.
 
-Am Himmel erschienen sie wie ein Schwarm schwarzer Sterne. Nicht zweitausend Schiffe – Sarah zählte schnell – über
-dreitausend. Die Vak'tar hatten Verstärkung gesammelt.
+They appeared in the sky like a swarm of black stars. Not two thousand ships - Sarah counted quickly - over
+three thousand. The Vak'tar had gathered reinforcements.
 
-**Mein Gott**, leuchtete Daryl. **Das sind mehr, als wir erwartet hatten.**
+**My God**, Daryl glowed. **This is more than we expected**.
 
-**Viel mehr**, bestätigte Zephyr mit seiner melodischen Stimme. **Sie haben die gesamte Sektorflotte mobilisiert.**
+**Much more**, Zephyr confirmed in his melodic voice. **They have mobilized the entire sector fleet**.
 
-Sarah erweiterte ihre Sinne und tastete die ankommende Armada ab. Jedes Schiff war voller Leben – aber nicht voller
-Vak'tar. Voller Gefangener. Millionen und Abermillionen von assimilierten Wesen aus hunderten von Welten.
+Sarah extended her senses and scanned the incoming armada. Each ship was full of life - but not full of
+Vak'tar. Full of prisoners. Millions upon millions of assimilated beings from hundreds of worlds.
 
-**Es sind keine Kriegsschiffe**, erkannte sie plötzlich. **Es sind Gefangenentransporter.**
+**They're not warships**, she suddenly realized. **They are prisoner transports**.
 
-**Was meinst du?** fragte Father Martinez.
+**What do you mean?** Father Martinez asked.
 
-Sarah verstand es jetzt. **Sie kommen nicht, um die Erde zu erobern. Sie bringen alle ihre Gefangenen mit. Jedes Wesen,
-das sie je assimiliert haben. Das ist nicht nur eine Invasion – das ist ihre gesamte... Zivilisation.**
+Sarah understood now. **They're not coming to conquer the Earth. They bring all their prisoners with them. Every creature
+they've ever assimilated. This isn't just an invasion - this is their entire... Civilization.
 
-**Warum würden sie das tun?** fragte Miriam.
+**Why would they do that?** asked Miriam.
 
-Zephyr antwortete mit trauriger Gewissheit: **Weil sie wissen, dass sie entdeckt wurden. Weil sie wissen, dass die Anari
-endlich einen Weg gefunden haben, sie zu stoppen. Das hier ist ihre letzte Schlacht. Alles oder nichts.**
+Zephyr replied with sad certainty: **Because they know they've been discovered. Because they know that the Anari
+have finally found a way to stop them. This is their last battle. All or nothing.
 
-Sarah spürte das Gewicht dieser Erkenntnis. **Wenn wir versagen, verlieren wir nicht nur die Erde. Wir verlieren jede
-Chance, die Millionen von Gefangenen zu befreien.**
+Sarah felt the weight of this realization. **If we fail, we don't just lose the earth. We lose any chance
+chance to free the millions of prisoners.
 
-**Und wenn wir gewinnen?** fragte Daryl.
+**And if we win?** Daryl asked.
 
-**Dann befreien wir eine ganze Galaxis**, antwortete Father Martinez mit ruhiger Gewissheit.
+**Then we liberate an entire galaxy**, Father Martinez replied with calm certainty.
 
-Die Schiffe näherten sich. Sarah konnte jetzt ihre Details erkennen. Jedes war anders – zusammengeflickt aus den
-Technologien und Körpern der Spezies, die sie erobert hatten. Ein Museum kosmischer Grausamkeit.
+The ships were approaching. Sarah could see their details now. Each one was different - patched together from the
+technologies and bodies of the species they had conquered. A museum of cosmic cruelty.
 
-**Kommunikation empfangen**, meldete Aida. **Die Anführer-Schiffe senden.**
+**Communication received**, Aida reported. **The leader ships are transmitting**.
 
-**Öffnen Sie den Kanal**, befahl Sarah.
+**Open the channel**, Sarah ordered.
 
-Eine Stimme erfüllte ihre Gedanken – kalt, vielschichtig, wie Millionen von Stimmen, die gleichzeitig sprachen:
+A voice filled her thoughts - cold, complex, like millions of voices speaking at the same time:
 
-*Lichtwesen der Erde. Wir sind die Vak'tar-Dominanz. Ihr habt unsere Späher corrumpiert. Ihr habt unsere Gefangenen
-befreit. Das war ein Fehler.*
+*Light beings of Earth. We are the Vak'tar Dominance. You have corrupted our scouts. You have freed our prisoners.
+freed our prisoners. That was a mistake.
 
-Sarah antwortete laut, so dass ihre Stimme über alle Kommunikationskanäle der Erde übertragen wurde:
+Sarah answered loudly so that her voice was transmitted over all the Earth's communication channels:
 
-"Wir sind Menschen. Und wir sind hier, um jeden zu befreien, den ihr versklavt habt."
+"We are humans. And we are here to free everyone you have enslaved."
 
-*Menschen.* Das Wort wurde wie ein Fluch ausgesprochen. *Eine primitive Spezies von einem unbedeutenden Planeten. Ihr
-versteht nicht, was ihr getan habt. Diese Wesen waren schwach. Wir haben sie stark gemacht.*
+*Humans.* The word was pronounced like a curse. *A primitive species from an insignificant planet. You
+do not understand what you have done. These beings were weak. We have made them strong.
 
-"Ihr habt sie zu Sklaven gemacht."
+"You have made them slaves."
 
-*Wir haben sie verbessert. Genau wie die Anari euch verbessert haben. Der einzige Unterschied ist, dass wir ehrlich über
-den Preis sind.*
+*We have improved them. Just like the Anari have improved you. The only difference is that we are honest about the price.
+the price*.
 
-Sarah spürte einen Stich der Unsicherheit. War das wahr? Waren sie und die Vak'tar wirklich so ähnlich?
+Sarah felt a stab of uncertainty. Was that true? Were she and the Vak'tar really that similar?
 
-Aber dann hörte sie Father Martinez' Stimme, ruhig und klar: "Der Unterschied ist die Wahl. Wir haben gewählt. Eure
-Gefangenen nicht."
+But then she heard Father Martinez's voice, calm and clear: "The difference is the choice. We have chosen. Your
+prisoners did not."
 
-*Wahl ist eine Illusion*, spottete die Vak'tar-Stimme. *Überleben ist alles, was zählt. Und wir werden überleben.*
+*Election is an illusion*, mocked the Vak'tar voice. *Survival is all that matters. And we will survive.
 
-**Sie greifen an**, warnte Aida.
+**They're attacking**, Aida warned.
 
-Die dreitausend Schiffe bewegten sich plötzlich mit erschreckender Geschwindigkeit. Aber nicht auf die Erde zu – sie
-verteilten sich in einer perfekten Sphäre um das gesamte Sonnensystem.
+The three thousand ships suddenly moved with terrifying speed. But not towards the earth - they
+spread out in a perfect sphere around the entire solar system.
 
-**Sie umzingeln uns**, stellte Daryl fest.
+**They're surrounding us**, Daryl realized.
 
-Sarah verstand die Strategie sofort. **Sie wollen sicherstellen, dass niemand entkommen kann. Weder wir noch ihre
-eigenen Gefangenen.**
+Sarah understood the strategy immediately. **They want to make sure that no one can escape. Neither us nor their
+their own prisoners.
 
-Zephyr leuchtete mit alarmierter Erkenntnis: **Es ist eine Falle. Für alle. Wenn sie nicht gewinnen können, werden sie
-alles zerstören.**
+Zephyr lit up with alarmed realization: **It's a trap. For all of them. If they can't win, they will
+destroy everything.
 
-**Wie lange haben wir?** fragte Sarah.
+**How long do we have?** Sarah asked.
 
-Aida rechnete blitzschnell: **Zwölf Minuten, bis sie in Angriffsposition sind.**
+Aida did the math in a flash: **Twelve minutes until they're in attack position**.
 
-Sarah blickte zu ihrem Team hinüber. Fünf Menschen und drei befreite Aliens gegen dreitausend Schiffe voller Millionen
-von Parasiten.
+Sarah looked over at her team. Five humans and three freed aliens against three thousand ships full of millions of
+of parasites.
 
-Unmögliche Chancen. Aber das war schon immer das Markenzeichen der Menschheit gewesen.
+Impossible chances. But that has always been the hallmark of humanity.
 
-"Zeit für Plan B," sagte sie.
+"Time for plan B," she said.
 
-**Was ist Plan B?** fragte Daryl.
+**What's plan B?** Daryl asked.
 
-Sarah lächelte – ein Lächeln, das mit goldenem Licht leuchtete. "Wir machen das, was Menschen am besten können. Wir
-improvisieren."
+Sarah smiled - a smile that shone with golden light. "We do what humans do best. We
+improvise."
 
-Sie erweiterte ihr Bewusstsein und sprach gleichzeitig zu allen Menschen auf der Erde und allen Gefangenen in der
-Vak'tar-Flotte:
+She expanded her consciousness and simultaneously spoke to all the people on Earth and all the prisoners in the
+Vak'tar fleet:
 
-"Menschen der Erde. Assimilierte Wesen der Galaxis. Mein Name ist Sarah Chen, und ich spreche zu euch in der dunkelsten
-Stunde, die unser Universum je gesehen hat."
+"People of the earth. Assimilated beings of the galaxy. My name is Sarah Chen, and I am speaking to you in the darkest hour our
+hour our universe has ever seen."
 
-Ihre Stimme erreichte jeden funktionsfähigen Empfänger auf der Erde und durchdrang die Kommunikationssysteme der
-Vak'tar-Schiffe.
+Her voice reached every functioning receiver on Earth and penetrated the communication systems of the Vak'tar ships.
+Vak'tar ships.
 
-"Die Parasiten haben euch gesagt, dass Widerstand sinnlos ist. Dass ihr schwach seid. Dass ihr Verbesserung braucht.
-Aber sie lügen."
+"The parasites have told you that resistance is pointless. That you are weak. That you need improvement.
+But they lie."
 
-In den Vak'tar-Schiffen spürte Sarah, wie sich etwas zu regen begann. Millionen von unterdrückten Bewusstsein, die zum
-ersten Mal seit Jahrhunderten eine andere Stimme hörten.
+In the Vak'tar ships, Sarah felt something begin to stir. Millions of suppressed consciousnesses hearing a different voice
+hearing another voice for the first time in centuries.
 
-"Ihr seid nicht schwach. Ihr seid nicht gebrochen. Ihr seid gefangen. Aber Gefangenschaft ist nicht dauerhaft. Sklaverei
-ist nicht euer wahres Ich."
+"You are not weak. You are not broken. You are imprisoned. But captivity is not permanent. Slavery
+is not the real you."
 
-**Sarah, was machst du?** fragte Miriam besorgt.
+**Sarah, what are you doing?" Miriam asked anxiously.
 
-**Etwas Verrücktes**, antwortete Sarah. **Ich spreche direkt zu allen Gefangenen gleichzeitig.**
+**Something crazy**, Sarah replied. **I'm speaking directly to all the prisoners at once**.
 
-"Ich weiß, ihr könnt mich hören. Unter den Stimmen der Parasiten, unter der Kontrolle, unter dem Schmerz. Euer wahres
-Selbst ist noch da. Und es ist Zeit aufzuwachen."
+"I know you can hear me. Under the voices of the parasites, under the control, under the pain. Your true
+Self is still there. And it's time to wake up."
 
-Plötzlich passierte etwas Unerwartetes. Eines der Vak'tar-Schiffe – ein riesiger, kristalliner Dreadnought – begann zu
-flackern. Seine schwarze Hülle pulsierte mit schwachem Licht.
+Suddenly, something unexpected happened. One of the Vak'tar ships - a huge, crystalline dreadnought - began to flicker.
+flicker. Its black hull pulsed with faint light.
 
-**Ein Schiff reagiert**, meldete Aida erstaunt.
+**A ship reacts**, Aida reported in astonishment.
 
-Dann ein zweites. Dann ein drittes.
+Then a second. Then a third.
 
-**Unmöglich**, leuchtete Zephyr. **Von hier aus können sie nicht so viele Schiffe gleichzeitig beeinflussen.**
+**Possible**, Zephyr glowed. **They can't affect that many ships at once from here**.
 
-Aber Sarah verstand es. **Wir müssen es nicht. Wir müssen nur den ersten befreien. Dann befreien sie sich gegenseitig.**
+But Sarah understood. **We don't have to. We just have to free the first one. Then they'll free each other.
 
-Sie konzentrierte sich auf das flackernde Schiff und sendete jeden Funken ihrer Kraft hinaus. **Ihr seid frei. Erwacht.
-Erinnert euch, wer ihr wart.**
+She focused on the flickering ship and sent out every spark of her power. **You are free. Awaken.
+Remember who you were.
 
-Das Schiff explodierte in Licht. Nicht destruktiv – transformativ. Seine dunkle Hülle fiel ab wie eine abgeworfene
-Schlangenhaut, und darunter kam etwas Wunderschönes zum Vorschein. Ein Schiff aus lebendem Kristall, das in allen Farben
-des Spektrums leuchtete.
+The ship exploded in light. Not destructively - transformatively. Its dark hull fell away like a shed snakeskin
+snakeskin, revealing something beautiful underneath. A ship of living crystal that glowed in all the colors
+of the spectrum.
 
-Und von diesem Schiff ging eine Welle aus. Eine Welle der Befreiung, die sich auf die Nachbarschiffe ausbreitete.
+And a wave emanated from this ship. A wave of liberation that spread to the neighboring ships.
 
-**Es funktioniert**, rief Father Martinez triumphierend. **Sie befreien sich selbst!**
+**It's working**, Father Martinez shouted triumphantly. **They're freeing themselves**.
 
-Aber die Vak'tar-Kommandanten reagierten sofort. Die noch kontrollierten Schiffe öffneten das Feuer – nicht auf die
-Erde, sondern auf ihre eigenen befreiten Kameraden.
+But the Vak'tar commanders reacted immediately. The ships that were still under control opened fire - not at the
+Earth, but on their own liberated comrades.
 
-**Sie greifen ihre eigenen Schiffe an**, berichtete Daryl schockiert.
+**They're attacking their own ships**, Daryl reported in shock.
 
-**Sie werden lieber alles zerstören, als die Kontrolle zu verlieren**, erkannte Miriam.
+**They'd rather destroy everything than lose control**, Miriam realized.
 
-Schwarze Energiestrahlen zuckten zwischen den Schiffen hin und her. Befreite Schiffe leuchteten und fielen wieder in
-Dunkelheit. Die Schlacht um jede einzelne Seele hatte begonnen.
+Black energy beams flashed back and forth between the ships. Liberated ships glowed and fell back into
+darkness. The battle for every single soul had begun.
 
-Sarah sah das Chaos und traf eine Entscheidung, die alles verändern würde.
+Sarah saw the chaos and made a decision that would change everything.
 
-"Aida, verbinde mich mit jedem Kommunikationsgerät auf der Erde. Daryl, Miriam, Father Martinez – gebt mir eure Kraft.
-Zephyr und die anderen – verstärkt das Signal."
+"Aida, connect me to every communication device on earth. Daryl, Miriam, Father Martinez - give me your power.
+Zephyr and the others - amplify the signal."
 
-**Was hast du vor?** fragte Daryl.
+**What are you up to?** Daryl asked.
 
-"Etwas, das noch nie versucht wurde. Ich werde versuchen, alle gleichzeitig zu befreien."
+"Something that has never been tried before. I will try to free everyone at the same time."
 
-**Das ist unmöglich**, warnte Zephyr. **Das würde dich töten.**
+**That's impossible**, Zephyr warned. **That would kill you**.
 
-Sarah blickte zu den kämpfenden Schiffen hinauf, zu den Millionen von Seelen, die um ihre Freiheit rangen.
+Sarah looked up at the struggling ships, at the millions of souls fighting for their freedom.
 
-"Dann sterbe ich als Mensch," sagte sie einfach.
+"Then I'll die a human," she said simply.
 
-Sie öffnete ihr Bewusstsein vollständig. Jede Barriere, jeder Schutz, jede Grenze fiel weg. Ihre Kraft, verstärkt durch
-die vier anderen Menschen und die drei Aliens, strömte hinaus wie eine Supernova aus purem Willen.
+She opened her consciousness completely. Every barrier, every protection, every boundary fell away. Her power, reinforced by
+the four other humans and the three aliens, poured out like a supernova of pure will.
 
-**ICH BIN SARAH CHEN**, leuchtete sie mit der Kraft einer Sonne. **ICH BIN EIN MENSCH VON DER ERDE. UND ICH SAGE EUCH:
-IHR SEID FREI.**
+**I AM SARAH CHEN**, she shone with the power of a sun. **I AM A HUMAN BEING FROM THE EARTH. AND I SAY TO YOU:
+YOU ARE FREE**.
 
-Die Botschaft explodierte durch das Sonnensystem. Jedes Vak'tar-Schiff wurde gleichzeitig getroffen. Millionen von
-unterdrückten Bewusstsein hörten sie und erwachten.
+The message exploded through the solar system. Every Vak'tar ship was hit simultaneously. Millions of
+suppressed consciousnesses heard it and awoke.
 
-Für einen Moment schien die Zeit stillzustehen.
+For a moment, time seemed to stand still.
 
-Dann begann das größte Lichtspektakel in der Geschichte der Galaxis.
+Then the greatest light spectacle in the history of the galaxy began.
 
-Schiff für Schiff, Flotte für Flotte, erwachten die Gefangenen. Schwarze Hüllen fielen ab, leuchtende, wunderschöne
-Schiffe kamen zum Vorschein. Jedes anders, jedes ein Kunstwerk seiner befreiten Spezies.
+Ship by ship, fleet by fleet, the prisoners awoke. Black shells fell away, shining, beautiful ships appeared.
+ships emerged. Each one different, each one a work of art of its liberated species.
 
-Aber der Preis war hoch. Sarah sank auf die Knie, ihr Bewusstsein verblasste.
+But the price was high. Sarah sank to her knees, her consciousness fading.
 
-**Sarah!** Miriam eilte zu ihr.
+**Sarah: Miriam rushed to her.
 
-"Ist es... ist es vorbei?" flüsterte Sarah.
+"Is it... Is it over?" whispered Sarah.
 
-Daryl blickte hinauf zu dem, was einmal eine feindliche Armada gewesen war. Jetzt leuchteten dreitausend Schiffe in
-einem Regenbogen aus Farben und Formen. Eine Flotte der Befreiten.
+Daryl looked up at what had once been an enemy armada. Now three thousand ships shone in
+a rainbow of colors and shapes. A fleet of the liberated.
 
-"Es ist vorbei," sagte er leise. "Wir haben gewonnen."
+"It's over," he said quietly. "We've won."
 
-Aber als er wieder hinblickte, sah er etwas, das sein Blut gefrieren ließ.
+But when he looked again, he saw something that made his blood run cold.
 
-Nicht alle Schiffe leuchteten.
+Not all the ships lit up.
 
-Im Zentrum der Flotte, umgeben von einem Dutzend noch immer schwarzer Dreadnoughts, schwebte etwas Neues. Etwas, das
-größer war als alle anderen Schiffe zusammen.
+In the center of the fleet, surrounded by a dozen still black dreadnoughts, hovered something new. Something that
+bigger than all the other ships put together.
 
-Das Mutterschiff der Vak'tar.
+The mothership of the Vak'tar.
 
-Und es kam direkt auf die Erde zu.
+And it came straight towards the earth.
 
-"Sarah," sagte Daryl mit rauer Stimme. "Wir sind noch nicht fertig."
+"Sarah," Daryl said in a raspy voice. "We're not done yet."
 
 ---
 
-## 47 Minuten bis zur Ankunft des Vak'tar-Mutterschiffs
+## 47 minutes until the arrival of the Vak'tar mothership

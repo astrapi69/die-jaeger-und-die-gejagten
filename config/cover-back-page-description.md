@@ -1,19 +1,19 @@
-**Sie kamen im Schlaf. Und veränderten alles.**
+**They came in our sleep. And changed everything.**  
 -----------------------------------------------
 
-Winzig wie Insekten, unaufhaltsam wie eine Idee,  
-die fremden Besucher drangen in die Menschheit ein, lautlos und präzise.  
-Was wie eine Invasion begann, wurde zur leisen Revolution.
+Tiny like insects, unstoppable like an idea,  
+the alien visitors infiltrated humanity—silent and precise.  
+What began as an invasion became a quiet revolution.
 
-Menschen erwachten verändert: gesund, friedlich, klar.  
-Keine Gewalt mehr. Keine Krankheit. Kein Hass.  
-Doch der Preis war unsichtbar,  
-Freiheit, Emotion, Selbstbestimmung.
+People awoke transformed: healthy, peaceful, clear.  
+No more violence. No more disease. No more hate.  
+But the price was invisible—  
+freedom, emotion, self-determination.
 
-Nur wenige spürten, dass etwas fehlte.  
-Ein Rest von Widerstand, ein Flackern von Erinnerung.  
-Als die Wahrheit offenbar wird, steht die Menschheit vor ihrer größten Entscheidung:  
-**Sicherheit oder Freiheit? Kontrolle oder Mitgefühl?**
+Only a few felt that something was missing.  
+A trace of resistance. A flicker of memory.  
+When the truth is revealed, humanity faces its greatest choice:  
+**Safety or freedom? Control or compassion?**
 
-Ein packender Sci-Fi-Roman über Vertrauen, Hoffnung 
-und darüber, was es bedeutet, wirklich menschlich zu sein.
+A gripping sci-fi novel about trust, hope,  
+and what it truly means to be human.

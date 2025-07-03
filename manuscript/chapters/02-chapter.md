@@ -1,253 +1,253 @@
-# Kapitel 2: Die erste Nacht {#kapitel-2}
+# Chapter 2: The first night {#chapter-2}
 
-![Terror beginnt](../../assets/chapter_02_terror.jpg)
+![Terror begins](../../assets/chapter_02_terror.jpg)
 
-## Sarajevo, Bosnien-Herzegowina
+## Sarajevo, Bosnia-Herzegovina
 
-## 3:42 Uhr Ortszeit  {#-sarajevo-1}
+## 3:42 a.m. local time {#-sarajevo-1}
 
-Aida Ramić schoss aus dem Schlaf hoch, als ihr Laptop-Bildschirm explodierte.
+Aida Ramić shot up from her sleep as her laptop screen exploded.
 
-Nicht wörtlich. Aber die Datenströme, die über ihren Monitor rasten, hätten genauso gut Feuer sein können. Hunderte von
-Netzwerk-Anomalien, Kommunikationsspitzen, verschlüsselte Signale – alles gleichzeitig, alles ohne Erklärung.
+Not literally. But the streams of data racing across her monitor could just as easily have been fire. Hundreds of
+network anomalies, communication spikes, encrypted signals - all at the same time, all without explanation.
 
-"Šta se dešava?" murmelte sie und rieb sich die Augen. Ihre Finger flogen über die Tastatur, Befehle eingeben, die sie
-im Schlaf beherrschte. Aida war eine der besten Hacker Osteuropas, auch wenn das offiziell niemand wissen durfte.
+"Šta se dešava?" she mumbled, rubbing her eyes. Her fingers flew over the keyboard, typing commands that she had
+in her sleep. Aida was one of the best hackers in Eastern Europe, even if no one was officially allowed to know that.
 
-Die Daten machten keinen Sinn. Satelliten-Feeds aus der ganzen Welt zeigten das gleiche Muster: plötzliche
-Aktivitätsspitzen um 3:00 Uhr Ortszeit. London, New York, Tokio, Sydney. Als hätte die ganze Welt gleichzeitig den Atem
-angehalten.
+The data made no sense. Satellite feeds from around the world showed the same pattern: sudden spikes in
+spikes in activity at 3:00 a.m. local time. London, New York, Tokyo, Sydney. As if the whole world had been holding its breath
+at the same time.
 
-Dann begannen die Live-Streams.
+Then the live streams began.
 
-Aida öffnete ein Dutzend Fenster gleichzeitig. Nachrichten-Feeds, Social Media, private Überwachungskameras, die sie
-längst gehackt hatte. Was sie sah, ließ ihr das Blut in den Adern gefrieren.
+Aida opened a dozen windows at the same time. News feeds, social media, private surveillance cameras that she had
+had long since hacked. What she saw made her blood run cold.
 
-Menschen auf den Straßen. Aber sie bewegten sich... falsch.
+People on the streets. But they were moving... wrong.
 
-In Manchester trottete eine Frau im Nachthemd die Hauptstraße entlang, ein Küchenmesser in der Hand. In Seoul verließ
-ein Mann sein Apartment und warf Molotow-Cocktails in die Fenster seiner Nachbarn. In Rio zertrümmerte eine ganze
-Familie systematisch die Autos in ihrer Straße.
+In Manchester, a woman trotted down the high street in a nightgown, a kitchen knife in her hand. In Seoul, a man left his
+a man left his apartment and threw Molotov cocktails into his neighbors' windows. In Rio, a whole family systematically
+family systematically smashed the cars in their street.
 
-Alle mit dem gleichen ausdruckslosen Gesicht. Alle mit dem gleichen leeren Starren.
+All with the same expressionless face. All with the same blank stare.
 
-"Ne, ne, ne..." Aida tippte fieberhaft, suchte nach einem gemeinsamen Nenner, einer Erklärung. Ein Computervirus?
-Massenhypnose? Chemische Waffen?
+"Nah, nah, nah..." Aida typed feverishly, searching for a common denominator, an explanation. A computer virus?
+Mass hypnosis? Chemical weapons?
 
-Dann hörte sie das Klopfen an ihrer Tür.
+Then she heard a knock on her door.
 
-Aida lebte allein in einem winzigen Apartment im vierten Stock eines Gebäudes, das seine besten Tage vor dem Krieg
-gesehen hatte. Niemand besuchte sie um diese Zeit. Niemand besuchte sie überhaupt.
+Aida lived alone in a tiny apartment on the fourth floor of a building that had seen its best days before the war.
+had seen its best days before the war. No one visited her at this time of year. No one visited her at all.
 
-Das Klopfen kam wieder. Rhythmisch. Geduldig. Beharrlich.
+The knocking came again. Rhythmically. Patiently. Persistently.
 
-Sie schlich zur Tür und spähte durch den Spion. Ihr Nachbar, Herr Martinović, stand im Flur. Ein pensionierter Lehrer,
-der normalerweise höflich grüßte und seine eigenen Sorgen hatte.
+She crept to the door and peeked through the peephole. Her neighbor, Mr. Martinović, was standing in the hallway. A retired teacher,
+who usually greeted politely and had his own worries.
 
-Aber sein Gesicht...
+But his face...
 
-Es war das gleiche ausdruckslose Starren wie bei den Menschen in den Videos.
+It was the same expressionless stare as the people in the videos.
 
-"Aida," sagte er mit einer Stimme, die seine war und doch nicht seine. "Öffne die Tür. Wir müssen reden."
+"Aida," he said in a voice that was his and yet not his. "Open the door. We need to talk."
 
-Aida wich vom Spion zurück. Ihr Laptop piepte eine Warnung. Neue Daten strömten herein – Berichte über Massaker in
-Krankenhäusern, Piloten, die ihre Flugzeuge abstürzen ließen, Soldaten, die auf ihre eigenen Kameraden schossen.
+Aida backed away from the spy. Her laptop beeped a warning. New data poured in - reports of massacres in hospitals
+hospitals, pilots crashing their planes, soldiers shooting at their own comrades.
 
-Überall auf der Welt. Gleichzeitig.
+Everywhere in the world. At the same time.
 
-"Aida." Martinovićs Stimme war näher jetzt. Als stünde er direkt vor der Tür. "Du kannst nicht für immer da drin
-bleiben. Wir wissen, dass du da bist."
+"Aida." Martinović's voice was closer now. As if he were standing right outside the door. "You can't stay in there forever.
+forever. We know you're there."
 
-*Wir?*
+*We?*
 
-Aida rannte zu ihrem Fenster und blickte hinaus. Auf der Straße standen Menschen. Dutzende von ihnen. Alle schauten zu
-ihrem Fenster hinauf. Alle mit dem gleichen leeren Ausdruck.
+Aida ran to her window and looked out. There were people in the street. Dozens of them. They were all looking
+up to her window. All with the same blank expression.
 
-Ihr Handy klingelte. Eine unbekannte Nummer.
+Her cell phone rang. An unknown number.
 
-"Hallo?" flüsterte sie.
+"Hello?" she whispered.
 
-"Aida Ramić," sagte eine Stimme, die sie nicht kannte. Aber der Akzent... amerikanisch? "Hören Sie zu und stellen Sie
-keine Fragen. Nehmen Sie Ihren Laptop und verlassen Sie das Gebäude. Jetzt."
+"Aida Ramić," said a voice she didn't recognize. But the accent... American? "Listen and don't ask
+no questions. Take your laptop and leave the building. Now."
 
-"Wer ist das? Wie haben Sie—"
+"Who is that? How did you-"
 
-"Das Dach. Es gibt eine Feuerleiter an der Rückseite. Bewegen Sie sich."
+"The roof. There's a fire escape at the back. Move along."
 
-Die Leitung war tot.
+The line was dead.
 
 ---
 
 ## Los Angeles, USA {#-los-angeles-1}
 
-## 6:58 Uhr Ortszeit
+## 6:58 a.m. local time
 
-Officer Daryl Mensah starrte auf die Leiche seiner Partnerin und versuchte zu verstehen, warum seine Hand nicht aufhörte
-zu zittern.
+Officer Daryl Mensah stared at his partner's body, trying to understand why his hand wouldn't stop shaking.
+shaking.
 
-Jenny Martinez lag in einer Blutlache vor der 24-Stunden-Tankstelle, die sie eigentlich nur für eine Routinekontrolle
-anhalten wollten. Drei Schusswunden in der Brust. Präzise. Professionell.
+Jenny Martinez lay in a pool of blood in front of the 24-hour gas station, which they actually just wanted to stop for a routine check.
+wanted to stop. Three gunshot wounds to the chest. Precise. Professional.
 
-Daryl hatte geschossen.
+Daryl had fired.
 
-Aber Jenny hatte zuerst geschossen. Auf das Kind.
+But Jenny had shot first. At the child.
 
-"Dispatch, wir brauchen... wir brauchen alles hier," sprach er ins Funkgerät, seine Stimme rau. "Officer down. Zivilist
-down. Verdächtiger..." Er stockte. "Verdächtiger neutralisiert."
+"Dispatch, we need... we need everything here," he spoke into the radio, his voice raspy. "Officer down. Civilian
+down. Suspect..." He faltered. "Suspect neutralized."
 
-Wie erklärte man, dass die Verdächtige die eigene Partnerin war?
+How did you explain that the suspect was your own partner?
 
-Es hatte um 3 Uhr morgens angefangen. Ein Notruf – häusliche Gewalt in Apartment 12B. Standard-Prozedur. Sie waren
-hingefahren, hatten geklopft. Mrs. Chen, eine Neurologin, die Daryl schon mal bei einer Verkehrskontrolle begegnet war,
-hatte um Hilfe gerufen.
+It had started at 3 o'clock in the morning. An emergency call - domestic violence in apartment 12B. Standard procedure. They had
+driven there, knocked on the door. Mrs. Chen, a neurologist Daryl had encountered before during a traffic stop,
+had called for help.
 
-Aber als sie die Tür öffnete, war Jenny einfach... durchgedreht.
+But when she opened the door, Jenny was just... freaked out.
 
-"Du siehst es auch, nicht wahr?" hatte Jenny geflüstert, ihre Waffe auf Mrs. Chen gerichtet. "Das Ding in ihrem Kopf. Es
-bewegt sich."
+"You see it too, don't you?" Jenny had whispered, pointing her gun at Mrs. Chen. "The thing in her head. It's
+It's moving."
 
-"Jenny, lass die Waffe fallen!"
+"Jenny, drop the gun!"
 
-"Sie sind alle infiziert, Daryl. Siehst du es nicht?" Jennys Augen waren geweitet, ihre Pupillen seltsam klein. "Sie
-haben etwas in sich. Etwas Hungriges."
+"They're all infected, Daryl. Can't you see it?" Jenny's eyes were dilated, her pupils strangely small. "They
+have something in them. Something hungry."
 
-Mrs. Chen hatte versucht zu erklären, dass sie in Ordnung sei, dass sie nur schlecht geträumt hatte. Aber Jenny hörte
-nicht zu. Sie zielte.
+Mrs. Chen had tried to explain that she was all right, that she had just had a bad dream. But Jenny didn't listen.
+not listen. She took aim.
 
-Und dann hatte sie abgedrückt.
+And then she pulled the trigger.
 
-Daryl hatte keine Wahl gehabt.
+Daryl had had no choice.
 
-Jetzt kniete er neben Mrs. Chen, die verwundet, aber am Leben war. "Es ist okay," murmelte er, während er Druck auf die
-Schusswunde an ihrer Schulter ausübte. "Sie schaffen das."
+Now he knelt beside Mrs. Chen, who was wounded but alive. "It's okay," he murmured as he applied pressure to the
+the bullet wound on her shoulder. "You'll be fine."
 
-"Officer," Mrs. Chen griff nach seinem Arm, ihre Augen weit und klar. "Ihre Partnerin... sie war nicht sie selbst,
-oder?"
+"Officer," Mrs. Chen reached for his arm, her eyes wide and clear. "Your partner... she wasn't herself,
+wasn't she?"
 
-Daryl erstarrte. "Was meinen Sie?"
+Daryl froze. "What do you mean?"
 
-"Die Augen. Haben Sie ihre Augen gesehen? Das Flackern?"
+"The eyes. Did you see her eyes? The flickering?"
 
-Er hatte es gesehen. Jennys Augen hatten gepulsiert, als wäre ein schwaches Licht dahinter.
+He had seen it. Jenny's eyes had pulsed as if there was a faint light behind them.
 
-"Es ist nicht ihr Fehler," flüsterte Mrs. Chen. "Sie war nicht mehr sie selbst. Keiner von ihnen ist es."
+"It's not her fault," Mrs. Chen whispered. "She wasn't herself anymore. None of them are."
 
-"Von wem reden Sie?"
+"Who are you talking about?"
 
-Mrs. Chen deutete schwach zum Fenster. Daryl folgte ihrem Blick und sah Menschen auf der Straße stehen. Dutzende von
-ihnen. Alle schauten zu dem Apartment hinauf.
+Mrs. Chen gestured weakly towards the window. Daryl followed her gaze and saw people standing in the street. Dozens of
+of them. All of them were looking up at the apartment.
 
-Alle mit dem gleichen flackernden Licht in den Augen.
+All with the same flickering light in their eyes.
 
-Daryls Funkgerät knisterte: "Alle Einheiten, alle Einheiten. Wir haben multiple Zwischenfälle in der ganzen Stadt.
-Wiederhole: multiple Zwischenfälle. Beamte greifen Zivilisten an. Zivilisten greifen Beamte an. Alle verfügbaren
-Einheiten..."
+Daryl's radio crackled: "All units, all units. We have multiple incidents throughout the city.
+Repeat: multiple incidents. Officers are attacking civilians. Civilians attacking officers. All available
+units..."
 
-Die Stimme des Dispatchers brach ab. Dann, nach einem Moment der Stille: "Hilfe. Jemand... sie sind hier. Sie sind alle
-hier und sie starren mich an und ich kann nicht... ich kann nicht..."
+The dispatcher's voice broke off. Then, after a moment of silence: "Help. Someone... they're here. They're all
+here and they're staring at me and I can't... I can't..."
 
-Stille.
+Silence.
 
-Daryl griff nach seiner Waffe, überprüfte das Magazin. Volle Ladung. Aber wie viele Schüsse würde er brauchen? Und auf
-wen würde er schießen?
+Daryl reached for his gun, checked the magazine. Full load. But how many shots would he need? And at
+who would he shoot?
 
-Mrs. Chen zog an seinem Ärmel. "Die Lichter," keuchte sie. "Haben Sie die goldenen Lichter gesehen?"
+Mrs. Chen tugged at his sleeve. "The lights," she gasped, "have you seen the golden lights?"
 
-Er hatte sie gesehen. Leuchtende Punkte am Himmel, die sich wie lebende Sterne bewegten.
+He had seen them. Glowing dots in the sky that moved like living stars.
 
-"Was sind sie?"
+"What are they?"
 
-"Ich weiß es nicht," antwortete Mrs. Chen. "Aber ich glaube... ich glaube, sie sind hier, um zu helfen."
+"I don't know," Mrs. Chen replied. "But I think... I think they're here to help."
 
 ---
 
-## Brno, Tschechische Republik {#-brno-1}
+## Brno, Czech Republic {#-brno-1}
 
-## 12:34 Uhr Ortszeit
+## 12:34 p.m. local time
 
-Miriam Košová versteckte dreizehn Kinder in der Schulbibliothek und betete, dass die Barrikade vor der Tür halten würde.
+Miriam Košová hid thirteen children in the school library and prayed that the barricade in front of the door would hold.
 
-Draußen auf dem Flur hörte sie Schritte. Langsam. Methodisch. Die Schritte ihrer Kollegen, die Schule für Schule,
-Klassenzimmer für Klassenzimmer durchsuchten.
+She heard footsteps in the corridor outside. Slowly. Methodically. The footsteps of her colleagues, school by school,
+searching classroom by classroom.
 
-Es hatte während der zweiten Stunde angefangen. Miriam unterrichtete gerade Geschichte – die Samtene Revolution,
-Hoffnung und Veränderung – als Herr Novák, der Mathematiklehrer, ins Klassenzimmer gestürmt war.
+It had started during the second lesson. Miriam was teaching history - the Velvet Revolution,
+Hope and Change - when Mr. Novák, the math teacher, stormed into the classroom.
 
-Ohne ein Wort hatte er Anna, ein zehnjähriges Mädchen in der ersten Reihe, gepackt und gegen die Wand geschleudert.
+Without a word, he had grabbed Anna, a ten-year-old girl in the front row, and thrown her against the wall.
 
-"Herr Novák!" Miriam war aufgesprungen. "Was machen Sie da?"
+"Mr. Novák!" Miriam had jumped up. "What are you doing?"
 
-Er hatte sie angesehen mit Augen, die nicht seine waren. Augen, die flackerten wie defekte Glühbirnen. Dann hatte er
-gelächelt.
+He had looked at her with eyes that were not his. Eyes that flickered like faulty light bulbs. Then he had
+smiled.
 
-"Unterricht," hatte er gesagt. "Ich bringe ihnen bei, was Schmerz bedeutet."
+"Lessons," he had said. "I teach them what pain means."
 
-Miriam hatte den Notfallknopf gedrückt, aber es war kein Notfall wie geplant gekommen. Stattdessen waren mehr Lehrer
-aufgetaucht. Alle mit dem gleichen flackernden Blick. Alle mit dem gleichen hungrigen Lächeln.
+Miriam had pressed the emergency button, but there had been no emergency as planned. Instead, more teachers had
+had turned up. All with the same flickering gaze. All with the same hungry smiles.
 
-Sie hatte so viele Kinder wie möglich gesammelt und war zur Bibliothek gerannt. Der sicherste Ort, den sie kannte.
-Bücher als Barrikade, Wissen als Schutz.
+She had gathered as many children as she could and ran to the library. The safest place she knew.
+Books as a barricade, knowledge as protection.
 
-Aber es würde nicht reichen.
+But it wouldn't be enough.
 
-"Frau Košová," flüsterte Tomáš, ein achtjähriger Junge mit großen Augen. "Warum sind die Lehrer so böse geworden?"
+"Mrs. Košová," whispered Tomáš, an eight-year-old boy with big eyes. "Why have the teachers become so angry?"
 
-Miriam hockte sich zu ihm. Wie erklärte man einem Kind, dass die Welt verrückt geworden war? Dass die Menschen, denen
-sie vertrauten, zu Monstern geworden waren?
+Miriam squatted down next to him. How do you explain to a child that the world had gone mad? That the people
+they trusted had become monsters?
 
-"Manchmal," sagte sie leise, "sind Menschen krank. Aber nicht in ihrem Körper. In ihrem..." sie tippte sich an die
-Stirn, "hier drin."
+"Sometimes," she said quietly, "people are sick. But not in their bodies. In their..." she tapped her forehead.
+forehead, "in here."
 
-"Können sie wieder gesund werden?"
+"Can they get better?"
 
-Miriam blickte zum Fenster. Am Himmel sah sie seltsame Lichter tanzen. Goldene Punkte, die sich in Mustern bewegten, die
-fast wie Sprache aussahen.
+Miriam looked at the window. She saw strange lights dancing in the sky. Golden dots that moved in patterns that almost looked
+that almost looked like speech.
 
-"Ich glaube schon," sagte sie und hoffte, dass sie recht hatte.
+"I think so," she said, hoping she was right.
 
-Die Schritte vor der Tür blieben stehen.
+The footsteps outside the door stopped.
 
-"Miriam," rief eine vertraute Stimme. Frau Dvořáková, die Schuldirektorin. "Wir wissen, dass du da drin bist. Mit den
-Kindern."
+"Miriam," called a familiar voice. Mrs. Dvořáková, the principal. "We know you're in there. With the
+children."
 
-Miriam bedeutete den Kindern, still zu sein.
+Miriam told the children to be quiet.
 
-"Du kannst sie nicht für immer beschützen," fuhr die Stimme fort. "Sie müssen lernen. Wir alle müssen lernen, was wir
-wirklich sind."
+"You can't protect them forever," the voice continued. "They have to learn. We all have to learn what we
+really are."
 
-Ein Klopfen an der Tür. Dann ein Kratzen. Als würden Fingernägel über Holz schaben.
+A knock on the door. Then a scratching sound. As if fingernails were scraping over wood.
 
-"Die Menschen sind so zerbrechlich," flüsterte die Direktorin. "So voller unnötiger Emotionen. Liebe. Hoffnung.
-Mitgefühl. Wir können ihnen helfen, das alles loszulassen."
+"People are so fragile," whispered the principal. "So full of unnecessary emotions. Love. Hope.
+Compassion. We can help them let it all go."
 
-Miriam drückte die Kinder näher an sich. Dreizehn kleine Leben, die ihr anvertraut waren. Dreizehn Gründe, nicht
-aufzugeben.
+Miriam hugged the children closer to her. Thirteen little lives entrusted to her. Thirteen reasons not to
+to give up.
 
-Das Kratzen wurde lauter.
+The scratching became louder.
 
-Und dann, plötzlich, verstummte es.
+And then, suddenly, it fell silent.
 
-"Was...?" Die Stimme der Direktorin klang verwirrt. "Nein. Das ist nicht möglich."
+"What...?" The principal's voice sounded confused. "No. That's not possible."
 
-Miriam hörte schnelle Schritte. Weglaufende Schritte.
+Miriam heard quick footsteps. Footsteps running away.
 
-Sie schlich zum Fenster und blickte hinaus. Die goldenen Lichter am Himmel waren heller geworden. Und überall auf dem
-Schulhof standen Menschen – die Lehrer, die Mitarbeiter – und starrten verwirrt umher, als würden sie gerade aus einem
-Traum erwachen.
+She crept to the window and looked out. The golden lights in the sky had become brighter. And all around the
+schoolyard - the teachers, the staff - stood staring around in confusion, as if they had just woken up from a dream.
+awakening from a dream.
 
-"Frau Košová?" Tomáš zupfte an ihrem Ärmel. "Sind die bösen Lehrer jetzt wieder gut?"
+"Mrs. Košová?" Tomáš tugged at her sleeve. "Are the bad teachers good again now?"
 
-Miriam beobachtete, wie Herr Novák sich die Hände vor das Gesicht schlug und zu weinen begann. Wie die Direktorin auf
-die Knie sank und zu schreien anfing.
+Miriam watched as Mr. Novák cupped his hands over his face and began to cry. How the principal
+sank to her knees and began to scream.
 
-"Ich glaube," sagte sie langsam, "jemand hilft ihnen dabei."
+"I think," she said slowly, "someone is helping them."
 
-Aber wer? Und wie lange würde es dauern?
+But who? And how long would it take?
 
-Und was war das für ein Preis, den sie alle dafür bezahlen mussten?
+And what was the price they all had to pay?
 
-Die goldenen Lichter pulsierten einmal hell auf, und Miriam hatte das Gefühl, dass sich alles ändern würde.
+The golden lights pulsed brightly for once, and Miriam had the feeling that everything was about to change.
 
-Sie wusste nur nicht, ob zum Besseren oder zum Schlechteren.
+She just didn't know whether it was for the better or for the worse.
 
 ---

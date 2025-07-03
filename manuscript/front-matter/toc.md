@@ -1,140 +1,140 @@
-# Die Jäger und die Gejagten
+# The hunters and the hunted
 
-**Inhaltsverzeichnis**
+**Table of contents**
 
 ---
 
-## Hauptkapitel
+## Main chapter
 
-### [Kapitel 1: Das Flüstern im Dunkeln](#kapitel-1)
+### [Chapter 1: Whispering in the dark](#chapter-1)
 
-- Dr. Sarah Chens erste Begegnung mit den Vak'tar-Parasiten
-- Die mysteriösen goldenen Lichter am Himmel
-- Der Beginn der Alien-Invasion
+- Dr. Sarah Chen's first encounter with the Vak'tar parasites
+- The mysterious golden lights in the sky
+- The beginning of the alien invasion
 
-### [Kapitel 2: Die erste Nacht](#kapitel-2)
+### [Chapter 2: The first night](#chapter-2)
 
-#### [Sarajevo, Bosnien-Herzegowina](#-sarajevo-1)
+#### [Sarajevo, Bosnia-Herzegovina](#-sarajevo-1)
 
-- Aida Ramić entdeckt globale Netzwerk-Anomalien
-- Erste Flucht vor den Besessenen
+- Aida Ramić discovers global network anomalies
+- First escape from the possessed
 
 #### [Los Angeles, USA](#-los-angeles-1)
 
-- Officer Daryl Mensah und der Partnermord
-- Mrs. Chens Verletzung und erste Erkenntisse
+- Officer Daryl Mensah and the partner murder
+- Mrs. Chen's injury and initial findings
 
-#### [Brno, Tschechische Republik](#-brno-1)
+#### [Brno, Czech Republic](#-brno-1)
 
-- Miriam Košová rettet Kinder vor besessenen Lehrern
-- Die Schule als Schlachtfeld
+- Miriam Košová saves children from obsessed teachers
+- School as a battlefield
 
-### [Kapitel 3: Erste Kontakte](#kapitel-3)
+### [Chapter 3: First contacts](#chapter-3)
 
 #### [San Francisco, USA](#-san-francisco-1)
 
-- Father Ignacio Martinez und das Kirchenmassaker
-- Erste Kommunikation mit den Anari
+- Father Ignacio Martinez and the church massacre
+- First communication with the Anari
 
-#### [Sarajevo, Bosnien-Herzegowina](#-sarajevo-2)
+#### [Sarajevo, Bosnia-Herzegovina](#-sarajevo-2)
 
-- Aidas spektakuläre Flucht über Dächer
-- Mysteröser Retter und Dr. Chen
+- Aida's spectacular escape over rooftops
+- Mysterious rescuer and Dr. Chen
 
 #### [Los Angeles, USA](#-los-angeles-2)
 
-- Daryls Entscheidung am Griffith Observatory
-- Team-Formation der Überlebenden
+- Daryl's decision at Griffith Observatory
+- Team formation of the survivors
 
-### [Kapitel 4: Die Wahrheit über die Sterne](#kapitel-4)
+### [Chapter 4: The truth about the stars](#chapter-4)
 
-- Elyons Offenbarung über die Anari und Vak'tar
-- Die Geschichte von 23 vernichteten Welten
-- Kythara: Die verlorene Heimatwelt
-- Die ultimative Wahl: Evolution oder Tod
+- Elyon's revelation about the Anari and Vak'tar
+- The story of 23 destroyed worlds
+- Kythara: The Lost Homeworld
+- The Ultimate Choice: Evolution or Death
 
-### [Kapitel 5: Metamorphose](#kapitel-5)
+### [Chapter 5: Metamorphosis](#chapter-5)
 
-- Die Transformation der fünf Hauptcharaktere
-- Erwachen der übermenschlichen Fähigkeiten
-- Erste Anari-Technologien und Waffen
-- Aufbruch zu den Vak'tar-Spähern
+- The transformation of the five main characters
+- Awakening of superhuman abilities
+- First Anari technologies and weapons
+- Departure for the Vak'tar scouts
 
-### [Kapitel 6: Erstes Blut](#kapitel-6)
+### [Chapter 6: First Blood](#chapter-6)
 
-#### [Orbit des Mars](#-orbit-des-mars)
+#### [Orbit of Mars](#-orbit-des-mars)
 
-- Erste Weltraum-Schlacht der Menschheit
-- Entdeckung: Vak'tar-Schiffe sind Gefängnisse
-- Revolution: Befreiung statt Zerstörung
-- Gründung der ersten interplanetaren Allianz
+- Mankind's first space battle
+- Discovery: Vak'tar ships are prisons
+- Revolution: liberation instead of destruction
+- Foundation of the first interplanetary alliance
 
-### [Kapitel 7: Der Wendepunkt](#kapitel-7)
+### [Chapter 7: The turning point](#chapter-7)
 
-#### [Erdorbit](#-erdorbit)
+#### [Earth orbit](#-earth orbit)
 
-- Rückkehr mit drei befreiten Alien-Schiffen
-- Globale Pressekonferenz im Weltraum
-- Menschheits-Entscheidung: Vertrauen in die Enhanced Humans
-- Vorbereitung der Erde als galaktisches Flüchtlingszentrum
+- Return with three liberated alien ships
+- Global press conference in space
+- Human decision: Trust in the Enhanced Humans
+- Preparing Earth as a galactic refugee center
 
-### [Kapitel 8: Die letzte Stunde](#kapitel-8)
+### [Chapter 8: The final hour](#chapter-8)
 
-- Ankunft der 3000-Schiffe-Vak'tar-Armada
-- Sarahs galaktische Befreiungsrede
-- Massenbefreiung von Millionen Gefangenen
-- Enthüllung des Vak'tar-Mutterschiffs
+- Arrival of the 3000-ship Vak'tar armada
+- Sarah's galactic liberation speech
+- Mass liberation of millions of prisoners
+- Unveiling of the Vak'tar mothership
 
-### [Kapitel 9: Das Herz der Finsternis](#kapitel-9)
+### [Chapter 9: The Heart of Darkness](#chapter-9)
 
-- Reise ins Vak'tar-Mutterschiff
-- Begegnung mit Malgorth, dem ersten Vak'tar
-- Die therapeutische Konfrontation
-- Malgorths Erlösung und galaktische Heilung
+- Journey to the Vak'tar mothership
+- Encounter with Malgorth, the first Vak'tar
+- The therapeutic confrontation
+- Malgorth's redemption and galactic healing
 
 ---
 
-## Epilog: Eine neue Morgendämmerung
+## Epilogue: A new dawn
 
-### [Zehn Jahre später](#-zehn-jahre-später)
+### [Ten years later](#-ten-years-later)
 
 #### [Griffith Observatory, Los Angeles](#-los-angeles-3)
 
-- Sarah als galaktische Botschafterin
-- Malgorths Läuterungsreise
-- Die wiedererweckte Welt Kythara
+- Sarah as galactic ambassador
+- Malgorth's journey of purification
+- The resurrected world of Kythara
 
-#### [Andromeda-Sektor - Raumschiff "Hoffnung"](#-andromeda-sektor)
+#### [Andromeda sector - spaceship "Hope"](#-andromeda-sector)
 
-- Daryls galaktische Befreiungsmissionen
-- 2000 Welten warten noch auf Befreiung
+- Daryl's galactic liberation missions
+- 2000 worlds still waiting for liberation
 
-#### [Sydney, Australien - Galaktisches Kommunikationszentrum](#-sydney-1)
+#### [Sydney, Australia - Galactic Communication Center](#-sydney-1)
 
-- Aidas galaktisches Netzwerk-Meisterwerk
-- Verbindung aller Spezies des Universums
+- Aida's galactic network masterpiece
+- Connecting all species in the universe
 
-#### [Rom, Italien - Basilika St. Peter](#-rom-1)
+#### [Rome, Italy - Basilica of St. Peter](#-rom-1)
 
-- Father Martinez' interplanetare Hochzeiten
-- Universelle Liebe über Artengrenzen hinweg
+- Father Martinez' interplanetary weddings
+- Universal love across species boundaries
 
-#### [Brno, Tschechische Republik - Heilungszentrum](#-brno-2)
+#### [Brno, Czech Republic - Healing Center](#-brno-2)
 
-- Miriams Trauma-Therapie für Alien-Kinder
-- Transformation von Schmerz zu Weisheit
+- Miriam's trauma therapy for alien children
+- Transformation from pain to wisdom
 
-#### [Irgendwo zwischen den Sternen](#-irgendwo)
+#### [Somewhere among the stars](#-somewhere)
 
-- Elyons und Malgorths philosophische Gespräche
-- Die heilende Galaxis
+- Elyon and Malgorth's philosophical conversations
+- The healing galaxy
 
-#### [Der nächste Morgen](#-der-neue-morgen)
+#### [The next morning](#-the-next-morning)
 
-- Gemeinschaftliche Morgendämmerung
-- Hoffnung für die Zukunft
-- Niemand ist mehr allein
+- Community dawn
+- Hope for the future
+- No one is alone anymore
 
-## [Über den Autor](#-ueber-den-autor)
+## [About the author](#-ueber-den-autor)
 
 ---

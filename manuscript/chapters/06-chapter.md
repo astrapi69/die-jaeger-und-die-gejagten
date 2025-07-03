@@ -1,235 +1,235 @@
-# Kapitel 6: Erstes Blut {#kapitel-6}
+# Chapter 6: First blood {#chapter-6}
 
-![Wiedergutmachung](../../assets/chapter_06_healing.jpg)
+![reparation](../../assets/chapter_06_healing.jpg)
 
-## Orbit des Mars {#-orbit-des-mars}
+## Orbit of Mars {#-orbit-of-mars}
 
-## 11:43 Uhr Erdzeit
+## 11:43 Earth time
 
-Sarah Chen raste mit 50.000 Kilometern pro Stunde auf das erste außerirdische Raumschiff zu, das sie je gesehen hatte,
-und fragte sich, ob sie völlig verrückt geworden war.
+Sarah Chen raced towards the first alien spaceship she had ever seen at 50,000 kilometers per hour,
+and wondered whether she had gone completely mad.
 
-Das Vak'tar-Schiff war ein schwarzer Dorn gegen das Rot des Mars. Kantig, organisch, wie ein riesiges Insekt aus
-lebendem Metall. Es bewegte sich träge durch den Raum, seine Sensoren tasteten methodisch jeden Winkel des Sonnensystems
-ab.
+The Vak'tar ship was a black thorn against the red of Mars. Angular, organic, like a giant insect made of
+living metal. It moved sluggishly through space, its sensors methodically scanning every corner of the solar system.
+solar system.
 
-**Sie haben uns noch nicht bemerkt**, leuchtete Aida von ihrem Schiff aus. **Ihre Technologie ist darauf ausgelegt,
-konventionelle Raumfahrt zu entdecken. Wir fliegen außerhalb ihrer Parameter.**
+**They haven't noticed us yet**, Aida glowered from her ship. **Your technology is designed to detect
+conventional space travel. We are flying outside their parameters.
 
-**Gut**, antwortete Sarah. **Element der Überraschung. Wie Menschen schon immer kämpfen.**
+**Good**, Sarah replied. **Element of surprise. How humans have always fought.
 
-Sie spürte das Gewicht ihrer neuen Verantwortung. Vor wenigen Stunden war sie eine Neurologin gewesen, die schlecht
-geschlafen hatte. Jetzt führte sie die erste interplanetare Mission der Menschheit an.
+She felt the weight of her new responsibility. A few hours ago, she had been a neurologist who had slept badly.
+who had slept badly. Now she was leading humanity's first interplanetary mission.
 
-**Formation beibehalten**, befahl sie. **Daryl und ich gehen frontal ran. Aida, versuch ihre Systeme zu hacken. Father
-Martinez und Miriam, bleibt zurück und deckt uns ab.**
+**Keep formation**, she ordered. **Daryl and I are going head-on. Aida, try to hack their systems. Father
+Martinez and Miriam, stay back and cover us.
 
-**Verstanden**, antworteten vier Stimmen gleichzeitig.
+**Understood**, replied four voices simultaneously.
 
-Das Vak'tar-Schiff wurde größer. Sarah konnte jetzt Details erkennen – Öffnungen in der Hülle, die wie Mäuler aussahen,
-pulsende Adern aus dunklem Licht, die durch die Struktur liefen. Es war nicht nur ein Schiff. Es war ein lebender
-Organismus.
+The Vak'tar ship grew larger. Sarah could see details now - openings in the hull that looked like mouths,
+pulsing veins of dark light running through the structure. It wasn't just a ship. It was a living
+organism.
 
-**Mein Gott**, flüsterte Father Martinez. **Es ist... wunderschön.**
+**My God**, Father Martinez whispered. **It's... beautiful**.
 
-**Wunderschön und tödlich**, korrigierte Daryl. **Wie eine Cobra.**
+**Beautiful and deadly**, Daryl corrected. **Like a Cobra**.
 
-Sarah fokussierte ihre erweiterten Sinne auf das Schiff. Jetzt, da sie näher war, konnte sie die Lebensformen darin
-wahrnehmen. Hunderte von ihnen. Keine. Nicht Lebensformen. Parasiten. Sie krochen durch das Schiff wie Blut durch Adern.
+Sarah focused her enhanced senses on the ship. Now that she was closer, she could see the life forms inside.
+the life forms inside. Hundreds of them. None. Not life forms. Parasites. They crawled through the ship like blood through veins.
 
-**Es ist voller Vak'tar**, meldete sie. **Bereitet euch vor.**
+**It's full of Vak'tar**, she reported. **Prepare yourselves**.
 
-Plötzlich veränderte das feindliche Schiff seine Bewegung. Es drehte sich zu ihnen um wie ein Raubtier, das Beute
-wittert.
+Suddenly, the enemy ship changed its movement. It turned towards them like a predator scenting prey.
+scenting prey.
 
-**Sie haben uns entdeckt**, leuchtete Aida. **Ich versuche ihre Kommunikation zu unterbrechen, aber... ihre Technologie
-ist anders. Organisch. Wie ein Gehirn.**
+**They've spotted us**, Aida glowed. **I'm trying to disrupt their communications, but... their technology
+is different. Organic. Like a brain.
 
-Das Vak'tar-Schiff öffnete eine seiner Maul-Öffnungen, und etwas schoss heraus. Nicht ein Projektil – etwas Lebendiges.
-Eine schwarze Masse, die sich im Raum ausbreitete wie Tinte im Wasser.
+The Vak'tar ship opened one of its mouth openings, and something shot out. Not a projectile - something alive.
+A black mass that spread through space like ink in water.
 
-**Was ist das?** fragte Miriam alarmiert.
+**Miriam asked in alarm.
 
-Sarah spürte es, bevor sie es sah. Millionen winziger Lebensformen, die sich ihnen mit erschreckender Geschwindigkeit
-näherten.
+Sarah felt it before she saw it. Millions of tiny life forms approaching them with terrifying speed.
+approaching them.
 
-**Parasiten-Schwarm**, erkannte sie. **Sie versuchen, unsere Schiffe zu infiltrieren.**
+**Parasite swarm**, she realized. **They're trying to infiltrate our ships**.
 
-**Dann zeigen wir ihnen, dass Menschen nicht mehr so einfach zu erobern sind**, sagte Daryl grimm.
+**Then we'll show them that humans aren't so easy to conquer anymore**, Daryl said grimly.
 
-Sein Schiff verwandelte sich. Das flüssige Licht, aus dem es bestand, härte sich zu etwas aus, das wie geflügelter Stahl
-aussah. Waffen materialisierten sich an seiner Hülle – aber keine Waffen, die Sarah kannte. Sie leuchteten mit der
-gleichen goldenen Energie wie die Anari.
+His ship transformed. The liquid light it was made of hardened into something that looked like winged steel.
+looked like winged steel. Weapons materialized on its hull - but not weapons Sarah knew. They glowed with the
+same golden energy as the Anari.
 
-Daryl feuerte.
+Daryl fired.
 
-Der Lichtstrahl, der aus seinem Schiff schoss, war nicht nur ein Energiestrahl. Er war *intelligent*. Sarah sah, wie er
-sich durch den Parasiten-Schwarm wand, jeden einzelnen Organismus anvisierte und vernichtete.
+The beam of light that shot out of his ship was not just a beam of energy. It was *intelligent*. Sarah saw how it
+through the swarm of parasites, targeting and destroying every single organism.
 
-Die schwarze Masse verdampfte wie Rauch.
+The black mass evaporated like smoke.
 
-**Heilige Scheiße**, leuchtete Daryl. **Das war besser als jede Waffe, die ich je benutzt habe.**
+**Holy shit**, Daryl lit up. **That was better than any weapon I've ever used**.
 
-**Konzentration**, mahnte Sarah. **Das war nur die erste Welle.**
+**Concentration**, warned Sarah. **That was just the first wave**.
 
-Das Vak'tar-Schiff reagierte. Seine gesamte Oberfläche begann zu pulsieren, und Sarah spürte, wie sich etwas in ihrem
-Kopf zu regen begann. Ein vertrautes Summen. Der Versuch einer Übernahme.
+The Vak'tar ship reacted. Its entire surface began to pulsate, and Sarah felt something in her head begin to stir.
+something began to stir in her head. A familiar buzzing. An attempt at a takeover.
 
-*Kleine Lichtwesen*, flüsterte eine kalte Stimme in ihrem Bewusstsein. *Ihr denkt, ihr könnt uns aufhalten? Wir sind
-Legion. Wir sind unvermeidlich.*
+*Little beings of light*, a cold voice whispered in her consciousness. *You think you can stop us? We are
+Legion. We are inevitable.
 
-**Sie versuchen, uns zu übernehmen**, warnte Sarah. **Mentale Barrieren hoch!**
+**They're trying to take us over**, Sarah warned. **Mental barriers up**.
 
-Aber die Stimme lachte nur. *Ihr seid noch Menschen, tief im Inneren. Und Menschen sind schwach. Sie haben Angst.
-Zweifel. Schmerz.*
+But the voice just laughed. *You are still human, deep down. And humans are weak. They are afraid.
+Doubt. Pain.
 
-Plötzlich sah Sarah Visionen. Jenny Martinez, Daryls Partnerin, wie sie auf das Kind zielte. Mrs. Delgado, wie sie das
-Messer hob. All die Menschen, die heute Nacht zu Monstern geworden waren.
+Suddenly Sarah saw visions. Jenny Martinez, Daryl's partner, aiming at the child. Mrs. Delgado, raising the knife.
+Mrs. Delgado raising the knife. All the people who had become monsters tonight.
 
-*Seht ihr?*, flüsterte die Stimme triumphierend. *Ihr seid alle Monster. Wir zeigen euch nur, was ihr wirklich seid.*
+*You see?* the voice whispered triumphantly. *You are all monsters. We're just showing you what you really are.
 
-Für einen Moment zögerte Sarah. War das wahr? Waren sie wirklich nur Bestien mit einer dünnen Schicht Zivilisation?
+Sarah hesitated for a moment. Was that true? Were they really just beasts with a thin layer of civilization?
 
-Dann hörte sie Father Martinez' Stimme, nicht mental, sondern laut und klar über die Kommunikation:
+Then she heard Father Martinez's voice, not mentally, but loud and clear over the comms:
 
-"Vater unser im Himmel, geheiligt werde dein Name..."
+"Our Father in heaven, hallowed be your name..."
 
-**Was machst du?** fragte Daryl.
+**What are you doing?** Daryl asked.
 
-**Etwas sehr Menschliches**, antwortete Father Martinez ruhig. **Ich bete. Für uns alle.**
+**Something very human**, Father Martinez replied calmly. **I pray. For all of us.
 
-Und plötzlich spürte Sarah es. Wärme, die sich durch ihr Bewusstsein ausbreitete. Nicht die kalte Effizienz der
-Anari-Technologie, sondern etwas Tieferes. Älter. Menschlicher.
+And suddenly Sarah felt it. Warmth spreading through her consciousness. Not the cold efficiency of
+Anari technology, but something deeper. Older. More human.
 
-Hoffnung.
+Hope.
 
-*Das ist unmöglich*, zischte die Vak'tar-Stimme, jetzt unsicherer.
+*That's impossible,* the Vak'tar voice hissed, more uncertain now.
 
-**Nein**, leuchtete Sarah mit neuer Klarheit. **Das ist menschlich. Etwas, das ihr nie verstehen werdet.**
+**No**, Sarah shone with renewed clarity. **This is human. Something you'll never understand.
 
-Sie richtete ihren Neuronalen Disruptor auf das feindliche Schiff und feuerte.
+She aimed her neural disruptor at the enemy ship and fired.
 
-Der Strahl war nicht golden wie Daryls Waffen. Er war weiß. Reines, klares Licht, das durch den Raum schnitt wie ein
-Skalpell durch Fleisch.
+The beam was not golden like Daryl's weapons. It was white. Pure, clear light that cut through the room like a scalpel through flesh.
+scalpel through flesh.
 
-Als er das Vak'tar-Schiff traf, geschah etwas Unerwartetes.
+When he met the Vak'tar ship, something unexpected happened.
 
-Das Schiff schrie.
+The ship screamed.
 
-Nicht mit Stimmen, sondern mit einer Frequenz, die Sarah in den Knochen spürte. Ein Schrei aus Millionen von Kehlen,
-Millionen von gequälten Seelen.
+Not with voices, but with a frequency that Sarah could feel in her bones. A scream from millions of throats,
+millions of tortured souls.
 
-**Es sind nicht nur Parasiten**, erkannte Aida plötzlich. **Das Schiff... es besteht aus eroberten Lebensformen. Sie
-haben andere Spezies assimiliert und zu Teilen ihrer Technologie gemacht.**
+**It's not just parasites**, Aida suddenly realized. **The ship... It's made of conquered life forms. They
+have assimilated other species and made them part of their technology.
 
-Sarah sah es jetzt auch. Die "organischen" Teile des Schiffs waren nicht gewachsen – sie waren *einst Lebewesen
-gewesen*. Eroberte Aliens, deren Körper und Geist zu lebenden Komponenten umgeformt worden waren.
+Sarah saw it now, too. The "organic" parts of the ship had not grown - they *had once been living beings*.
+been*. Conquered aliens whose bodies and minds had been transformed into living components.
 
-**Mein Gott**, flüsterte Miriam. **Sie sind Gefangene.**
+**My God**, Miriam whispered. **They're prisoners**.
 
-Father Martinez' Stimme wurde lauter, eindringlicher: "...und führe uns nicht in Versuchung, sondern erlöse uns von dem
-Bösen..."
+Father Martinez's voice became louder, more insistent: "...and lead us not into temptation, but deliver us from evil...".
+evil..."
 
-Sarahs Disruptor-Strahl drang tiefer in das Schiff ein. Überall, wo er hindurchging, hörte das Screaming auf.
-Stattdessen spürte Sarah... Dankbarkeit. Erleichterung. Frieden.
+Sarah's disruptor beam penetrated deeper into the ship. Everywhere it passed through, the screaming stopped.
+Instead, Sarah felt... Gratitude. Relief. Peace.
 
-Sie befreite sie.
+She freed them.
 
-**Das ist es**, leuchtete sie triumphierend. **Wir töten sie nicht. Wir befreien sie.**
+**That's it**, she glowed triumphantly. **We're not killing them. We're freeing them.
 
-Die anderen verstanden sofort. Vier Lichtstrahlen trafen das Vak'tar-Schiff von verschiedenen Seiten. Daryl's adaptive
-Waffen, Aida's Quantenstrahlen, Father Martinez' Heilungsenergie, Miriam's Empathie-Impulse.
+The others understood immediately. Four beams of light hit the Vak'tar ship from different sides. Daryl's adaptive
+weapons, Aida's quantum rays, Father Martinez's healing energy, Miriam's empathic impulses.
 
-Das Schiff begann auseinanderzufallen. Aber nicht destruktiv – es löste sich auf wie eine Blume, die ihre Blütenblätter
-fallen lässt. Millionen von winzigen Lichtpunkten strömten aus seiner Hülle. Befreite Seelen, die endlich ruhen konnten.
+The ship began to fall apart. But not destructively - it disintegrated like a flower that drops its petals.
+dropping its petals. Millions of tiny points of light streamed out of its hull. Liberated souls that could finally rest.
 
-Die eigentlichen Vak'tar – die Parasiten – waren ohne ihre eroberten Wirte plötzlich nackt und verletzlich. Sarah sah
-sie als das, was sie wirklich waren: winzige, desperate Kreaturen, zusammengekauert in der Kälte des Weltraums.
+The actual Vak'tar - the parasites - were suddenly naked and vulnerable without their conquered hosts. Sarah saw
+them for what they really were: tiny, desperate creatures huddled in the cold of space.
 
-**Sie sind so... klein**, leuchtete Miriam mit Mitleid.
+**You're so... small**, Miriam lit up with pity.
 
-**Klein und bösartig**, korrigierte Daryl. Er richtete seine Waffen auf die Parasiten-Cluster.
+**Small and vicious**, Daryl corrected. He aimed his weapons at the parasite clusters.
 
-**Warte**, sagte Sarah. Eine Idee formte sich in ihrem erweiterten Bewusstsein. **Aida, kannst du sie einfangen? Lebend?
+**Wait**, said Sarah. An idea formed in her expanded consciousness. **Aida, can you capture her? Alive?
 **
 
-**Warum sollten wir das wollen?**
+**Why would we want that?**
 
-**Weil sie Informationen haben. Über die Hauptflotte. Über ihre Schwächen.**
+**Because they have information. About the main fleet. About their weaknesses.
 
-Aida's Schiff projizierte ein Energiefeld. Wie ein riesiges Netz sammelte es die verstreuten Vak'tar ein, ohne sie zu
-töten.
+Aida's ship projected an energy field. Like a giant net, it collected the scattered Vak'tar without killing them.
+killing them.
 
-**Gefangen**, meldete sie. **Aber ich warne euch – sie sind immer noch gefährlich.**
+**Caught**, she reported. **But I warn you - they are still dangerous**.
 
-Sarah blickte zu den beiden anderen Vak'tar-Schiffen hinüber, die sich jetzt ihnen näherten. Langsamer, vorsichtiger.
-Sie hatten gesehen, was mit ihrem Kameraden passiert war.
+Sarah looked over at the two other Vak'tar ships that were now approaching them. Slower, more cautious.
+They had seen what had happened to their comrade.
 
-**Nachricht empfangen**, leuchtete Aida plötzlich. **Die anderen Schiffe senden etwas... es ist keine Sprache, die ich
-kenne.**
+**Message received**, Aida suddenly lit up. **The other ships are sending something... it's not a language I know.
+I know.
 
-Father Martinez' Stimme war sanft: **Lass mich versuchen.**
+Father Martinez's voice was soft: **Let me try**.
 
-Er erweiterte sein Bewusstsein, berührte die fremden Signale mit seiner neu erworbenen Empathie.
+He expanded his consciousness and touched the foreign signals with his newly acquired empathy.
 
-**Sie... sie haben Angst**, berichtete er überrascht. **Echte Angst. Und... Verwirrung?**
+**They... They're scared**, he reported in surprise. **Really scared. And... Confusion?**
 
-**Verwirrung worüber?** fragte Sarah.
+**Confusion about what?** Sarah asked.
 
-**Darüber, dass wir ihre Gefangenen befreit haben, anstatt sie zu töten. Das... das ist noch nie passiert.**
+**About the fact that we freed their prisoners instead of killing them. That... that's never happened before.
 
-Sarah spürte eine Idee aufkeimen. Eine verrückte, unmögliche Idee.
+Sarah sensed an idea germinating. A crazy, impossible idea.
 
-**Sendet eine Nachricht zurück**, befahl sie. **Sagt ihnen... sagt ihnen, dass wir nicht ihre Feinde sind. Dass wir hier
-sind, um die Gefangenen zu befreien. Alle Gefangenen.**
+**Send a message back**, she ordered. **Tell them... Tell them we are not their enemies. That we are here
+are here to free the prisoners. All the prisoners**.
 
-**Sarah**, leuchtete Daryl warnend. **Das sind Killer. Monster.**
+**Sarah**, Daryl lit up in warning. **These are killers. Monsters.
 
-**Nein**, antwortete sie mit neuer Klarheit. **Das sind die Vak'tar. Die Parasiten sind die Monster. Aber diese
-Schiffe... sie sind genauso Gefangene wie die Wesen, die sie assimiliert haben.**
+**No**, she replied with renewed clarity. **These are the Vak'tar. The parasites are the monsters. But these
+ships... they are as much prisoners as the beings they have assimilated.
 
-Ein langer Moment der Stille. Dann antworteten die anderen beiden Schiffe.
+A long moment of silence. Then the other two ships responded.
 
-Nicht mit Waffen. Sondern mit einer Nachricht.
+Not with weapons. But with a message.
 
-Father Martinez übersetzte: **Sie fragen... sie fragen, ob wir ihnen auch helfen können.**
+Father Martinez translated: **They ask... They ask if we can help them too.
 
-Sarah blickte auf die Erde hinunter, diesen blauen Marmor, der so klein und verletzlich aussah. In siebzehn Stunden
-würde eine Flotte von zweitausend solcher Schiffe eintreffen. Jedes voller Millionen von Gefangenen und Tausenden von
-Parasiten.
+Sarah looked down at the earth, this blue marble that looked so small and vulnerable. In seventeen hours
+a fleet of two thousand such ships would arrive. Each full of millions of prisoners and thousands of
+parasites.
 
-Eine unmögliche Schlacht. Außer...
+An impossible battle. Except...
 
-**Ja**, leuchtete sie zu den Vak'tar-Schiffen hinüber. **Wir können euch helfen. Wir können euch alle helfen.**
+**Yes**, she beamed over to the Vak'tar ships. **We can help you. We can help you all.
 
-**Sarah**, warnte Aida. **Das ist ein enormes Risiko.**
+**Sarah**, Aida warned. **This is an enormous risk**.
 
-**Das ist Hoffnung**, korrigierte Father Martinez. **Etwas sehr, sehr Menschliches.**
+**This is hope**, Father Martinez corrected. **Something very, very human.
 
-Die beiden feindlichen Schiffe kamen näher. Vorsichtig, wie wilde Tiere, die zum ersten Mal Freundlichkeit erfahren.
+The two enemy ships came closer. Cautiously, like wild animals experiencing friendliness for the first time.
 
-**Wenn das funktioniert**, leuchtete Daryl, **dann führen wir nicht nur eine Schlacht. Wir führen eine Befreiung.**
+**If this works**, Daryl lit up, **then we're not just fighting a battle. We're fighting a liberation.
 
-**Und wenn es nicht funktioniert?** fragte Miriam.
+**And if it doesn't work?** asked Miriam.
 
-Sarah blickte zu ihren vier Gefährten hinüber – diesen unmöglichen Menschen, die zu etwas Neuem geworden waren, aber
-ihre Menschlichkeit nicht verloren hatten.
+Sarah looked over at her four companions - these impossible people who had become something new, but had not lost their humanity.
+had not lost their humanity.
 
-**Dann sterben wir als das, was wir sind. Als Menschen, die versucht haben, das Richtige zu tun.**
+**Then we die as what we are. As people who have tried to do the right thing.
 
-Das erste befreite Vak'tar-Schiff näherte sich ihrem Verband. Seine organischen Teile begannen zu leuchten – nicht mit
-dem kalten Licht der Parasiten, sondern mit etwas Wärmerem.
+The first liberated Vak'tar ship approached their convoy. Its organic parts began to glow - not with the cold light of the
+the cold light of the parasites, but with something warmer.
 
-**Es transformiert sich**, berichtete Aida erstaunt. **Die befreiten Komponenten... sie bilden etwas Neues.**
+**It's transforming**, Aida reported in amazement. **The liberated components... they form something new**.
 
-**Eine Allianz**, sagte Sarah lächelnd. **Eine Allianz zwischen Menschen und allen, die frei sein wollen.**
+**An alliance**, Sarah said with a smile. **An alliance between humans and all those who want to be free**.
 
-Sie blickte hinaus zu den Sternen, wo die Vak'tar-Hauptflotte näher kam.
+She looked out at the stars, where the Vak'tar main fleet was approaching.
 
-**Sendet eine Nachricht zur Erde**, befahl sie. **Sagt ihnen, wir kommen heim. Und wir bringen Hilfe mit.**
+**Send a message to Earth**, she ordered. **Tell them we're coming home. And we're bringing help.
 
-Der Krieg um die Erde hatte gerade eine völlig neue Wendung genommen.
+The war for Earth had just taken a completely new turn.
 
 ---
 
-## 16 Stunden, 47 Minuten bis zur Ankunft der Vak'tar-Hauptflotte
+## 16 hours, 47 minutes until the arrival of the Vak'tar main fleet

@@ -1,7 +1,6 @@
-**Draven Quantum** schreibt Geschichten an der Grenze zwischen technologischem Staunen und menschlicher Tiefe.  
-Mit einem Hintergrund in Kognitionswissenschaften und einer Leidenschaft für außerirdische Intelligenz entwirft er
-Zukunftsvisionen, die gleichermaßen erschüttern und Hoffnung spenden.
+**Draven Quantum** writes stories at the intersection of technological wonder and human depth.  
+With a background in cognitive science and a passion for extraterrestrial intelligence, he envisions futures that both
+unsettle and inspire hope.
 
-Nach seinem gefeierten Debüt _Schatten über New Eden_ widmet er sich in _Die Jäger und die Gejagten_ einer stillen
-Invasion, die unsere Vorstellung von Fortschritt, Freiheit und Mitgefühl herausfordert.
-
+After his acclaimed debut _Shadows over New Eden_, he now turns in _The Hunters and the Hunted_ to a silent invasion
+that challenges our ideas of progress, freedom, and compassion.

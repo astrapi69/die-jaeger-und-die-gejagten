@@ -1,295 +1,295 @@
-# Kapitel 3: Erste Kontakte  {#kapitel-3}
+# Chapter 3: First contacts {#chapter-3}
 
-![Der Widerstand](../../assets/chapter_03_resistance.jpg)
+The resistance](../../assets/chapter_03_resistance.jpg)
 
-## San Francisco, USA  {#-san-francisco-1}
+## San Francisco, USA {#-san-francisco-1}
 
-## 4:47 Uhr Ortszeit
+## 4:47 a.m. local time
 
-Father Ignacio Martinez kniete zwischen den Leichen von sechzehn Gemeindemitgliedern und betete zu einem Gott, der heute
-Nacht sehr weit weg zu sein schien.
+Father Ignacio Martinez knelt between the bodies of sixteen parishioners and prayed to a God who seemed very far away tonight.
+seemed very far away tonight.
 
-Sie waren in die Kirche gekommen, als die Gewalt begann. Suchende, Verlorene, Familien mit Kindern – alle baten um
-Schutz vor dem Wahnsinn, der die Straßen erfasst hatte. Ignacio hatte die Türen geöffnet, wie er es immer getan hatte.
+They had come to the church when the violence began. Seekers, the lost, families with children - all asking for
+protection from the madness that had gripped the streets. Ignacio had opened the doors, as he always did.
 
-Er hatte nicht gewusst, dass einige von ihnen bereits... verändert waren.
+He hadn't known that some of them were already... were already changed.
 
-Mrs. Delgado war die erste gewesen. Eine 67-jährige Großmutter, die jeden Sonntag in der ersten Reihe saß und Kekse für
-den Gemeindekaffee backte. Sie hatte ein Messer aus ihrer Handtasche gezogen und war auf die Familie neben ihr
-losgegangen.
+Mrs. Delgado had been the first. A 67-year-old grandmother who sat in the front row every Sunday and baked cookies for the church coffee.
+baking cookies for the church coffee. She had pulled a knife out of her handbag and attacked the family next to her.
+at the family next to her.
 
-Dann war es eine Kettenreaktion geworden.
+Then it became a chain reaction.
 
-Ignacio hatte versucht zu helfen, hatte versucht zu verstehen. Aber als er in Mrs. Delgados Augen blickte – die
-flackernden, unmenschlichen Augen – hatte er gewusst, dass das nicht mehr die Frau war, die er taufte, traute und
-begrub.
+Ignacio had tried to help, had tried to understand. But when he looked into Mrs. Delgado's eyes - the
+flickering, inhuman eyes - he had known that this was no longer the woman he had baptized, married and buried.
+buried.
 
-"Padre," krächzte eine schwache Stimme.
+"Padre," croaked a weak voice.
 
-Ignacio drehte sich um. Miguel Santos, ein vierzehnjähriger Junge, lag hinter dem Altar. Drei tiefe Kratzer zogen sich
-über seine Brust, aber er atmete noch.
+Ignacio turned around. Miguel Santos, a fourteen-year-old boy, was lying behind the altar. Three deep scratches ran across his chest
+across his chest, but he was still breathing.
 
-"Miguel." Ignacio eilte zu ihm. "Hab keine Angst. Du bist in Sicherheit."
+"Miguel." Ignacio hurried to him. "Don't be afraid. You're safe."
 
-"Nein," flüsterte der Junge. "Niemand ist sicher. Sie... sie sind in unseren Köpfen, Padre. Ich kann sie hören.
-Flüstern."
+"No," the boy whispered. "No one is safe. They... they're in our heads, Padre. I can hear them.
+Whispering."
 
-Ignacios Blut gefror. "Was flüstern sie?"
+Ignacio's blood froze. "What are they whispering?"
 
-"Dass... dass Gott tot ist. Dass es nur noch uns gibt. Und dass wir alle lernen müssen, was echte Macht bedeutet."
+"That... that God is dead. That there is only us left. And that we all have to learn what real power means."
 
-Miguel griff nach Ignacios Handgelenk. Seine Augen flackerten.
+Miguel grabbed Ignacio's wrist. His eyes flickered.
 
-"Es tut mir leid, Padre."
+"I'm sorry, Padre."
 
-Der Junge bewegte sich schneller, als ein Verwundeter sollte. Das Messer – Mrs. Delgados Messer – blitzte auf.
+The boy moved faster than a wounded man should. The knife - Mrs. Delgado's knife - flashed.
 
-Ignacio rollte sich weg, das Messer verfehlte seinen Hals um Zentimeter. Miguel kam auf die Füße, bewegte sich ruckartig
-wie eine kaputte Marionette.
+Ignacio rolled away, the knife missing his neck by centimeters. Miguel got to his feet, moving jerkily
+like a broken marionette.
 
-"Miguel, das bist nicht du!" Ignacio wich zurück. "Kämpfe dagegen an!"
+"Miguel, it's not you!" Ignacio backed away. "Fight it!"
 
-"Kämpfen?" Miguel lachte, aber es war nicht seine Stimme. "Warum sollte er kämpfen? Wir geben ihm Stärke. Klarheit.
-Zweck."
+"Fight?" Miguel laughed, but it wasn't his voice. "Why should he fight? We give him strength. Clarity.
+Purpose."
 
-"Du gibst ihm Tod."
+"You're giving him death."
 
-"Wir geben ihm Evolution."
+"We give him evolution."
 
-Miguel sprang vorwärts. Ignacio griff nach dem schweren Silberkreuz auf dem Altar und schwang es. Es traf den Jungen an
-der Schläfe, und er ging zu Boden.
+Miguel jumped forward. Ignacio reached for the heavy silver cross on the altar and swung it. It hit the boy on the
+on the temple and he fell to the ground.
 
-Für einen Moment waren Miguels Augen wieder normal. Verängstigt. Verwirrt.
+For a moment, Miguel's eyes were normal again. Frightened. Confused.
 
-"Padre? Was... was ist passiert? Warum tut alles so weh?"
+"Padre? What... what happened? Why does everything hurt so much?"
 
-Dann flackerten die Augen wieder, und Miguel grinste.
+Then his eyes flickered again and Miguel grinned.
 
-"Du kannst uns nicht alle töten, Priester. Wir sind bereits zu viele."
+"You can't kill us all, priest. There are already too many of us."
 
-Ignacio hörte Schritte vor der Kirche. Viele Schritte.
+Ignacio heard footsteps outside the church. Many footsteps.
 
-Er rannte zum Fenster und blickte hinaus. Hunderte von Menschen strömten auf die Kirche zu. Alle mit dem gleichen
-flackernden Blick. Alle mit dem gleichen hungrigen Lächeln.
+He ran to the window and looked out. Hundreds of people were streaming towards the church. All with the same
+flickering gaze. All with the same hungry smile.
 
-"Mein Gott," flüsterte er.
+"My God," he whispered.
 
-"Gott," sagte Miguel, der wieder auf den Beinen war, "ist nicht hier."
+"God," said Miguel, who was on his feet again, "is not here."
 
-Plötzlich explodierte Licht durch die Kirchenfenster. Nicht das warme Licht der Buntglasfenster, sondern etwas Kälteres,
-Reineres. Goldenes Licht, das die gesamte Kirche erfüllte.
+Suddenly, light exploded through the church windows. Not the warm light of the stained glass windows, but something colder,
+purer. A golden light that filled the entire church.
 
-Miguel schrie auf und fiel wieder zu Boden. Seine Augen hörten auf zu flackern.
+Miguel cried out and fell to the ground again. His eyes stopped flickering.
 
-"Padre?" Seine Stimme war wieder die eines verängstigten Jungen. "Ich erinnere mich an alles. Oh Gott, was habe ich
-getan?"
+"Padre?" His voice was again that of a frightened boy. "I remember everything. Oh God, what have I
+done?"
 
-Ignacio half ihm auf die Füße. "Es warst nicht du, Sohn."
+Ignacio helped him to his feet. "It wasn't you, son."
 
-Draußen hörten sie Verwirrung. Schreie der Orientierungslosigkeit, nicht der Wut.
+Outside, they heard confusion. Cries of disorientation, not anger.
 
-Ignacio öffnete vorsichtig die Kirchentür. Die Menschen, die noch vor Minuten wie ein Mob gewirkt hatten, standen jetzt
-verwirrt umher. Viele weinten. Andere starrten ihre eigenen Hände an, als würden sie sie zum ersten Mal sehen.
+Ignacio carefully opened the church door. The people, who had seemed like a mob only minutes ago, were now standing around
+around in confusion. Many were crying. Others stared at their own hands as if they were seeing them for the first time.
 
-Am Himmel tanzten die goldenen Lichter in Mustern, die fast wie... Sprache aussahen.
+In the sky, the golden lights danced in patterns that almost looked like... language.
 
-"Was sind sie?" flüsterte Miguel.
+"What are they?" whispered Miguel.
 
-"Ich weiß es nicht," antwortete Ignacio. "Aber ich glaube, sie sind hier, um zu helfen."
+"I don't know," Ignacio replied. "But I think they're here to help."
 
-Eines der Lichter schwebte näher. Es pulsierte, und Ignacio hörte... nicht hörte, sondern *verstand* eine Stimme:
+One of the lights hovered closer. It pulsed, and Ignacio heard... not heard, but *understood* a voice:
 
-*Friede sei mit dir, Hüter des Glaubens. Wir sind gekommen, um das Unrecht zu korrigieren.*
+*Peace be with you, guardian of the faith. We have come to right the wrongs.
 
 ---
 
-## Sarajevo, Bosnien-Herzegowina {#-sarajevo-2}
+## Sarajevo, Bosnia-Herzegovina {#-sarajevo-2}
 
-## 5:23 Uhr Ortszeit
+## 5:23 a.m. local time
 
-Aida Ramić balancierte auf dem schmalen Fenstersims im sechsten Stock und fragte sich, ob Hacker-Skills beim Fallen
-helfen würden.
+Aida Ramić balanced on the narrow windowsill on the sixth floor and wondered if hacking skills would help her fall.
+would help.
 
-Die Feuerleiter, die der mysteriöse Anrufer erwähnt hatte, war seit zehn Jahren verrostet. Drei Sprossen fehlten, und
-der Rest sah aus, als würde er bei der ersten Berührung zusammenbrechen.
+The fire escape that the mysterious caller had mentioned had been rusted for ten years. Three rungs were missing, and
+and the rest looked as if it would collapse at the first touch.
 
-Unter ihr standen immer noch die besessenen Nachbarn. Sie schauten nicht mehr zu ihrem Fenster hinauf – sie warteten
-einfach. Geduldig. Wie Spinnen in einem Netz.
+The possessed neighbors were still standing below her. They no longer looked up at her window - they just waited.
+simply. Patiently. Like spiders in a web.
 
-Ihr Laptop war in einem wasserdichten Rucksack verstaut. Zwanzig Kilo beste Hacker-Hardware auf dem Rücken, während sie
-versuchte, nicht abzustürzen.
+Her laptop was stowed in a waterproof backpack. Twenty kilos of the best hacker hardware on her back while she
+trying not to fall.
 
-*Genial, Aida*, dachte sie. *Du stirbst nicht durch Aliens, sondern durch Sturz.*
+*Genius, Aida*, she thought. *You don't die from aliens, you die from falling*.
 
-Ihr Handy vibrierte. Eine SMS von der unbekannten Nummer:
+Her cell phone vibrated. A text message from the unknown number:
 
-*Nordwestecke. Weißer Van. Jetzt bewegen.*
+*Northwest corner. White van. Moving now.
 
-Aida blickte in die Richtung. Tatsächlich – ein weißer Lieferwagen mit laufendem Motor. Am Steuer eine Frau mit kurzen
-grauen Haaren.
+Aida looked in that direction. Sure enough - a white van with the engine running. At the wheel was a woman with short
+gray hair.
 
-*Wer zum Teufel...*
+*Who the hell...*
 
-Keine Zeit für Fragen. Die Menschen unten hatten begonnen, sich zu bewegen. Alle gleichzeitig, alle in Richtung des
-Gebäudeeingangs.
+No time for questions. The people below had started to move. All at the same time, all in the direction of the
+entrance to the building.
 
-Aida atmete tief durch und sprang.
+Aida took a deep breath and jumped.
 
-Die Feuerleiter ächzte, hielt aber. Sprosse für Sprosse arbeitete sie sich nach unten, jede Bewegung ein kleines Wunder
-des nicht-Sterbens.
+The fire escape groaned, but held. Rung by rung, it worked its way down, each movement a small miracle of not dying.
+of not dying.
 
-Drei Meter über dem Boden brach die letzte Sprosse.
+The last rung broke three meters above the ground.
 
-Sie fiel, landete hart auf dem Asphalt. Schmerz schoss durch ihr Handgelenk, aber nichts war gebrochen.
+She fell, landing hard on the asphalt. Pain shot through her wrist, but nothing was broken.
 
-"Hier!" Die Frau im Van winkte sie heran.
+"Here!" The woman in the van waved her over.
 
-Aida rannte. Hinter ihr hörte sie die mechanischen Schritte der Besessenen, die um das Gebäude liefen.
+Aida ran. Behind her, she heard the mechanical footsteps of the possessed running around the building.
 
-Sie sprang in den Van, die Frau gab Gas.
+She jumped into the van and the woman accelerated.
 
-"Wer sind Sie?" keuchte Aida.
+"Who are you?" gasped Aida.
 
-"Dr. Sarah Chen," antwortete die Frau, während sie durch die leeren Straßen raste. "Neurologin aus den USA. Und Sie sind
-Aida Ramić, Hackerin und eine der wenigen Menschen auf diesem Planeten, die verstehen könnte, was gerade passiert."
+"Dr. Sarah Chen," the woman replied as she raced through the empty streets. "Neurologist from the USA. And you are
+Aida Ramić, hacker and one of the few people on this planet who could understand what's happening."
 
-"Woher wissen Sie—"
+"How do you know-"
 
-"Das erkläre ich später. Können Sie Ihre Computer hier zum Laufen bringen?" Sarah deutete auf eine Reihe von Laptops auf
-dem Rücksitz.
+"I'll explain that later. Can you get your computers up and running here?" Sarah pointed to a row of laptops in the back seat.
+the back seat.
 
-Aida sah genauer hin. Militärische Hardware, Verschlüsselungssoftware, Satelliten-Uplinks. "Wer hat Ihnen das gegeben?"
+Aida took a closer look. Military hardware, encryption software, satellite uplinks. "Who gave you this?"
 
-"Die gleichen Leute, die mir Ihre Adresse gegeben haben." Sarah bog scharf rechts ab. "Die goldenen Lichter."
+"The same people who gave me your address." Sarah took a sharp right. "The golden lights."
 
-Als hätte sie ein Stichwort gegeben, leuchtete der Himmel über ihnen auf. Die Lichter formten sich zu Mustern, zu
-Symbolen, fast wie...
+As if she had given a cue, the sky above them lit up. The lights formed themselves into patterns, into
+symbols, almost like...
 
-"Koordinaten," flüsterte Aida. "Sie zeigen uns Koordinaten."
+"Coordinates," Aida whispered. "They're showing us coordinates."
 
-"Wohin?"
+"Where to?"
 
-Aida tippte fieberhaft auf einem der Laptops. Die Symbole übersetzten sich in Zahlen, die Zahlen in Positionen. "Los
-Angeles. Ein Parkplatz in der Nähe von... einer Polizeistation?"
+Aida typed feverishly on one of the laptops. The symbols translated into numbers, the numbers into positions. "Los
+Angeles. A parking lot near... a police station?"
 
-Sarah lächelte grimm. "Dann treffen wir dort einen Polizisten."
+Sarah smiled grimly. "Then we'll meet a policeman there."
 
 ---
 
 ## Los Angeles, USA {#-los-angeles-2}
 
-## 7:15 Uhr Ortszeit
+## 7:15 a.m. local time
 
-Daryl Mensah saß in seinem Streifenwagen und starrte auf das Funkgerät, das seit einer Stunde nur noch Stille sendete.
+Daryl Mensah sat in his patrol car and stared at the radio, which had been transmitting nothing but silence for an hour.
 
-Mrs. Chen war in ein Krankenhaus gebracht worden – eines der wenigen, das noch funktionierte. Die meisten medizinischen
-Einrichtungen waren... kompromittiert. Ärzte, die ihre Patienten töteten. Krankenschwestern, die Gift in die
-IV-Leitungen spritzten.
+Mrs. Chen had been taken to a hospital - one of the few that was still functioning. Most of the medical
+facilities were... compromised. Doctors who killed their patients. Nurses who injected poison into the
+IV lines.
 
-Die Welt war verrückt geworden.
+The world had gone mad.
 
-Daryl hatte versucht, zur Station zurückzufahren, aber die Zufahrt war blockiert. Nicht von Barrikaden – von Leichen.
-Seine Kollegen hatten sich gegenseitig umgebracht.
+Daryl had tried to drive back to the station, but the access road was blocked. Not by barricades - by corpses.
+His colleagues had killed each other.
 
-Jetzt parkte er auf einem leeren Parkplatz und fragte sich, was ein Polizist macht, wenn es keine Polizei mehr gibt.
+Now he parked in an empty parking lot and wondered what a policeman does when there are no more police.
 
-Sein Funkgerät knisterte plötzlich zum Leben:
+His radio suddenly crackled to life:
 
-"Officer Mensah? Hier ist Dr. Sarah Chen. Können Sie mich hören?"
+"Officer Mensah? This is Dr. Sarah Chen. Can you hear me?"
 
-Daryl griff nach dem Mikrofon. "Dr. Chen? Ich dachte, Sie wären im Krankenhaus."
+Daryl reached for the microphone. "Dr. Chen? I thought you were in the hospital."
 
-"War ich. Aber die goldenen Lichter... sie haben mir gezeigt, wo Sie sind. Können Sie zum Griffith Observatory kommen?"
+"I was. But the golden lights... they showed me where you are. Can you come to the Griffith Observatory?"
 
-"Die Lichter haben Ihnen was gezeigt?"
+"The lights showed you what?"
 
-"Es ist schwer zu erklären. Aber ich glaube, wir sind nicht die einzigen Überlebenden. Und ich glaube, jemand versucht,
-uns zu helfen."
+"It's difficult to explain. But I don't think we're the only survivors. And I think someone is trying
+to help us."
 
-Daryl blickte zum Himmel. Die goldenen Lichter schwebten dort, heller jetzt im Morgenlicht. Sie bewegten sich in
-Mustern, die fast wie...
+Daryl looked up at the sky. The golden lights hovered there, brighter now in the morning light. They moved in
+patterns that almost looked like...
 
-"Navigation," murmelte er.
+"Navigation," he muttered.
 
-"Genau. Officer, wir haben nicht viel Zeit. Was auch immer diese Dinger in den Menschen sind, sie organisieren sich. Und
-die Lichter... ich glaube, sie sind hier, um sie zu stoppen."
+"Exactly. Officer, we don't have much time. Whatever these things are in people, they're organizing themselves. And
+the lights... I think they're here to stop them."
 
-Daryl startete den Motor. "Bin unterwegs."
+Daryl started the engine. "On my way."
 
-Während er durch die verlassenen Straßen fuhr, sah er sie überall. Menschen, die orientierungslos umherwanderten. Keine
-flackernden Augen mehr, aber auch keine Klarheit. Als wären sie zwischen zwei Zuständen gefangen.
+As he drove through the deserted streets, he saw them everywhere. People wandering around disoriented. No more
+flickering eyes, but no clarity either. As if they were caught between two states.
 
-Das Radio knisterte wieder: "Daryl? Hier ist Father Martinez. Ich bin auch auf dem Weg zum Observatory. Sarah hat mir
-erklärt... na ja, so gut es ging."
+The radio crackled again: "Daryl? This is Father Martinez. I'm on my way to the Observatory too. Sarah told me
+explained... well, as best she could."
 
-Eine neue Stimme meldete sich: "Hier ist Miriam Košová. Ich komme aus Brno. Die Kinder sind in Sicherheit, aber ich
-glaube, ich muss mitkommen."
+A new voice spoke up: "This is Miriam Košová. I'm from Brno. The children are safe, but I
+I think I have to come with you."
 
-"Und ich bin Aida," eine jüngere Stimme mit osteuropäischem Akzent. "Ich habe Daten. Viele Daten. Und ich glaube, ich
-weiß, was diese Parasiten wollen."
+"And I am Aida," a younger voice with an Eastern European accent. "I have data. Lots of data. And I think I
+know what these parasites want."
 
-Daryl schüttelte den Kopf. Vor sechs Stunden war er ein normaler Cop gewesen. Jetzt war er Teil einer internationalen
-Verschwörung gegen außerirdische Parasiten.
+Daryl shook his head. Six hours ago he had been a normal cop. Now he was part of an international
+conspiracy against alien parasites.
 
-"Also," sagte er ins Mikrofon, "treffen wir uns und retten die Welt?"
+"So," he said into the microphone, "let's get together and save the world?"
 
-"So ungefähr," antwortete Sarah. "Aber zuerst müssen wir verstehen, mit wem wir es zu tun haben. Sowohl mit den Bösen...
-als auch mit den Guten."
+"Something like that," Sarah replied. "But first we need to understand who we're dealing with. Both the bad guys...
+As well as the good guys."
 
-Daryl bog in die Zufahrt zum Observatory ein. Vor ihm standen bereits mehrere Fahrzeuge. Menschen stiegen aus – normale
-Menschen mit erschöpften Gesichtern und wachen Augen.
+Daryl turned into the access road to the observatory. There were already several vehicles in front of him. People were getting out - normal
+people with exhausted faces and alert eyes.
 
-Und über ihnen schwebte eines der goldenen Lichter. Größer als die anderen. Heller.
+And above them hovered one of the golden lights. Bigger than the others. Brighter.
 
-Als Daryl ausstieg, hörte er eine Stimme in seinem Kopf. Nicht invasiv wie die der Parasiten. Sanft. Einladend.
+As Daryl got out, he heard a voice in his head. Not invasive like the parasite's. Gentle. Inviting.
 
-*Willkommen, Krieger. Wir haben auf dich gewartet.*
+*Welcome, warrior. We've been waiting for you.
 
-"Wer sind Sie?" fragte er laut.
+"Who are you?" he asked loudly.
 
-*Wir sind die, die kommen, wenn Welten in Gefahr sind. Und eure Welt... ist in großer Gefahr.*
+*We are the ones who come when worlds are in danger. And your world... is in great danger.
 
-Sarah Chen trat zu ihm. "Sie kommunizieren telepathisch. Aber nicht wie die Parasiten. Sie zwingen sich nicht auf.
-Sie... bitten um Erlaubnis."
+Sarah Chen approached him. "They communicate telepathically. But not like the parasites. They don't force themselves on you.
+They... ask for permission."
 
-"Erlaubnis wofür?"
+"Permission for what?"
 
-*Um euch die Wahrheit zu zeigen. Um euch zu erklären, wer euch angegriffen hat. Und warum wir zu spät kamen.*
+*To show you the truth. To explain to you who attacked you. And why we were too late.
 
-Das goldene Licht pulsierte, und plötzlich sah Daryl Bilder in seinem Kopf. Andere Welten, andere Spezies. Und überall
-das gleiche Muster: Parasitäre Invasionen, gefolgt von Rettung. Aber nicht immer rechtzeitig.
+The golden light pulsed, and suddenly Daryl saw images in his head. Other worlds, other species. And everywhere
+the same pattern: parasitic invasions, followed by rescue. But not always in time.
 
-*Die Vak'tar sind Verbrecher*, erklärte die Stimme. *Ausgestoßene unserer galaktischen Gemeinschaft. Wir jagen sie seit
-Jahrhunderten. Aber sie sind... schlau geworden.*
+*The Vak'tar are criminals,* the voice explained. *Outcasts of our galactic community. We have been hunting them for
+centuries. But they've... smart.
 
-"Und wer sind Sie?" fragte Aida, die einen Laptop in den Händen hielt.
+"And who are you?" asked Aida, holding a laptop in her hands.
 
-*Wir sind die Anari. Und wir schulden eurer Spezies eine Entschuldigung... und Wiedergutmachung.*
+*We are the Anari. And we owe your species an apology... and make amends.
 
-Father Martinez trat vor. "Wiedergutmachung wofür?"
+Father Martinez stepped forward. "Restitution for what?"
 
-*Dafür, dass wir sie nicht rechtzeitig gestoppt haben. Dafür, dass so viele von euch gelitten haben. Und dafür...*
+*For not stopping them in time. For making so many of you suffer. And for...*
 
-Das Licht wurde schwächer.
+The light became dimmer.
 
-*Dass das erst der Anfang war.*
+*That this was just the beginning.
 
-Stille senkte sich über die Gruppe.
+Silence fell over the group.
 
-"Der Anfang?" fragte Miriam mit schwacher Stimme.
+"The beginning?" Miriam asked in a weak voice.
 
-*Die Vak'tar, die ihr erlebt habt, sind nur Späher. Die Hauptarmee kommt noch.*
+*The Vak'tar you have seen are only scouts. The main army is yet to come.
 
-Daryl sah in die Gesichter seiner neuen Verbündeten. Erschöpfung, Angst, aber auch Entschlossenheit.
+Daryl looked at the faces of his new allies. Exhaustion, fear, but also determination.
 
-"Wie viel Zeit haben wir?" fragte Sarah.
+"How much time do we have?" asked Sarah.
 
-*Zwei Tage. Vielleicht drei.*
+*Two days. Maybe three.
 
-"Und was können wir in zwei Tagen gegen eine Alien-Armee ausrichten?"
+"And what can we do against an alien army in two days?"
 
-Das goldene Licht pulsierte heller.
+The golden light pulsed brighter.
 
-*Mit unserer Hilfe? Alles.*
+*With our help? Everything.
 
 ---

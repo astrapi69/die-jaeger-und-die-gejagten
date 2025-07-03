@@ -1,233 +1,233 @@
-# Kapitel 4: Die Wahrheit über die Sterne {#kapitel-4}
+# Chapter 4: The truth about the stars {#chapter-4}
 
-![Die Jäger kommen](../../assets/chapter_04_the_hunters_arrive.jpg)
+![The hunters are coming](../../assets/chapter_04_the_hunters_arrive.jpg)
 
 ## Griffith Observatory, Los Angeles
 
-## 8:42 Uhr Ortszeit
+## 8:42 a.m. local time
 
-Das goldene Licht schwebte vor Sarah Chen und wartete auf ihre Antwort.
+The golden light hovered in front of Sarah Chen and waited for her answer.
 
-"Zeigen Sie es uns," sagte sie schließlich. "Zeigen Sie uns alles."
+"Show us," she finally said. "Show us everything."
 
-*Seid bereit*, warnte die Stimme des Anari. *Die Wahrheit wird schwer zu ertragen sein.*
+*Be ready*, warned the voice of Anari. *The truth will be hard to bear.
 
-Das Licht explodierte.
+The light exploded.
 
-Nicht physisch – aber in ihren Köpfen entfaltete sich das Universum wie eine kosmische Blume. Sarah sah Sterne, die sie
-nicht kannte, Welten, die in fremden Sonnen badeten, Zivilisationen, die sich über Jahrtausende entwickelt hatten.
+Not physically - but in their minds, the universe unfolded like a cosmic flower. Sarah saw stars she didn't
+worlds that bathed in alien suns, civilizations that had evolved over millennia.
 
-Und überall das gleiche Muster: Harmonie, Fortschritt, Frieden.
+And the same pattern everywhere: harmony, progress, peace.
 
-Dann kamen die Vak'tar.
+Then came the Vak'tar.
 
-Sarah sah es aus der Perspektive der Opfer. Winzige, mechanische Parasiten, die aus dem Nichts kamen. Wie sie sich in
-Gehirne bohrten, Persönlichkeiten löschten, aus friedlichen Bewohnern sadistische Killer machten.
+Sarah saw it from the victims' perspective. Tiny, mechanical parasites that came out of nowhere. How they bored into
+brains, erasing personalities, turning peaceful inhabitants into sadistic killers.
 
-*Dreiundzwanzig Welten*, flüsterte die Anari-Stimme. *Dreiundzwanzig Zivilisationen. Alle vernichtet, bevor wir
-rechtzeitig ankamen.*
+*Twenty-three worlds*, whispered the Anari voice. *Twenty-three civilizations. All destroyed before we arrived in time.
+arrived in time.
 
-Daryl Mensah presste sich die Hände vor die Augen. "Herrgott. All diese Menschen..."
+Daryl Mensah clasped his hands over his eyes. "Jesus Christ. All these people..."
 
-*Nicht Menschen. Aber genauso wertvoll. Genauso... unschuldig.*
+*Not people. But just as valuable. Just as... innocent.
 
-Die Visionen veränderten sich. Jetzt sahen sie die Anari – Lichtwesen von atemberaubender Schönheit und Komplexität. Sie
-bewegten sich zwischen den Sternen wie lebende Gedanken, heilten Welten, brachten Hoffnung.
+The visions changed. Now they saw the Anari - beings of light of breathtaking beauty and complexity. They
+moved among the stars like living thoughts, healing worlds, bringing hope.
 
-Aber immer zu spät. Immer einen Schritt hinter den Vak'tar.
+But always too late. Always one step behind the Vak'tar.
 
-*Bis jetzt*, sagte die Stimme, und ein neues Bild formte sich. Die Erde, von weit oben gesehen. Aber nicht die Erde, wie
-sie war – die Erde, wie sie sein könnte.
+*Until now*, said the voice, and a new image formed. The earth, seen from far above. But not the earth as
+as it was - the earth as it could be.
 
-Kristallklare Ozeane. Städte, die mit der Natur verschmolzen. Menschen, die zwischen den Sternen reisten. Keine Kriege.
-Keine Armut. Keine Krankheiten.
+Crystal clear oceans. Cities that merged with nature. People who traveled between the stars. No wars.
+No poverty. No diseases.
 
-"Das... das ist unmöglich," flüsterte Aida, ihre Finger zitterten über der Tastatur ihres Laptops.
+"That... That's impossible," Aida whispered, her fingers trembling over the keyboard of her laptop.
 
-*Nicht unmöglich. Unvermeidlich. Wenn ihr überlebt.*
+*Not impossible. Inevitable. If you survive.
 
-Father Martinez trat vor. "Und wenn wir nicht überleben?"
+Father Martinez stepped forward. "And if we don't survive?"
 
-Die Vision verdunkelte sich. Sie sahen die Erde als toten Felsen, alle Ozeane verkocht, alle Wälder verbrannt. Sieben
-Milliarden Leichen, die zu Staub zerfielen.
+The vision darkened. They saw the earth as a dead rock, all the oceans boiled away, all the forests burnt up. Seven
+billion corpses crumbling to dust.
 
-*Die Vak'tar ernähren sich von Schmerz*, erklärte der Anari. *Aber wenn der Schmerz aufhört, wenn alle tot sind...
-ziehen sie weiter. Zurück bleibt nichts.*
+*The Vak'tar feed on pain,* the Anari explained. *But when the pain stops, when they're all dead...
+they move on. Nothing is left behind.
 
-Miriam Košová hatte Tränen in den Augen. "Warum erzählen Sie uns das? Warum zeigen Sie uns... das Ende?"
+Miriam Košová had tears in her eyes. "Why are you telling us this? Why are you showing us... the end?"
 
-*Weil ihr das Recht habt zu wissen. Und weil ihr noch wählen könnt.*
+*Because you have the right to know. And because you can still vote.
 
-"Wählen?" Sarah runzelte die Stirn. "Zwischen was?"
+"Vote?" Sarah frowned. "Between what?"
 
-Das goldene Licht pulsierte, und plötzlich standen sie nicht mehr auf dem Parkplatz des Observatoriums. Sie standen...
-irgendwo anders.
+The golden light pulsed, and suddenly they were no longer standing in the observatory parking lot. They were standing...
+somewhere else.
 
-Ein Raum aus purem Licht, endlos und warm. Andere Gestalten bewegten sich in der Ferne – mehr Anari, erkannte Sarah.
-Hunderte von ihnen.
+A room of pure light, endless and warm. Other figures moved in the distance - more Anari, Sarah realized.
+Hundreds of them.
 
-*Willkommen in unserem Rat*, sagte eine neue Stimme, tiefer und älter als die erste. *Ich bin Elyon, Sprecher der Anari.
-Wir haben lange über euer Schicksal debattiert.*
+*Welcome to our council*, said a new voice, deeper and older than the first. *I am Elyon, spokesman for the Anari.
+We have long debated your fate.
 
-"Unser Schicksal?" Daryl griff instinktiv nach seiner Waffe, fand aber nur Licht.
+"Our destiny?" Daryl instinctively reached for his gun, but found only light.
 
-*Die Vak'tar-Hauptflotte wird in 47 Stunden und 23 Minuten euer System erreichen. Zweitausend Schiffe. Millionen von
-Parasiten. Genug, um jeden Menschen auf eurem Planeten in wenigen Stunden zu übernehmen.*
+*The Vak'tar main fleet will reach your system in 47 hours and 23 minutes. Two thousand ships. Millions of
+parasites. Enough to take over every human on your planet in a matter of hours.
 
-Aida lachte bitter. "Also sind wir am Arsch."
+Aida laughed bitterly. "So we're screwed."
 
-*Normalerweise... ja. Aber nicht diesmal.*
+*Normally... Yes. But not this time.
 
-Elyon schwebte näher, und Sarah sah, dass das Lichtwesen nicht nur Energie war. Sie erkannte Strukturen, fast wie ein
-Gesicht, aber unendlich komplexer.
+Elyon floated closer, and Sarah saw that the being of light was not just energy. She recognized structures, almost like a
+face, but infinitely more complex.
 
-*Zum ersten Mal haben wir sie vor der Vollendung ihrer Mission erreicht. Zum ersten Mal können wir eingreifen, bevor
-eine Welt stirbt. Aber...*
+*For the first time, we have reached them before the completion of their mission. For the first time, we can intervene before
+a world dies. But...*
 
-"Aber?" Father Martinez ahnte bereits die Antwort.
+"But?" Father Martinez already suspected the answer.
 
-*Aber wir können nicht für euch kämpfen. Das ist gegen unsere fundamentalen Gesetze. Wir können nur... ausrüsten.*
+*But we can't fight for you. That is against our fundamental laws. We can only... equip you*.
 
-"Mit was?" fragte Sarah.
+"With what?" asked Sarah.
 
-Elyon breitete das aus, was Arme hätten sein können, und der Lichtraum explodierte in Farben. Technologien, die Sarah
-nicht einmal theoretisch verstehen konnte. Waffen, die Materie neu ordneten. Heilungsgeräte, die den Tod selbst
-rückgängig machen konnten. Raumschiffe, die zwischen Dimensionen reisten.
+Elyon spread out what could have been arms, and light space exploded in color. Technologies that Sarah
+could not even theoretically understand. Weapons that rearranged matter. Healing devices that could reverse death itself.
+could reverse death itself. Spaceships that traveled between dimensions.
 
-*Zehntausend Jahre Anari-Wissenschaft. Alles, was wir wissen. Alles, was wir sind. Wir geben es euch.*
+*Ten thousand years of Anari science. Everything we know. All that we are. We give it to you.
 
-"Warum?" Miriam klang verwirrt. "Warum würden Sie so viel für Fremde tun?"
+"Why?" Miriam sounded confused. "Why would you do so much for strangers?"
 
-*Weil ihr nicht fremd seid. Und weil wir eine Schuld zu begleichen haben.*
+*Because you are not strangers. And because we have a debt to pay.
 
-Die Visionen veränderten sich wieder. Diesmal sahen sie eine andere Welt – eine blaue Welt mit zwei Monden und violetten
-Ozeanen.
+The visions changed again. This time they saw a different world - a blue world with two moons and purple oceans.
+oceans.
 
-*Das war Kythara. Unsere Heimat. Vor viertausend Jahren.*
+*That was Kythara. Our home. Four thousand years ago.
 
-Sie sahen eine Zivilisation von atemberaubender Schönheit. Lichtwesen, die in Harmonie lebten, Kunst schufen, die
-Geheimnisse des Universums erforschten.
+They saw a civilization of breathtaking beauty. Beings of light who lived in harmony, created art, explored the
+exploring the secrets of the universe.
 
-Dann kamen die Vak'tar.
+Then came the Vak'tar.
 
-*Wir waren jung. Naiv. Wir glaubten, alle Wesen seien im Grunde gut. Als die Parasiten kamen, empfingen wir sie als
-Gäste.*
+*We were young. Naive. We believed that all beings were basically good. When the parasites came, we welcomed them as guests.
+guests*.
 
-Sarah sah das Massaker. Millionen von Anari, die zu Grunde gerichtet wurden von Wesen, die einst ihre eigenen
-Geschwister gewesen waren.
+Sarah saw the massacre. Millions of Anari, being destroyed by beings who had once been her own siblings.
+had once been her own siblings.
 
-*Die Vak'tar waren ursprünglich Anari*, erklärte Elyon, und seine Stimme trug unendliche Trauer. *Ein Zweig unserer
-Spezies, der... andere Wege einschlug. Der glaubte, Schmerz sei der Schlüssel zur Evolution.*
+*The Vak'tar were originally Anari,* Elyon explained, his voice carrying infinite sorrow. *A branch of our
+species that... other paths. Who believed that pain was the key to evolution.
 
-"Ihr eigenes Volk hat euch verraten," flüsterte Father Martinez.
+"Your own people have betrayed you," whispered Father Martinez.
 
-*Und fast vernichtet. Nur wenige von uns überlebten. Wir flohen zu den Sternen, schworen, andere vor dem zu beschützen,
-was wir erlebt hatten.*
+*And almost destroyed. Only a few of us survived. We fled to the stars, vowing to protect others from what we had experienced,
+from what we had experienced.
 
-"Aber es funktioniert nicht," stellte Daryl fest. "Sie sind immer zu schnell für Sie."
+"But it's not working," Daryl realized. "They're always too fast for you."
 
-*Waren. Bis jetzt.*
+*Goods. Until now.
 
-Elyon schwebte zu Sarah. *Du, Dr. Chen, warst die erste, die einem Vak'tar erfolgreich widerstanden hat. Nicht durch
-Zufall, sondern durch Willensstärke. Du hast uns gezeigt, dass Menschen... anders sind.*
+Elyon floated over to Sarah. *You, Dr. Chen, were the first to successfully resist a Vak'tar. Not by
+by chance, but by force of will. You showed us that humans are... are different.
 
-"Anders wie?"
+"Different how?"
 
-*Widerstandsfähiger. Unvorhersagbarer. Die Vak'tar kalkulieren mit Logik und Angst. Aber Menschen... Menschen haben
-etwas, das sie nicht verstehen.*
+*More resilient. More unpredictable. The Vak'tar calculate with logic and fear. But humans... Humans have
+something they don't understand.
 
-"Was?" fragte Aida.
+"What?" asked Aida.
 
-*Hoffnung gegen alle Vernunft. Liebe trotz Schmerz. Die Bereitschaft zu kämpfen, auch wenn der Kampf aussichtslos
-scheint.*
+*Hope against all reason. Love despite pain. The willingness to fight, even when the fight seems hopeless.
+*
 
-Miriam lächelte durch ihre Tränen. "Sie reden über Menschlichkeit."
+Miriam smiled through her tears. "You're talking about humanity."
 
-*Ja. Und das ist eure größte Waffe.*
+*Yes. And that is your greatest weapon.
 
-Der Lichtraum veränderte sich wieder. Jetzt standen sie in etwas, das wie ein Labor aussah – aber ein Labor aus
-kristallinem Licht, in dem Gedanken Formen annahmen.
+The light space changed again. Now they were standing in what looked like a laboratory - but a laboratory made of
+crystalline light in which thoughts took shape.
 
-*Wir werden euch alles geben*, sagte Elyon. *Technologie, Wissen, Kraft. Aber es wird einen Preis haben.*
+*We will give you everything*, said Elyon. *Technology, knowledge, power. But it will come at a price.
 
-"Natürlich," murmelte Daryl. "Gibt es immer."
+"Of course," Daryl muttered, "There always is."
 
-*Der Preis ist Veränderung. Ihr könnt nicht Anari-Technologie verwenden und dieselben bleiben, die ihr wart. Eure
-Gehirne müssen erweitert werden. Eure Körper verstärkt. Eure Seelen... berührt.*
+*The price is change. You cannot use Anari technology and remain the same as you were. Your
+brains must be expanded. Your bodies strengthened. Your souls... touched.*
 
-Sarah fühlte eine kalte Angst in ihrer Brust. "Sie reden über Experimente. An uns."
+Sarah felt a cold fear in her chest. "They're talking about experiments. On us."
 
-*Nicht Experimente. Evolution. Beschleunigt, aber freiwillig.*
+*Not experiments. Evolution. Accelerated, but voluntary.
 
-Father Martinez schüttelte den Kopf. "Wie können wir wissen, dass Sie uns nicht genauso manipulieren wie die Parasiten?"
+Father Martinez shook his head. "How do we know you're not manipulating us just like the parasites?"
 
-*Weil wir euch die Wahl lassen.*
+*Because we give you the choice.
 
-Plötzlich waren sie wieder auf dem Parkplatz des Observatoriums. Die Sonne schien, Vögel zwitscherten, normale Geräusche
-einer normalen Welt. Als wäre die Vision nur ein Traum gewesen.
+Suddenly they were back in the observatory parking lot. The sun was shining, birds were chirping, normal sounds
+of a normal world. As if the vision had only been a dream.
 
-Aber die goldenen Lichter schwebten noch immer über ihnen.
+But the golden lights were still hovering above them.
 
-*Ihr habt sechs Stunden*, sagte Elyons Stimme. *Dann müssen wir beginnen, oder es wird zu spät sein. Jeder von euch muss
-für sich entscheiden.*
+*You have six hours*, said Elyon's voice. *Then we must begin, or it will be too late. Each of you must
+decide for yourselves.
 
-Sarah blickte in die Gesichter ihrer neuen Verbündeten. Fünf Menschen aus verschiedenen Welten, verschiedenen Kulturen,
-verschiedenen Glaubenssystemen. Vereint nur durch das, was sie überlebt hatten.
+Sarah looked at the faces of her new allies. Five people from different worlds, different cultures,
+different belief systems. United only by what they had survived.
 
-"Was passiert, wenn wir nein sagen?" fragte sie.
+"What happens if we say no?" she asked.
 
-*Dann kämpft ihr, wie ihr seid. Und sterbt, wie ihr seid. Mit Ehre, aber ohne Hoffnung.*
+*Then you fight as you are. And die as you are. With honor, but without hope.
 
-"Und wenn wir ja sagen?"
+"And if we say yes?"
 
-*Dann werden aus Menschen etwas Neues. Etwas, das zwischen den Sternen wandeln kann. Etwas, das nicht nur diese Schlacht
-überleben, sondern das Universum verändern könnte.*
+*Then people become something new. Something that can walk among the stars. Something that could not only survive this battle
+but could change the universe.
 
-Aida tippte nervös auf ihrem Laptop. "Ich bekomme neue Daten," sagte sie leise. "Die Vak'tar-Flotte... sie haben ihre
-Geschwindigkeit erhöht."
+Aida typed nervously on her laptop. "I'm getting new data," she said quietly. "The Vak'tar fleet... they've increased their
+increased their speed."
 
-"Wie viel Zeit haben wir noch?" fragte Daryl.
+"How much time do we have left?" asked Daryl.
 
-"Sechsunddreißig Stunden. Vielleicht weniger."
+"Thirty-six hours. Maybe less."
 
-Stille senkte sich über die Gruppe.
+Silence fell over the group.
 
-Father Martinez war der erste, der sprach: "Ich habe mein ganzes Leben dem Glauben gewidmet, dass es etwas Größeres gibt
-als uns. Etwas, das uns führt, wenn wir es zulassen." Er blickte zu den goldenen Lichtern hinauf. "Vielleicht ist das
-meine Antwort."
+Father Martinez was the first to speak: "I have dedicated my whole life to the belief that there is something greater than us.
+than us. Something that will guide us if we let it." He looked up at the golden lights, "Maybe that's my answer.
+my answer."
 
-Miriam nickte. "Ich denke an die Kinder, die ich zu beschützen versucht habe. An alle Kinder auf der Welt. Wenn es eine
-Chance gibt..."
+Miriam nodded. "I think of the children I've tried to protect. Of all the children in the world. If there's a
+chance..."
 
-"Ich bin ein Soldat," sagte Daryl einfach. "Soldaten kämpfen. Egal mit welchen Waffen."
+"I'm a soldier," Daryl said simply. "Soldiers fight. No matter what weapons."
 
-Aida schloss ihren Laptop. "Ich habe mein ganzes Leben damit verbracht, Grenzen zu überwinden. Firewall nach Firewall.
-Vielleicht ist das nur die ultimative Grenze."
+Aida closed her laptop. "I've spent my whole life overcoming borders. Firewall after firewall.
+Maybe this is just the ultimate frontier."
 
-Alle Augen richteten sich auf Sarah.
+All eyes turned to Sarah.
 
-Sie dachte an die Stimme in ihrem Kopf, an den Verlust der Kontrolle, an die Angst. Dann dachte sie an Mrs. Patterson,
-an all die Menschen, die heute Nacht gestorben waren. An all die Menschen, die noch sterben würden.
+She thought of the voice in her head, the loss of control, the fear. Then she thought of Mrs. Patterson,
+of all the people who had died tonight. Of all the people who would still die.
 
-"Ich bin Neurologin," sagte sie schließlich. "Ich studiere das Gehirn, das Bewusstsein, das, was uns menschlich macht.
-Wenn wir eine Chance haben, das zu bewahren – nicht nur für uns, sondern für alle – dann müssen wir sie ergreifen."
+"I'm a neurologist," she finally said. "I study the brain, consciousness, what makes us human.
+If we have a chance to preserve that - not just for ourselves, but for everyone - then we have to take it."
 
-Sie blickte zu den Anari hinauf. "Wir sind bereit."
+She looked up at the Anari, "We're ready."
 
-*Dann lasst uns beginnen*, sagte Elyon. *Lasst uns euch zeigen, was Menschen werden können, wenn sie sich den Sternen
-öffnen.*
+*Then let us begin*, said Elyon. *Let us show you what humans can become when they open themselves to the stars.
+*
 
-Das goldene Licht wurde heller, heller, bis es alles erfüllte.
+The golden light became brighter and brighter until it filled everything.
 
-Und Sarah Chen, Neurologin aus San Francisco, spürte, wie sich ihr Geist öffnete und Dinge berührte, die sie nie für
-möglich gehalten hatte.
+And Sarah Chen, a neurologist from San Francisco, felt her mind opening up and touching things she had never thought possible.
+possible.
 
-Der Krieg um die Erde hatte begonnen.
+The war for the earth had begun.
 
-Aber vielleicht – nur vielleicht – würden die Menschen diesmal nicht als Opfer enden.
+But maybe - just maybe - people would not end up as victims this time.
 
-Sondern als etwas völlig Neues.
+But as something completely new.
 
 ---
 
-## 34 Stunden bis zur Ankunft der Vak'tar-Hauptflotte
+## 34 hours until the arrival of the Vak'tar main fleet

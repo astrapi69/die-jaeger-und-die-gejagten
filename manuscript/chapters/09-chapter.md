@@ -1,270 +1,270 @@
-# Kapitel 9: Das Herz der Finsternis {#kapitel-9}
+# Chapter 9: The heart of darkness {#chapter-9}
 
-![Die Wächter](../../assets/chapter_09_guardians.jpg)
+![The Guardians](../../assets/chapter_09_guardians.jpg)
 
-## Erdorbit
+## Earth orbit
 
-## 00:31 Uhr Ortszeit
+## 00:31 local time
 
-Das Vak'tar-Mutterschiff war kein Schiff.
+The Vak'tar mothership was not a ship.
 
-Es war eine Welt.
+It was a world.
 
-Sarah Chen starrte hinauf zu dem Ding, das sich wie ein schwarzer Mond über die Erde schob, und versuchte zu begreifen,
-was sie sah. Hunderte von Kilometern im Durchmesser, eine Kugel aus lebendem Metall und organischem Gewebe, durchzogen
-von pulsierenden Adern aus dunklem Licht.
+Sarah Chen stared up at the thing that loomed over the earth like a black moon and tried to comprehend what she was seeing,
+what she was seeing. Hundreds of kilometers in diameter, a sphere of living metal and organic tissue, crisscrossed by pulsing veins of dark light.
+by pulsating veins of dark light.
 
-**Mein Gott**, leuchtete Father Martinez schwach. **Es ist... es ist eine ganze Zivilisation.**
+**My God**, Father Martinez glowed faintly. **It's... it's a whole civilization.
 
-Sarah spürte es jetzt auch. Nicht nur Parasiten in diesem Ding. Generationen von Vak'tar, die in symbiotischer Einheit
-mit assimilierten Technologien lebten. Eine Mobile Heimatwelt, die seit Jahrtausenden durchs Universum wanderte und
-alles verschlang, was sie fand.
+Sarah felt it now too. Not just parasites in this thing. Generations of Vak'tar who lived in symbiotic unity
+with assimilated technologies. A mobile homeworld that had been wandering the universe for millennia, devouring
+devouring everything it found.
 
-**Analyse zeigt**, berichtete Aida mit zitternder Stimme, **über eine Milliarde Lebensformen in dieser Struktur. Aber...
-Sarah, da ist noch etwas anderes.**
+**Analysis shows**, Aida reported with a trembling voice, **over a billion life forms in this structure. But...
+Sarah, there's something else**.
 
-**Was?**
+**What?**
 
-**Im Zentrum. Etwas Großes. Etwas... Altes.**
+**In the center. Something big. Something... Old.
 
-Sarah erweiterte ihre geschwächten Sinne und tastete das Herz des Mutterschiffs ab. Was sie fand, ließ ihr das Blut in
-den Adern gefrieren.
+Sarah extended her weakened senses and scanned the heart of the mothership. What she found made her blood run cold.
+freeze in her veins.
 
-Eine Präsenz. Riesig, uralte, reine Bosheit. Nicht wie die anderen Vak'tar – nicht hungrig oder gierig. Etwas viel
-Schlimmeres.
+A presence. Huge, ancient, pure malice. Not like the other Vak'tar - not hungry or greedy. Something far
+worse.
 
-Etwas, das Freude am Leiden fand.
+Something that found joy in suffering.
 
-**Das ist kein Anführer**, flüsterte sie. **Das ist ihr Gott.**
+**This is not a leader**, she whispered. **This is their god**.
 
-Die Stimme, die antwortete, kam nicht über Kommunikationskanäle. Sie kam direkt aus dem Innersten ihrer Gedanken, bohrte
-sich durch alle ihre Verteidigungen wie ein glühender Dorn:
+The voice that answered did not come through communication channels. It came directly from the depths of her thoughts, piercing
+through all her defenses like a red-hot thorn:
 
-*Endlich. Die kleine Möchtegern-Göttin zeigt ihr wahres Gesicht.*
+*Finally. The little would-be goddess shows her true colors.
 
-Sarah schrie auf und sank in die Knie. Die Stimme war nicht nur Kommunikation – sie war ein Angriff, ein Versuch, ihr
-Bewusstsein zu zerreißen.
+Sarah cried out and sank to her knees. The voice wasn't just communication - it was an attack, an attempt to tear her
+to tear her consciousness apart.
 
-*Ich bin Malgorth*, fuhr die Stimme fort, jedes Wort ein Schlag gegen Sarahs Geist. *Der Erste Vak'tar. Der Ursprung.
-Ich war bereits alt, als euer Sonnensystem noch Staub war.*
+*I am Malgorth,* the voice continued, each word a blow to Sarah's spirit. *The First Vak'tar. The origin.
+I was old when your solar system was still dust.
 
-**Sarah!** Daryl kniete neben ihr nieder, aber als er sie berührte, durchzuckte auch ihn der psychische Schmerz.
+**Sarah!** Daryl knelt down beside her, but when he touched her, the psychic pain jolted through him as well.
 
-*Ihr denkt, ihr habt gewonnen? Ihr habt mir einen Gefallen getan. All diese schwachen Schiffe, diese sentimentalen
-Kreaturen – sie waren nur Ballast. Jetzt bin ich frei, euch zu zeigen, was wahre Macht bedeutet.*
+*You think you've won? You've done me a favor. All those weak ships, those sentimental creatures
+creatures - they were just ballast. Now I am free to show you what true power means.
 
-Das Mutterschiff begann sich zu öffnen. Nicht wie eine Blüte, sondern wie ein gigantisches Maul. Sarah sah die Reihen
-von organischen Kanonen, jede einzelne groß genug, um einen Kontinent zu vernichten.
+The mothership began to open. Not like a flower, but like a gigantic mouth. Sarah saw the rows
+of organic cannons, each one big enough to destroy a continent.
 
-**Evakuierung der Erde**, befahl sie schwach. **Alle Menschen in die unterirdischen Bunker.**
+**Evacuate Earth**, she ordered weakly. **Everyone into the underground bunkers**.
 
-**Das wird nicht reichen**, leuchtete Zephyr verzweifelt. **Diese Waffen können Planeten spalten.**
+**This won't do**, Zephyr glowered desperately. **These weapons can split planets**.
 
-*Genau*, lachte Malgorth. *Aber ich werde euch nicht einfach töten. Das wäre zu... langweilig. Ich werde euch zeigen,
-was ich mit eurer geliebten Erde machen kann.*
+*Exactly*, Malgorth laughed. *But I won't just kill you. That would be too... boring. I'm going to show you,
+what I can do with your beloved Earth.
 
-Einer der kleineren Kanonen feuerte einen Testschuss ab. Nicht auf die Erde – auf den Mond.
+One of the smaller cannons fired a test shot. Not at the earth - at the moon.
 
-Der Strahl war dünn, fast elegant. Aber als er den Mond traf, begann die gesamte Oberfläche zu... schmelzen. Nicht durch
-Hitze, sondern durch etwas viel Schlimmeres. Die Materie selbst wurde umgewandelt, verwandelte sich in eine schwarze,
-lebende Substanz.
+The beam was thin, almost elegant. But when it hit the moon, the entire surface began to... melted. Not from
+heat, but by something much worse. The matter itself was transformed, turned into a black,
+living substance.
 
-**Er infiziert den Mond**, erkannte Aida entsetzt.
+**He's infecting the moon**, Aida realized in horror.
 
-*Bald wird euer gesamtes Sonnensystem mein sein*, verkündete Malgorth. *Jeder Planet, jeder Asteroid wird Teil meines
-Körpers. Und ihr werdet zuschauen müssen, während ich eure Welt in einen lebenden Albtraum verwandle.*
+*Your entire solar system will soon be mine*, Malgorth announced. *Every planet, every asteroid will become part of my
+body. And you will have to watch while I turn your world into a living nightmare.
 
-Sarah zwang sich aufzustehen. Ihr Körper zitterte, ihr Geist war von Malgorths Angriff zerrissen, aber irgendwo tief in
-ihr brannte noch immer ein kleiner Funke. Der Funke, der sie zu dem gemacht hatte, was sie war.
+Sarah forced herself to stand up. Her body trembled, her mind was torn apart by Malgorth's attack, but somewhere deep inside
+she still had a little spark burning. The spark that had made her what she was.
 
-Menschlichkeit.
+Humanity.
 
-"Nein," sagte sie laut.
+"No," she said aloud.
 
-*Was sagtest du, kleine Göttin?*
+*What did you say, little goddess?
 
-"Ich sagte nein." Sarah richtete sich auf, und mit jedem Wort wurde ihre Stimme stärker. "Sie können unsere Körper
-nehmen. Sie können unsere Planeten nehmen. Aber es gibt etwas, das Sie nie nehmen können."
+"I said no." Sarah straightened up, her voice growing stronger with each word. "They can take our bodies.
+take our bodies. You can take our planets. But there's something you can never take."
 
-*Und das wäre?*
+*And that would be?*
 
-"Unsere Wahl. In diesem Moment wähle ich, dass Sie hier aufhören."
+"Our choice. At this moment, I choose for you to stop here."
 
-Malgorth lachte, ein Geräusch wie berstende Welten. *Du willst mich aufhalten? Du, ein winziges Insekt von einem
-primitiven Planeten?*
+Malgorth laughed, a sound like worlds bursting. *You want to stop me? You, a tiny insect from a
+primitive planet?*
 
-"Nicht ich allein," antwortete Sarah. Sie griff nach den Händen ihrer Gefährten. "Wir."
+"Not me alone," Sarah replied. She reached for the hands of her companions. "We."
 
-**Sarah**, warnte Miriam, **du bist zu schwach. Die Befreiung der Flotte hat dich fast getötet.**
+**Sarah**, Miriam warned, **you're too weak. The liberation of the fleet almost killed you.
 
-"Dann tötet mich das hier eben ganz." Sarah blickte in die Gesichter ihrer Freunde. "Aber nicht, bevor ich diesem Ding
-gezeigt habe, was es bedeutet, menschlich zu sein."
+"Then this kills me completely." Sarah looked at the faces of her friends. "But not before I've shown this thing
+what it means to be human."
 
-**Was hast du vor?** fragte Father Martinez.
+**What are you up to?** Father Martinez asked.
 
-Sarah lächelte – ein Lächeln voller Schmerz und Hoffnung. "Etwas, das noch nie jemand versucht hat. Ich gehe da rein."
+Sarah smiled - a smile full of pain and hope. "Something no one's ever tried before. I'm going in there."
 
-**Das ist Selbstmord**, protestierte Daryl.
+**This is suicide**, Daryl protested.
 
-"Nein. Das ist Hoffnung." Sarah blickte hinauf zu dem Mutterschiff. "Malgorth ist alt, mächtig und böse. Aber er ist
-auch einsam. Er hat Jahrtausende damit verbracht, zu nehmen, zu zerstören, zu herrschen. Er hat vergessen, was es
-bedeutet zu geben. Zu opfern. Zu lieben."
+"No. This is hope." Sarah looked up at the mothership. "Malgorth is old, powerful and evil. But he is
+lonely, too. He's spent millennia taking, destroying, ruling. He has forgotten what it means
+means to give. To sacrifice. To love."
 
-**Du willst einem uralten Alien-Gott Liebe beibringen?** fragte Aida ungläubig.
+**You want to teach love to an ancient alien god?** Aida asked incredulously.
 
-"Ich will ihm zeigen, was er verloren hat." Sarah wandte sich an die befreite Flotte, die um sie herum schwebte. "
-Zephyr, können Sie mich dorthin bringen?"
+"I want to show him what he's lost." Sarah turned to the liberated fleet hovering around her. "
+Zephyr, can you take me there?"
 
-**Es ist ein Weg ohne Wiederkehr**, warnte Zephyr.
+**It's a road of no return**, Zephyr warned.
 
-"Ich weiß."
+"I know."
 
-*Komm nur*, höhnte Malgorth. *Ich werde dich langsam zerbrechen. Ich werde dich zu einem Teil meiner Sammlung machen.*
+*Come on*, Malgorth sneered. *I'll break you slowly. I'm going to make you part of my collection.
 
-Sarah stieg in ihr Lichtschiff. Aber diesmal war sie nicht allein. Die anderen vier stiegen mit ihr ein.
+Sarah climbed into her lightship. But this time she wasn't alone. The other four got in with her.
 
-**Was macht ihr?** fragte sie.
+**What are you doing?** she asked.
 
-**Du hast gesagt, wir machen das zusammen**, antwortete Daryl. **Menschen halten zusammen.**
+**You said we do this together**, Daryl replied. **People stick together**.
 
-**Bis zum Ende**, ergänzte Miriam.
+**Until the end**, Miriam added.
 
-**Was auch immer das Ende sein mag**, fügte Father Martinez hinzu.
+**Whatever the end may be**, Father Martinez added.
 
-**Wir sind ein Team**, schloss Aida. **Teams lassen niemanden zurück.**
+**We are a team**, Aida concluded. **Teams leave no one behind**.
 
-Sarah spürte Tränen in ihren Augen – Tränen der Dankbarkeit und der Liebe. **Dann fliegen wir zusammen in die Hölle.**
+Sarah felt tears in her eyes - tears of gratitude and love. **Then we'll go to hell together**.
 
-Ihr Schiff schoss nach oben, gefolgt von Zephyr und den anderen befreiten Schiffen. Nicht als Angreifer, sondern als...
-Pilger. Menschen und Aliens vereint in einem unmöglichen Akt des Glaubens.
+Their ship shot upwards, followed by Zephyr and the other freed ships. Not as attackers, but as...
+Pilgrims. Humans and aliens united in an impossible act of faith.
 
-Das Mutterschiff öffnete seine Defensive nicht. Warum sollte es auch? Was konnten fünf winzige Wesen gegen einen Gott
-ausrichten?
+The mother ship did not open its defenses. Why should it? What could five tiny beings do against a god?
+against a god?
 
-Sie flogen in das Maul der Bestie hinein.
+They flew into the mouth of the beast.
 
-Das Innere war... unvorstellbar. Kilometer weite Korridore aus lebendem Fleisch und Metall. Organe so groß wie Städte,
-die in unbekannten Rhythmen pulsierten. Und überall die Vak'tar – aber nicht wie die Parasiten, die sie kannten. Diese
-hier waren alt, zu organischen Teilen der Struktur geworden.
+The inside was... unimaginable. Kilometers of corridors of living flesh and metal. Organs as big as cities,
+that pulsed in unknown rhythms. And the Vak'tar everywhere - but not like the parasites they knew. These
+here were old, had become organic parts of the structure.
 
-**Das ist nicht nur ein Schiff**, erkannte Father Martinez. **Das ist ein lebender Organismus. Malgorth IST das Schiff.
+**This is not just a ship**, Father Martinez realized. **This is a living organism. Malgorth IS the ship.
 **
 
-Sie flogen tiefer, folgten den pulsierenden Arterien zum Herz der Kreatur. Die Temperatur stieg, die Dunkelheit wurde
-dichter. Sarahs Sensoren zeigten unmögliche Dinge – Räume, die größer waren als ihre Außenmauern, Korridore, die sich in
-Dimensionen erstreckten, die nicht existieren sollten.
+They flew lower, following the pulsing arteries to the creature's heart. The temperature rose, the darkness became
+denser. Sarah's sensors showed impossible things - rooms larger than their outer walls, corridors that stretched into dimensions that shouldn't exist.
+dimensions that should not exist.
 
-Und dann erreichten sie das Zentrum.
+And then they reached the center.
 
-Malgorth war... wunderschön.
+Malgorth was... beautiful.
 
-Nicht im menschlichen Sinne, aber mit einer alien Majestät, die Sarah den Atem raubte. Ein Wesen aus kristallisiertem
-Licht und lebendem Schatten, so groß wie ein Hochhaus, schwebend in einer Kammer, die wie ein perverser Tempel aussah.
+Not in the human sense, but with an alien majesty that took Sarah's breath away. A being of crystallized
+light and living shadow, as big as a skyscraper, floating in a chamber that looked like a perverted temple.
 
-Aber es waren seine Augen, die Sarah erschütterten. Uralte Augen, die einmal voller Weisheit und Güte gewesen waren.
-Jetzt waren sie leer – nicht böse, sondern... hohl.
+But it was his eyes that shook Sarah. Ancient eyes that had once been full of wisdom and kindness.
+Now they were empty - not evil, but... hollow.
 
-*Also bist du gekommen*, sagte Malgorth mit einer Stimme wie brechende Kontinente. *Die kleine Möchtegern-Messiasin will
-dem Bösen persönlich gegenübertreten.*
+*So you've come*, Malgorth said in a voice like breaking continents. *The little would-be messiah wants to face
+to confront evil in person.
 
-"Sie sind nicht böse," sagte Sarah leise. "Sie sind gebrochen."
+"They're not angry," Sarah said quietly. "They're broken."
 
-*WAS?*
+*WHAT?*
 
-Sarah stieg aus ihrem Schiff und ging zu Fuß auf das riesige Wesen zu. Mit jedem Schritt spürte sie Malgorths Macht auf
-sie eindrücken, versuchte sie zu zermalmen. Aber sie ging weiter.
+Sarah got out of her ship and walked towards the huge creature. With every step she took, she felt Malgorth's power
+pressing down on her, trying to crush her. But she kept walking.
 
-"Sie waren einmal wie die anderen Anari, nicht wahr? Ein Lichtwesen. Ein Hüter. Was ist passiert?"
+"You were once like the other Anari, weren't you? A being of light. A guardian. What happened?"
 
-*Schweig!* Malgorths Zorn war eine physische Kraft, die Sarah zu Boden warf. *Du verstehst nichts!*
+*Malgorth's anger was a physical force that knocked Sarah to the ground. *You don't understand!
 
-Aber Sarah stand wieder auf. "Ich verstehe Schmerz. Ich verstehe Verlust. Was haben Sie verloren, Malgorth? Was hat Sie
-zu dem gemacht, was Sie sind?"
+But Sarah stood up again. "I understand pain. I understand loss. What have you lost, Malgorth? What has made you
+made you what you are?"
 
-Für einen Moment – nur einen Moment – flackerte etwas in Malgorths Augen. Etwas, das aussah wie... Trauer.
+For a moment - just a moment - something flickered in Malgorth's eyes. Something that looked like... Grief.
 
-*Sie starben*, flüsterte er, so leise, dass Sarah es kaum hörte. *Alle. Meine Kinder, meine Geliebte, meine Welt. Eine
-Seuche. Ich war der mächtigste Heiler der Anari, aber ich konnte sie nicht retten. Ich konnte... niemanden retten.*
+*They died*, he whispered, so quietly that Sarah barely heard. *All of them. My children, my beloved, my world. A
+plague. I was the most powerful healer of the Anari, but I couldn't save them. I couldn't... save anyone.*
 
-Sarah spürte, wie sich ihr Herz zusammenzog. "Und dann haben Sie angefangen zu nehmen, anstatt zu geben."
+Sarah felt her heart tighten. "And then you started taking instead of giving."
 
-*Wenn ich nicht heilen konnte, dann würde ich wenigstens sicherstellen, dass nichts mehr sterben muss. Dass alles Teil
-von mir wird. Sicher. Ewig.*
+*If I couldn't heal, I would at least make sure that nothing had to die. That everything becomes part
+of me. For sure. Forever.
 
-"Aber das ist nicht Leben," sagte Sarah sanft. "Das ist nur eine andere Art des Todes."
+"But that's not life," Sarah said gently. "It's just a different kind of death."
 
-*GENUG!* Malgorth erhob sich zu seiner vollen Höhe. *Ich werde dir zeigen, was der Tod wirklich ist!*
+*Malgorth rose to his full height. *I'll show you what death really is!
 
-Er griff nach Sarah mit Tentakeln aus purem Willen. Aber anstatt wegzulaufen oder zu kämpfen, öffnete Sarah ihr
-Bewusstsein. Vollständig. Bedingungslos.
+He reached for Sarah with tentacles of pure will. But instead of running away or fighting, Sarah opened her
+consciousness. Completely. Unconditionally.
 
-Sie zeigte ihm alles.
+She showed him everything.
 
-Ihre Kindheit. Ihre Träume. Die Nacht, als die Vak'tar kamen. Die Angst, die Hoffnung, den Kampf. Die Freunde, die sie
-gefunden hatte. Die Liebe, die sie gelernt hatte. Den Schmerz des Verlustes und die Freude des Wiederfindens.
+Her childhood. Her dreams. The night the Vak'tar came. The fear, the hope, the fight. The friends she
+she had made. The love she had learned. The pain of loss and the joy of finding again.
 
-Sie zeigte ihm Mrs. Patterson mit ihrem Willkommensbanner. Das kleine Mädchen, das Zephyr Blumen gab. Father Martinez,
-der für alle betete. Daryl, der seine Waffe wegwarf, um zu beschützen. Miriam, die Kinder rettete. Aida, die ihre Angst
-überwand, um zu helfen.
+She showed him Mrs. Patterson with her welcome banner. The little girl who gave Zephyr flowers. Father Martinez,
+who prayed for everyone. Daryl, who threw down his gun to protect. Miriam, who saved children. Aida, who overcame her fear
+to help.
 
-Sie zeigte ihm, was es bedeutete, menschlich zu sein.
+She showed him what it meant to be human.
 
-Malgorth schrie auf – aber es war kein Schrei des Zorns. Es war ein Schrei der Erkenntnis.
+Malgorth cried out - but it was not a cry of anger. It was a cry of realization.
 
-*Was... was hast du mir gezeigt?*
+*What... what did you show me?
 
-"Ich habe Ihnen gezeigt, was Sie vergessen haben," antwortete Sarah mit Tränen in den Augen. "Dass Liebe stärker ist als
-Angst. Dass Geben mehr bedeutet als Nehmen. Dass der Tod nur dann eine Niederlage ist, wenn wir aufhören zu leben, bevor
-wir sterben."
+"I've shown you what you've forgotten," Sarah replied with tears in her eyes. "That love is stronger than
+fear. That giving is more than receiving. That death is only a defeat if we stop living before we die.
+we die."
 
-Malgorth sank zusammen, seine gigantische Gestalt schrumpfte. Und Sarah sah ihn, wie er wirklich war – nicht ein Gott,
-nicht ein Monster, sondern ein gebrochenes Wesen, das so lange gelitten hatte, dass es vergessen hatte, wie Heilung
-aussah.
+Malgorth sank down, his gigantic figure shrinking. And Sarah saw him as he really was - not a god,
+not a monster, but a broken being who had suffered for so long that he had forgotten what healing looked like.
+looked like.
 
-*Ich... ich erinnere mich*, flüsterte er. *Lyraleth. Meine Geliebte. Sie sagte immer... sie sagte, dass die größte Macht
-darin liegt, anderen zu helfen, sie selbst zu sein.*
+*I... I remember*, he whispered. *Lyraleth. My beloved. She always said... she said that the greatest power
+lies in helping others to be themselves.*
 
-"Sie hatte recht."
+"She was right."
 
-*Aber es ist zu spät. Ich habe so viel Schmerz verursacht. So viel Zerstörung.*
+*But it's too late. I have caused so much pain. So much destruction.
 
-Sarah trat näher an das zusammengesunkene Wesen heran. "Es ist nie zu spät für Erlösung. Es ist nie zu spät zu wählen,
-wer man sein will."
+Sarah stepped closer to the slumped creature. "It's never too late for redemption. It's never too late to choose
+who you want to be."
 
-Malgorth blickte sie an mit Augen, die zum ersten Mal seit Jahrtausenden Hoffnung zeigten.
+Malgorth looked at her with eyes that showed hope for the first time in millennia.
 
-*Hilf mir*, flüsterte er. *Hilf mir, mich zu erinnern, wie man heilt.*
+*Help me*, he whispered. *Help me remember how to heal*.
 
-Sarah legte ihre Hand auf die kristalline Haut des uralten Wesens. "Zusammen," sagte sie. "Wir machen es zusammen."
+Sarah placed her hand on the crystalline skin of the ancient being. "Together," she said, "we'll do it together."
 
-Licht explodierte aus der Berührung. Nicht das kalte Licht der Technologie, sondern das warme Licht der Vergebung. Es
-strömte durch das gesamte Mutterschiff, verwandelte es, heilte es.
+Light exploded from the touch. Not the cold light of technology, but the warm light of forgiveness. It
+flowed through the entire mothership, transforming it, healing it.
 
-Die organischen Wände begannen zu leuchten. Die versklavten Vak'tar erwachten zu neuem Bewusstsein. Die Waffen lösten
-sich auf und wurden zu Gärten. Der lebende Alptraum wurde zu einem lebenden Traum.
+The organic walls began to glow. The enslaved Vak'tar awoke to new consciousness. The weapons dissolved
+and became gardens. The living nightmare became a living dream.
 
-Und in der Mitte von allem stand Malgorth – nicht mehr ein Gott der Zerstörung, sondern wieder das, was er einst gewesen
-war.
+And in the middle of it all stood Malgorth - no longer a god of destruction, but once again what he had once been.
+had once been.
 
-Ein Heiler.
+A healer.
 
-*Danke*, sagte er zu Sarah. *Du hast mir gezeigt, dass Erlösung möglich ist. Auch für Monster.*
+*Thank you*, he said to Sarah. *You've shown me that redemption is possible. Even for monsters.
 
-"Sie waren nie ein Monster," antwortete Sarah. "Sie waren nur... verloren."
+"You were never a monster," Sarah replied. "They were just... Lost."
 
-Malgorth erhob sich, aber diesmal strahlte er mit der Klarheit eines neu geborenen Sterns.
+Malgorth stood up, but this time he shone with the clarity of a newborn star.
 
-*Dann lass uns zusammen etwas reparieren, das viel zu lange gebrochen war.*
+*Let's fix something together that's been broken for far too long.
 
-Er öffnete seine Arme, und sein Licht strömte hinaus zu den dreitausend befreiten Schiffen, zu der Erde, zu jedem Wesen
-im Sonnensystem.
+He opened his arms, and his light streamed out to the three thousand liberated ships, to the earth, to every being
+in the solar system.
 
-Heilung. Nicht nur körperlich, sondern geistig. Emotional. Spirituell.
+Healing. Not just physically, but mentally. Emotionally. Spiritually.
 
-Die Narben von Jahrtausenden der Unterdrückung begannen zu verblassen.
+The scars of millennia of oppression began to fade.
 
-Und Sarah Chen, Neurologin aus San Francisco, lächelte und wusste, dass die Galaxis nie wieder dieselbe sein würde.
+And Sarah Chen, a neurologist from San Francisco, smiled, knowing that the galaxy would never be the same again.
 
-Diesmal war es eine gute Veränderung.
+This time it was a good change.
 
 ---

@@ -1,5 +1,16 @@
+### Marketing Keywords
 
+**Perfect for fans of:** 
+- First Contact Science Fiction
+- Alien Invasion Thrillers  
+- Philosophical Sci-Fi
+- Space Opera with Heart
+- Consciousness & Technology Fiction
+- Redemption & Hope Stories
 
+**Keywords:** 
+
+alien parasites, first contact, consciousness evolution, space opera, philosophical science fiction, hope in darkness, alien invasion, enhanced humans, galactic war, redemption arc
 
 ## Anhang
 

@@ -33,18 +33,8 @@ FORMATS = {
 # Default section order (customizable)
 DEFAULT_SECTION_ORDER = [
     "front-matter/toc.md",
-    "front-matter/preface.md",
-    "front-matter/introduction.md",
-    "front-matter/foreword.md",
     "chapters",  # Entire chapters folder
-    "back-matter/epilogue.md",
-    "back-matter/glossary.md",
-    "back-matter/appendix.md",
-    "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
-    "back-matter/faq.md",
-    "back-matter/bibliography.md",
-    "back-matter/index.md",
 ]
 
 

@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "style": "cinematic, moody lighting, realistic sci-fi atmosphere"
+  },
+  "prompts": [
+    {
+      "filename": "chapter_01_scene_01_sarah_awake.png",
+      "text": "A woman wakes up in a cold, futuristic bedroom at 3:17 AM. She sits up in bed, breathing heavily, sweaty and confused. A red glowing digital clock next to her. Outside, the moonlight shines through the half-open window. The room is silent, tense, eerie."
+    },
+    {
+      "filename": "chapter_01_scene_02_kitchen_summoning.png",
+      "text": "The same woman stands frozen in her kitchen, holding a pot of milk. Her face is pale and shocked. The milk is spilled on the ground, broken shards everywhere. She hears a voice inside her head, terrified, while a faint golden flicker appears in her pupils. Cold fluorescent lighting, tight framing."
+    },
+    {
+      "filename": "chapter_01_scene_03_mirror_panic.png",
+      "text": "Close-up of the woman looking into the bathroom mirror, gripping the sink. Her eyes flicker with strange light. Expression of fear and disbelief. Wet hair, pale skin, shadows around her. Steam on the mirror. Horror atmosphere."
+    },
+    {
+      "filename": "chapter_01_scene_04_front_door_struggle.png",
+      "text": "The woman holds the front door shut from inside, struggling as if someone is controlling her. Her arm moves against her will to unlock the door. She’s desperate, in full panic. Dim lighting, tension, terror. A voice whispers in her mind."
+    },
+    {
+      "filename": "chapter_01_scene_05_mrs_patterson_escape.png",
+      "text": "An elderly neighbor woman stands outside the front door with a concerned expression. The young woman inside yells 'Run!' from behind the glass. Strong contrast of warm porch light and cold interior."
+    },
+    {
+      "filename": "chapter_01_scene_06_golden_lights_appear.png",
+      "text": "Hundreds of golden lights appear in the night sky above a quiet suburban neighborhood. The woman looks up in awe from her window. The lights move in perfect, unnatural harmony, casting soft reflections on glass and rooftops."
+    },
+    {
+      "filename": "chapter_01_scene_07_sarah_freed.png",
+      "text": "Golden light fills the room. The woman stands still, bathed in the glow. The flicker in her eyes fades. Her expression shifts from panic to peace and determination. Dust particles in the air, hopeful atmosphere, sci-fi tone."
+    }
+  ]
+}

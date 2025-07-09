@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "style": "cinematic, sci-fi realism, moody lighting"
+  },
+  "prompts": [
+    {
+      "filename": "chapter_02_scene_01_aida_data_burst.png",
+      "text": "Aida Ramić, 27, Bosnian, 1.69 m tall, petite, pale skin, blue eyes, shoulder-length curly brown hair, wearing a hoodie and sweatpants, sits hunched over a glowing laptop in a dark Sarajevo apartment. Her face is lit by cascading anomalous data on the screen. Rain trickles down the window in the background."
+    },
+    {
+      "filename": "chapter_02_scene_02_sarah_video_warning.png",
+      "text": "Dr. Sarah Chen, 33, Chinese-American, 1.65 m tall, slim build, olive skin, brown eyes, chin-length black hair, wearing a dark grey hospital jacket, appears on a dimly lit video call screen. Behind her, a cluttered hospital office. Aida Ramić is seen staring nervously at her laptop in her apartment."
+    },
+    {
+      "filename": "chapter_02_scene_03_power_outage.png",
+      "text": "Aida's Sarajevo apartment is plunged into darkness as the lights go out. She stands near the window, silhouetted by the faint laptop glow. Her expression is tense and alert, shadows stretching over peeling wallpaper."
+    },
+    {
+      "filename": "chapter_02_scene_04_police_night_check.png",
+      "text": "Officer Daryl Mensah, 40, African-American, 1.83 m tall, athletic build, dark brown eyes, shaved head with gray stubble, in black police uniform and bulletproof vest, stands in the rain next to a patrol car. Flashlight beams cut through fog. Bystanders watch anxiously from the sidewalk."
+    },
+    {
+      "filename": "chapter_02_scene_05_miriam_ruins.png",
+      "text": "Miriam Košová, 35, Czech, 1.70 m tall, slim, fair skin with freckles, green-blue eyes, long blonde hair tied in a bun, wearing a light blouse and cardigan, stands in shock in a destroyed classroom. Desks are overturned, a large hole in the wall reveals the street. Morning light filters through dust."
+    },
+    {
+      "filename": "chapter_02_scene_06_data_symbol_match.png",
+      "text": "Close-up of Aida Ramić's laptop screen showing overlapping datasets and a blurred satellite image forming a strange symbol. Her hand hovers over the touchpad, eyes wide with realization."
+    }
+  ]
+}

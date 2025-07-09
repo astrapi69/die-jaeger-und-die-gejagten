@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "style": "cinematic, sci-fi realism, dramatic lighting"
+  },
+  "prompts": [
+    {
+      "filename": "chapter_03_scene_01_martinez_praying.png",
+      "text": "Father Ignacio Martinez, 58, Latino, 1.75 m tall, stocky build, graying hair, worn black cassock, kneels among the bodies of churchgoers in a darkened San Francisco church, illuminated only by flickering candlelight. His expression is filled with anguish and prayer."
+    },
+    {
+      "filename": "chapter_03_scene_02_miguel_attack.png",
+       "text": "A young boy with curly black hair and torn clothes lies behind the altar of a darkened church. His expression changes rapidly, as if fighting an unseen force. He stumbles toward a priest with erratic movements, holding a sharp object. Stained glass windows cast eerie moonlight across the scene."
+    },
+    {
+      "filename": "chapter_03_scene_03_light_blast.png",
+      "text": "Golden alien light explodes through the church windows, bathing the entire interior in pure brilliance. Miguel collapses, freed from possession. Father Martinez shields his eyes as the golden light swirls like symbols in the air."
+    },
+    {
+      "filename": "chapter_03_scene_04_aida_fire_escape.png",
+      "text": "Aida Ramić, 27, Bosnian, petite, pale skin, blue eyes, shoulder-length curly brown hair, in hoodie and jeans, climbs down a rusted fire escape in Sarajevo as possessed neighbors swarm below. A white van waits with its engine running in the alley."
+    },
+    {
+      "filename": "chapter_03_scene_05_sarah_van_drive.png",
+      "text": "Inside a speeding van, Dr. Sarah Chen, 33, Chinese-American, short gray hair, drives while Aida Ramić sets up laptops with satellite uplinks and hacking tools. Golden lights swirl above the moving vehicle like digital code in the sky."
+    },
+    {
+      "filename": "chapter_03_scene_06_griffith_observatory_arrival.png",
+      "text": "Daryl Mensah, 40, African-American, tall, muscular, shaved head, steps out of a patrol car at the Griffith Observatory. A group of survivors gathers under a massive golden orb of light hovering in the morning sky."
+    },
+    {
+      "filename": "chapter_03_scene_07_first_contact_anari.png",
+      "text": "A group of humans including Sarah Chen, Father Martinez, Miriam Košová, Aida Ramić, and Daryl Mensah stand together, looking up at the golden Anari light. The orb pulses gently as it communicates telepathically. Their faces show awe, exhaustion, and resolve."
+    }
+  ]
+}

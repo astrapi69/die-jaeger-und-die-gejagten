@@ -4,8 +4,36 @@
   },
   "prompts": [
     {
+      "filename": "chapter_04_scene_01_galactic_vision.png",
+      "text": "A breathtaking cosmic panorama unfolds in golden light: alien worlds, vast galaxies, and scenes of Vak'tar invasion. Golden lines connect planets like a web. Human and Anari observers watch the vision in awe."
+    },
+    {
+      "filename": "chapter_04_scene_02_earth_duality.png",
+      "text": "A split scene: one side shows Earth in a utopian future with green cities and peaceful harmony, the other side a ravaged planet scorched by war and covered in shadow. The vision glows between both extremes."
+    },
+    {
+      "filename": "chapter_04_scene_03_anari_council.png",
+      "text": "Inside a luminous chamber made of flowing light, human protagonists stand before the Anari council. Elyon, a radiant being with humanoid form and luminous tendrils, addresses the group telepathically."
+    },
+    {
+      "filename": "chapter_04_scene_04_kythara_before_after.png",
+      "text": "Side-by-side view of Kythara: one half shows a lush alien paradise with floating crystal towers, the other a ruined wasteland after a Vak’tar attack, bathed in red shadows and debris."
+    },
+    {
+      "filename": "chapter_04_scene_05_technology_gift.png",
+      "text": "Sarah Chen receives a glowing device from Elyon’s hands, surrounded by holographic symbols and alien code. The group looks on, bathed in iridescent light and awe."
+    },
+    {
+      "filename": "chapter_04_scene_06_light_lab_transformation.png",
+      "text": "A transparent crystalline chamber forms around the protagonists. Nanotechnology and golden neural webs begin scanning and enhancing their bodies. The setting is surreal and peaceful."
+    },
+    {
       "filename": "chapter_04_scene_07_return_observatory.png",
       "text": "Five people — two women and three men — stand on a grassy hilltop under a pale morning sky. Above them float glowing golden orbs arranged in gentle curves. The group watches silently as the orbs shimmer and cast long, soft shadows on the ground."
+    },
+    {
+      "filename": "chapter_04_scene_08_final_gaze_before_change.png",
+      "text": "Aida, Sarah, Daryl, Father Martinez, and Miriam stand side by side, eyes fixed on the sky. Behind them: consoles, the Anari ship, and golden radiance. Their expressions are calm, ready, and resolute."
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "style": "futuristic elegance, luminous alien architecture, cinematic calm"
+  },
+  "prompts": [
+    {
+      "filename": "chapter_08_scene_01_alliance_meeting.png",
+      "text": "A vast hall with floating crystal lights. Human delegates and Anari beings sit in concentric circles, surrounded by soft golden illumination."
+    },
+    {
+      "filename": "chapter_08_scene_02_translated_light_dialogue.png",
+      "text": "Golden light patterns swirl through the air, forming visual sentences. Holographic displays in front of humans translate them in real time."
+    },
+    {
+      "filename": "chapter_08_scene_03_emotional_response.png",
+      "text": "Close-up shots of human faces reacting emotionally — tears, wonder, awe — against a glowing, ethereal background."
+    },
+    {
+      "filename": "chapter_08_scene_04_internal_conflict.png",
+      "text": "Two human groups face each other tensely. One is hopeful, the other skeptical, standing apart beneath alien murals."
+    },
+    {
+      "filename": "chapter_08_scene_05_martinez_question.png",
+      "text": "Father Martinez stands alone in front of the Anari council. He speaks calmly, golden energy threads respond with pulsing light."
+    },
+    {
+      "filename": "chapter_08_scene_06_galactic_archive.png",
+      "text": "A massive, floating sphere projects stars, memories, alien civilizations — a visual record of galactic history fills the chamber."
+    },
+    {
+      "filename": "chapter_08_scene_07_alliance_sealed.png",
+      "text": "An energetic sigil glows above everyone in the room, symbolizing the formation of an interspecies alliance."
+    },
+    {
+      "filename": "chapter_08_scene_08_new_uniforms.png",
+      "text": "Sarah, Aida, and Daryl wear new, minimalist uniforms with glowing symbols representing their unity and leadership."
+    },
+    {
+      "filename": "chapter_08_scene_09_final_glance.png",
+      "text": "The group stands before a panoramic space window, gazing into the stars. They look solemn, determined, and ready."
+    }
+  ]
+}

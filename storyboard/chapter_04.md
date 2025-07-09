@@ -1,9 +1,10 @@
 # 🎞️ Storyboard – Kapitel 4: Offenbarung
 
-**Schauplätze:**  
-- Visionärer Raum der Anari  
-- Kosmische Projektionen  
-- Erde, Vergangenheit und Zukunft  
+**Schauplätze:**
+
+- Visionärer Raum der Anari
+- Kosmische Projektionen
+- Erde, Vergangenheit und Zukunft
 - Griffith-Observatorium
 
 **Stimmung:** Erhaben, mystisch, hoffnungsvoll und entschlossen

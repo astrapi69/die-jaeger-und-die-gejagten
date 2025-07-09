@@ -1,6 +1,7 @@
 # Storyboard – Kapitel 1: Das Flüstern im Dunkeln
 
-Dieses Storyboard visualisiert die Schlüsselbilder des ersten Kapitels der Geschichte „Die Jäger und die Gejagten“. Jede Szene zeigt einen entscheidenden Moment aus Sarah Chens erster Begegnung mit den Vak’tar-Parasiten.
+Dieses Storyboard visualisiert die Schlüsselbilder des ersten Kapitels der Geschichte „Die Jäger und die Gejagten“. Jede
+Szene zeigt einen entscheidenden Moment aus Sarah Chens erster Begegnung mit den Vak’tar-Parasiten.
 
 ---
 
@@ -8,7 +9,8 @@ Dieses Storyboard visualisiert die Schlüsselbilder des ersten Kapitels der Gesc
 
 ![Sarah wacht auf](../assets/storyboard/chapter_01_scene_01_sarah_awake.png)
 
-*Sarah sitzt schweißgebadet in einem dunklen, futuristischen Schlafzimmer aufrecht im Bett. Es ist 3:17 Uhr. Der Mond scheint herein. Alles ist zu still.*
+*Sarah sitzt schweißgebadet in einem dunklen, futuristischen Schlafzimmer aufrecht im Bett. Es ist 3:17 Uhr. Der Mond
+scheint herein. Alles ist zu still.*
 
 ---
 
@@ -16,7 +18,8 @@ Dieses Storyboard visualisiert die Schlüsselbilder des ersten Kapitels der Gesc
 
 ![Summen in der Küche](../assets/storyboard/chapter_01_scene_02_kitchen_summoning.png)
 
-*Sarah steht in der Küche, als eine fremde Stimme in ihrem Kopf ertönt. Die Milch verschüttet sich, der Topf zerbricht. Ihre Pupillen beginnen zu flackern.*
+*Sarah steht in der Küche, als eine fremde Stimme in ihrem Kopf ertönt. Die Milch verschüttet sich, der Topf zerbricht.
+Ihre Pupillen beginnen zu flackern.*
 
 ---
 
@@ -24,7 +27,8 @@ Dieses Storyboard visualisiert die Schlüsselbilder des ersten Kapitels der Gesc
 
 ![Panik im Spiegel](../assets/storyboard/chapter_01_scene_03_mirror_panic.png)
 
-*Sarah starrt in den Badezimmerspiegel. Ihre Augen flackern fremdartig. Sie ringt mit der Angst, ihren Verstand zu verlieren.*
+*Sarah starrt in den Badezimmerspiegel. Ihre Augen flackern fremdartig. Sie ringt mit der Angst, ihren Verstand zu
+verlieren.*
 
 ---
 
@@ -32,7 +36,8 @@ Dieses Storyboard visualisiert die Schlüsselbilder des ersten Kapitels der Gesc
 
 ![Kampf gegen sich selbst](../assets/storyboard/chapter_01_scene_04_front_door_struggle.png)
 
-*Sie hält die Haustür zu, aber ihre eigene Hand gehorcht ihr nicht mehr. Eine fremde Kraft zwingt sie, die Tür zu öffnen.*
+*Sie hält die Haustür zu, aber ihre eigene Hand gehorcht ihr nicht mehr. Eine fremde Kraft zwingt sie, die Tür zu
+öffnen.*
 
 ---
 
@@ -40,7 +45,8 @@ Dieses Storyboard visualisiert die Schlüsselbilder des ersten Kapitels der Gesc
 
 ![Flieh, Mrs. Patterson](../assets/storyboard/chapter_01_scene_05_mrs_patterson_escape.png)
 
-*Sarah ruft durch die verschlossene Tür: „Laufen Sie weg!“ Draußen steht die alte Nachbarin, erschrocken im Licht der Veranda.*
+*Sarah ruft durch die verschlossene Tür: „Laufen Sie weg!“ Draußen steht die alte Nachbarin, erschrocken im Licht der
+Veranda.*
 
 ---
 
@@ -48,7 +54,8 @@ Dieses Storyboard visualisiert die Schlüsselbilder des ersten Kapitels der Gesc
 
 ![Goldene Lichter am Himmel](../assets/storyboard/chapter_01_scene_06_golden_lights_appear.png)
 
-*Hunderte goldener Lichter erscheinen über der Nachbarschaft. Sie bewegen sich geordnet, wie tanzende Sterne. Sarah blickt gebannt nach oben.*
+*Hunderte goldener Lichter erscheinen über der Nachbarschaft. Sie bewegen sich geordnet, wie tanzende Sterne. Sarah
+blickt gebannt nach oben.*
 
 ---
 
@@ -56,9 +63,11 @@ Dieses Storyboard visualisiert die Schlüsselbilder des ersten Kapitels der Gesc
 
 ![Sarahs Befreiung](../assets/storyboard/chapter_01_scene_07_sarah_freed.png)
 
-*Das goldene Licht erfüllt das Zimmer. Sarahs Augen flackern ein letztes Mal, dann wird sie klar. Die Stimme in ihrem Kopf verstummt.*
+*Das goldene Licht erfüllt das Zimmer. Sarahs Augen flackern ein letztes Mal, dann wird sie klar. Die Stimme in ihrem
+Kopf verstummt.*
 
 ---
 
 > **Hinweis für Produktion**:  
-> Diese Bildsequenzen können zur Regieplanung, zum Szenenaufbau oder als Vorlage für Comic-/Film-Adaptionen verwendet werden.
+> Diese Bildsequenzen können zur Regieplanung, zum Szenenaufbau oder als Vorlage für Comic-/Film-Adaptionen verwendet
+> werden.

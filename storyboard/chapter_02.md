@@ -10,7 +10,8 @@
 
 ![scene](../assets/storyboard/chapter_02_scene_01_aida_data_burst.png)
 
-Aida sitzt nachts im schwach beleuchteten Zimmer, das Gesicht vom Licht ihres Laptops erleuchtet. Der Bildschirm zeigt ein chaotisches Datenmuster.
+Aida sitzt nachts im schwach beleuchteten Zimmer, das Gesicht vom Licht ihres Laptops erleuchtet. Der Bildschirm zeigt
+ein chaotisches Datenmuster.
 
 ---
 
@@ -34,7 +35,8 @@ Das Licht flackert in Aidas Wohnung, dann totale Dunkelheit. Nur das Notlicht de
 
 ![scene](../assets/storyboard/chapter_02_scene_04_police_night_check.png)
 
-Officer Daryl Mensah und ein Kollege kontrollieren nachts eine Straße mit Scheinwerfern, während Menschen verstört am Rand stehen.
+Officer Daryl Mensah und ein Kollege kontrollieren nachts eine Straße mit Scheinwerfern, während Menschen verstört am
+Rand stehen.
 
 ---
 

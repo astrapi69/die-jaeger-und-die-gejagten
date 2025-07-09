@@ -1,9 +1,10 @@
 # 🎞️ Storyboard – Kapitel 6: Der Preis der Macht
 
-**Schauplätze:**  
-- Anari-Lichtkammern  
-- Innere Visionen  
-- Meditative und emotionale Räume  
+**Schauplätze:**
+
+- Anari-Lichtkammern
+- Innere Visionen
+- Meditative und emotionale Räume
 - Spiegelbildliche Selbstbegegnung
 
 **Stimmung:** Intensiv, intim, spirituell, überfordernd und heilend
@@ -14,7 +15,8 @@
 
 ![scene](../assets/storyboard/chapter_06_scene_01_transformation_begins.png)
 
-Die Protagonisten stehen in durchscheinenden Lichtkammern. Schweben leicht, während sich goldene neuronale Netzwerke um sie legen – ruhig, sanft, überirdisch.
+Die Protagonisten stehen in durchscheinenden Lichtkammern. Schweben leicht, während sich goldene neuronale Netzwerke um
+sie legen – ruhig, sanft, überirdisch.
 
 ---
 
@@ -22,7 +24,8 @@ Die Protagonisten stehen in durchscheinenden Lichtkammern. Schweben leicht, wäh
 
 ![scene](../assets/storyboard/chapter_06_scene_02_new_abilities_awaken.png)
 
-Aida sieht digitale Muster mit bloßem Auge. Daryl nimmt Bewegungen verlangsamt wahr. Zwischen ihnen schwebt elektrische Spannung – still und voller Kraft.
+Aida sieht digitale Muster mit bloßem Auge. Daryl nimmt Bewegungen verlangsamt wahr. Zwischen ihnen schwebt elektrische
+Spannung – still und voller Kraft.
 
 ---
 
@@ -30,7 +33,8 @@ Aida sieht digitale Muster mit bloßem Auge. Daryl nimmt Bewegungen verlangsamt 
 
 ![scene](../assets/storyboard/chapter_06_scene_03_overload.png)
 
-Miriam bricht zusammen, hält sich den Kopf. Fremde Gedanken und Eindrücke fluten ihren Geist – sie wirkt verwirrt, erschüttert, verletzlich.
+Miriam bricht zusammen, hält sich den Kopf. Fremde Gedanken und Eindrücke fluten ihren Geist – sie wirkt verwirrt,
+erschüttert, verletzlich.
 
 ---
 
@@ -38,7 +42,8 @@ Miriam bricht zusammen, hält sich den Kopf. Fremde Gedanken und Eindrücke flut
 
 ![scene](../assets/storyboard/chapter_06_scene_04_sarah_vision_child.png)
 
-Sarah sieht ihre verstorbene Tochter – lebendig, lächelnd, greifbar. Die Szene wirkt wunderschön und gleichzeitig zutiefst schmerzhaft.
+Sarah sieht ihre verstorbene Tochter – lebendig, lächelnd, greifbar. Die Szene wirkt wunderschön und gleichzeitig
+zutiefst schmerzhaft.
 
 ---
 
@@ -46,7 +51,8 @@ Sarah sieht ihre verstorbene Tochter – lebendig, lächelnd, greifbar. Die Szen
 
 ![scene](../assets/storyboard/chapter_06_scene_05_sarah_breaks.png)
 
-Sarah fällt auf die Knie, schreit, weint. Das Licht um sie flackert. Es ist ein Moment tiefster Verzweiflung – roh und menschlich.
+Sarah fällt auf die Knie, schreit, weint. Das Licht um sie flackert. Es ist ein Moment tiefster Verzweiflung – roh und
+menschlich.
 
 ---
 
@@ -62,7 +68,8 @@ Father Martinez hält Sarah im Arm. Sein Glaube, seine Ruhe helfen ihr. Das Lich
 
 ![scene](../assets/storyboard/chapter_06_scene_07_group_transformed.png)
 
-Alle stehen wieder zusammen – verändert, stärker, aber still. In ihren Augen schimmert goldenes Licht. Sie wissen: Es gibt kein Zurück.
+Alle stehen wieder zusammen – verändert, stärker, aber still. In ihren Augen schimmert goldenes Licht. Sie wissen: Es
+gibt kein Zurück.
 
 ---
 
@@ -70,5 +77,6 @@ Alle stehen wieder zusammen – verändert, stärker, aber still. In ihren Augen
 
 ![scene](../assets/storyboard/chapter_06_scene_08_mirror_reflection.png)
 
-Jeder Charakter steht allein vor einem Spiegel. Sie betrachten sich – ernst, erstaunt, respektvoll. Sie erkennen ihr neues Selbst.
+Jeder Charakter steht allein vor einem Spiegel. Sie betrachten sich – ernst, erstaunt, respektvoll. Sie erkennen ihr
+neues Selbst.
 

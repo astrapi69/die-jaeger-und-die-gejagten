@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "style": "epic sci-fi realism, emotional atmosphere, cinematic clarity"
+  },
+  "prompts": [
+    {
+      "filename": "chapter_09_scene_01_dawn_before_battle.png",
+      "text": "A quiet city at dawn, bathed in soft golden light from the Anari. The group prepares for the final day. Shadows stretch across rooftops."
+    },
+    {
+      "filename": "chapter_09_scene_02_strategy_meeting.png",
+      "text": "Sarah, Aida, Martinez, and Daryl stand around a 3D projection of Earth showing attack vectors, countdowns, and energy zones."
+    },
+    {
+      "filename": "chapter_09_scene_03_global_mobilization.png",
+      "text": "People across different countries activate makeshift command centers. Screens glow, diverse leaders coordinate via video link."
+    },
+    {
+      "filename": "chapter_09_scene_04_vaktar_arrival.png",
+      "text": "Dark alien ships break through the clouds, massive and ominous. A deep, echoing hum vibrates through the city."
+    },
+    {
+      "filename": "chapter_09_scene_05_defense_lines.png",
+      "text": "Humans and Anari deploy glowing shield barriers and floating defense drones. The sky is tense with anticipation."
+    },
+    {
+      "filename": "chapter_09_scene_06_prayer_circle.png",
+      "text": "Father Martinez leads a multi-faith group in prayer under open sky. Some kneel, others hold hands. A moment of peace before battle."
+    },
+    {
+      "filename": "chapter_09_scene_07_daryl_final_message.png",
+      "text": "Daryl speaks into a headset calmly, eyes determined. Red warning lights blink around him as the room vibrates with tension."
+    },
+    {
+      "filename": "chapter_09_scene_08_battle_begins.png",
+      "text": "Explosions light the sky as the first wave of Vak’tar strikes. Humans, Anari, and drones fight together in chaotic urban warfare."
+    },
+    {
+      "filename": "chapter_09_scene_09_aida_digital_interface.png",
+      "text": "Inside a virtual space, Aida navigates massive data flows with glowing hands. Her eyes are lit with streaming symbols."
+    },
+    {
+      "filename": "chapter_09_scene_10_final_light.png",
+      "text": "A great golden light spreads across the sky. The battlefield slows, people look up. A sense of ending and transformation fills the air."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "style": "dark sci-fi realism, high contrast lighting, tension-filled atmosphere"
+  },
+  "prompts": [
+    {
+      "filename": "chapter_07_scene_01_invasion_begins.png",
+      "text": "Dark, metallic-organic shapes appear in the sky, casting long shadows and emitting a low vibrating hum. People on the ground look up, frightened and confused."
+    },
+    {
+      "filename": "chapter_07_scene_02_global_response.png",
+      "text": "Inside global command centers and military bases, personnel work frantically. Screens show maps, satellite feeds, and emergency messages in multiple languages."
+    },
+    {
+      "filename": "chapter_07_scene_03_vaktar_tech.png",
+      "text": "A hybrid Vak’tar creature, part flesh, part biomechanical, connects its tendrils to a neural interface and begins infiltrating a digital network using psychic energy."
+    },
+    {
+      "filename": "chapter_07_scene_04_telepathic_attack.png",
+      "text": "People on crowded city streets clutch their heads and collapse as a massive telepathic wave hits. The air seems to shimmer with invisible pressure."
+    },
+    {
+      "filename": "chapter_07_scene_05_anari_shield.png",
+      "text": "Over a major city, a translucent geometric energy shield forms. The golden lattice pulses as it protects buildings from an incoming attack. Citizens watch in awe."
+    },
+    {
+      "filename": "chapter_07_scene_06_sarah_hologram.png",
+      "text": "Sarah stands in a dark control room, surrounded by a glowing holographic world map. She points to red zones and speaks to distant allies through a headset."
+    },
+    {
+      "filename": "chapter_07_scene_07_group_meets.png",
+      "text": "Father Martinez, Daryl, Miriam, and Aida gather with other Anari-linked humans in a secret underground base, planning their coordinated resistance."
+    },
+    {
+      "filename": "chapter_07_scene_08_vaktar_monster.png",
+      "text": "In the heart of a city, a massive Vak’tar creature with glowing red veins and spider-like limbs emerges from a dimensional portal. Its eyes flicker with hate."
+    },
+    {
+      "filename": "chapter_07_scene_09_orbit_view.png",
+      "text": "From orbit, Earth is visible: golden energy networks stretch across continents, but dark, crackling voids spread from Vak’tar impact zones. A battle of light and shadow begins."
+    }
+  ]
+}

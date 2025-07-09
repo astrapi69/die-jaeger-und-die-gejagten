@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "style": "cinematic, documentary-style realism, soft lighting, multicultural atmosphere"
+  },
+  "prompts": [
+    {
+      "filename": "chapter_05_scene_01_global_awakening.png",
+      "text": "People across the world — in cities, villages, mountains — look up at the sky filled with glowing golden lights. Faces show awe, fear, and wonder. A global moment of awakening."
+    },
+    {
+      "filename": "chapter_05_scene_02_news_media_react.png",
+      "text": "A montage of TV screens showing major news networks (CNN, BBC, NHK, Al Jazeera) covering the phenomenon of golden lights. Anchors, scientists, and priests offer conflicting explanations."
+    },
+    {
+      "filename": "chapter_05_scene_03_public_discussion.png",
+      "text": "Groups of people sit at kitchen tables, in mosques, churches, synagogues, and public parks. They debate, pray, or comfort one another, struggling to understand the events."
+    },
+    {
+      "filename": "chapter_05_scene_04_peace_and_protest.png",
+      "text": "Crowds gather peacefully: some holding candles and praying, others with protest signs warning against alien influence. The atmosphere is tense but non-violent."
+    },
+    {
+      "filename": "chapter_05_scene_05_invitation_from_anari.png",
+      "text": "A golden light floats above a city square, displaying glowing universal symbols and messages in many languages. People stop to watch, some recording with their phones."
+    },
+    {
+      "filename": "chapter_05_scene_06_first_joiners.png",
+      "text": "In various regions — Africa, Asia, Europe — small groups step into floating portals or board shimmering Anari vessels. Expressions show hesitation and hope."
+    },
+    {
+      "filename": "chapter_05_scene_07_main_group_reacts.png",
+      "text": "Sarah, Aida, Daryl, Father Martinez, and Miriam stand together on a hillside, watching golden lights descend around the globe. Their faces reflect pride, sadness, and conviction."
+    },
+    {
+      "filename": "chapter_05_scene_08_final_glance.png",
+      "text": "Close-up of the main group’s faces — eyes forward, jaws clenched, tears in some eyes — as they step into a radiant field of light. This is the moment of irreversible change."
+    }
+  ]
+}

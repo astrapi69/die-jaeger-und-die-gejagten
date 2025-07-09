@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "style": "emotional sci-fi realism, glowing ambient light, cinematic intimacy"
+  },
+  "prompts": [
+    {
+      "filename": "chapter_06_scene_01_transformation_begins.png",
+      "text": "The protagonists stand inside translucent light chambers. They begin to levitate slightly as golden neural webs wrap around them in a calm, luminous atmosphere."
+    },
+    {
+      "filename": "chapter_06_scene_02_new_abilities_awaken.png",
+      "text": "Aida stares at invisible data streams appearing before her eyes. Daryl senses movement in slow motion, reacting with calm focus. The air shimmers with energy."
+    },
+    {
+      "filename": "chapter_06_scene_03_overload.png",
+      "text": "Miriam kneels, overwhelmed, holding her head. Her expression shows confusion and pain as ghostlike telepathic images surround her."
+    },
+    {
+      "filename": "chapter_06_scene_04_sarah_vision_child.png",
+      "text": "Sarah sees a vivid, heartbreaking vision of her deceased daughter standing before her, smiling. The scene glows warmly but carries deep sorrow."
+    },
+    {
+      "filename": "chapter_06_scene_05_sarah_breaks.png",
+      "text": "Sarah collapses to her knees in anguish, screaming her daughter’s name. Her face is twisted in grief, and the golden light flickers chaotically around her."
+    },
+    {
+      "filename": "chapter_06_scene_06_martinez_comforts_sarah.png",
+      "text": "Father Martinez holds Sarah gently, whispering words of comfort. Around them, the environment stabilizes. Warm, sacred light bathes the scene."
+    },
+    {
+      "filename": "chapter_06_scene_07_group_transformed.png",
+      "text": "The group stands united, visibly changed. Subtle golden light glows in their eyes. They are stronger, but more solemn. The background fades into twilight."
+    },
+    {
+      "filename": "chapter_06_scene_08_mirror_reflection.png",
+      "text": "Each character faces a mirror or reflective surface alone. They study their transformed faces in silence — a moment of self-awareness and quiet acceptance."
+    }
+  ]
+}

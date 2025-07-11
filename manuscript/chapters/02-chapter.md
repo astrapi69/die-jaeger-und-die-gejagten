@@ -1,4 +1,4 @@
-# Chapter 2: The first night {#chapter-2}
+# Chapter 2: The First Night {#chapter-2}
 
 ![Terror begins](../../assets/chapter_02_terror.jpg)
 
@@ -6,75 +6,85 @@
 
 ## 3:42 a.m. local time {#-sarajevo-1}
 
-Aida Ramić shot up from her sleep as her laptop screen exploded.
+Aida Ramić jolted upright as her laptop screen flared to life.
 
-Not literally. But the streams of data racing across her monitor could just as easily have been fire. Hundreds of
-network anomalies, communication spikes, encrypted signals - all at the same time, all without explanation.
+Not literally. But the flood of data racing across her monitor may as well have been fire.  
+Hundreds of network anomalies. Communication spikes. Encrypted signals. All at once. All without explanation.
 
-"Šta se dešava?" she mumbled, rubbing her eyes. Her fingers flew over the keyboard, typing commands that she had
-in her sleep. Aida was one of the best hackers in Eastern Europe, even if no one was officially allowed to know that.
+"Šta se dešava?" she mumbled, rubbing her eyes. Her fingers flew across the keyboard, launching commands she knew by
+heart.  
+Aida was one of the best hackers in Eastern Europe — not that anyone was supposed to know.
 
-The data made no sense. Satellite feeds from around the world showed the same pattern: sudden spikes in
-spikes in activity at 3:00 a.m. local time. London, New York, Tokyo, Sydney. As if the whole world had been holding its breath
-at the same time.
+None of it made sense.  
+Satellite feeds from across the globe showed the same phenomenon: sudden spikes in activity at exactly 3:00 a.m. local
+time.  
+London. New York. Tokyo. Sydney. As if the whole planet had collectively held its breath.
 
-Then the live streams began.
+Then the live streams started.
 
-Aida opened a dozen windows at the same time. News feeds, social media, private surveillance cameras that she had
-had long since hacked. What she saw made her blood run cold.
+She opened a dozen windows at once — news feeds, social media, hacked security cams.  
+What she saw froze her blood.
 
-People on the streets. But they were moving... wrong.
+People. In the streets.  
+But something about the way they moved was… wrong.
 
-In Manchester, a woman trotted down the high street in a nightgown, a kitchen knife in her hand. In Seoul, a man left his
-a man left his apartment and threw Molotov cocktails into his neighbors' windows. In Rio, a whole family systematically
-family systematically smashed the cars in their street.
+In Manchester, a woman in a nightgown wandered the main road with a kitchen knife in her hand.  
+In Seoul, a man hurled Molotov cocktails into his neighbors’ windows.  
+In Rio, an entire family smashed cars in their street — methodically, almost calmly.
 
-All with the same expressionless face. All with the same blank stare.
+All with the same blank stare. The same vacant expression.
 
-"Nah, nah, nah..." Aida typed feverishly, searching for a common denominator, an explanation. A computer virus?
-Mass hypnosis? Chemical weapons?
+"No, no, no..." Aida typed feverishly, trying to identify a common cause.  
+A virus? Mass hypnosis? Neurotoxins?
 
-Then she heard a knock on her door.
+Then came the knock at her door.
 
-Aida lived alone in a tiny apartment on the fourth floor of a building that had seen its best days before the war.
-had seen its best days before the war. No one visited her at this time of year. No one visited her at all.
+Aida lived alone in a cramped fourth-floor apartment in a war-weathered building.  
+No one visited her. Especially not at this hour.
 
-The knocking came again. Rhythmically. Patiently. Persistently.
+The knock came again — steady, rhythmic, patient.
 
-She crept to the door and peeked through the peephole. Her neighbor, Mr. Martinović, was standing in the hallway. A retired teacher,
-who usually greeted politely and had his own worries.
+She crept toward the door and looked through the peephole.
+
+Mr. Martinović, her neighbor. A retired teacher. Quiet. Polite. Always kept to himself.
 
 But his face...
 
-It was the same expressionless stare as the people in the videos.
+That same empty stare.
 
-"Aida," he said in a voice that was his and yet not his. "Open the door. We need to talk."
+“Aida,” he said — in his voice, but not his voice. “Open the door. We need to talk.”
 
-Aida backed away from the spy. Her laptop beeped a warning. New data poured in - reports of massacres in hospitals
-hospitals, pilots crashing their planes, soldiers shooting at their own comrades.
+Aida backed away.  
+Her laptop chimed with a new alert. Reports were pouring in: massacres in hospitals. Pilots crashing their own planes.
+Soldiers turning on their comrades.
 
-Everywhere in the world. At the same time.
+Everywhere.  
+All at once.
 
-"Aida." Martinović's voice was closer now. As if he were standing right outside the door. "You can't stay in there forever.
-forever. We know you're there."
+“Aida.” His voice again — closer now, just on the other side. “You can’t stay in there forever.  
+We know you’re inside.”
 
-*We?*
+_We?_
 
-Aida ran to her window and looked out. There were people in the street. Dozens of them. They were all looking
-up to her window. All with the same blank expression.
+She ran to the window.
 
-Her cell phone rang. An unknown number.
+Down on the street, dozens of people were staring up at her window.  
+All with that same, dead gaze.
 
-"Hello?" she whispered.
+Her phone rang. Unknown number.
 
-"Aida Ramić," said a voice she didn't recognize. But the accent... American? "Listen and don't ask
-no questions. Take your laptop and leave the building. Now."
+“Hello?” she whispered.
 
-"Who is that? How did you-"
+“Aida Ramić,” said an unfamiliar voice — American accent. “Listen carefully. Don’t ask questions.  
+Grab your laptop and leave the building. Now.”
 
-"The roof. There's a fire escape at the back. Move along."
+“Who are you? How did you—”
 
-The line was dead.
+“The roof. There’s a fire escape in the back. Move. Now.”
+
+Click.
+
+The line went dead.
 
 ---
 
@@ -82,82 +92,87 @@ The line was dead.
 
 ## 6:58 a.m. local time
 
-Officer Daryl Mensah stared at his partner's body, trying to understand why his hand wouldn't stop shaking.
-shaking.
+Officer Daryl Mensah stared at his partner’s body, wondering why his hand wouldn’t stop trembling.
 
-Jenny Martinez lay in a pool of blood in front of the 24-hour gas station, which they actually just wanted to stop for a routine check.
-wanted to stop. Three gunshot wounds to the chest. Precise. Professional.
+Jenny Martinez lay in a pool of blood outside the 24-hour gas station they’d pulled into for a routine call.  
+Three shots to the chest. Precise. Efficient.
 
-Daryl had fired.
+Daryl had fired them.
 
-But Jenny had shot first. At the child.
+But Jenny had shot first.  
+At the child.
 
-"Dispatch, we need... we need everything here," he spoke into the radio, his voice raspy. "Officer down. Civilian
-down. Suspect..." He faltered. "Suspect neutralized."
+“Dispatch, we need... we need everything,” he said hoarsely into the radio. “Officer down. Civilian down. Suspect...”  
+He paused. “Suspect neutralized.”
 
-How did you explain that the suspect was your own partner?
+How do you explain that the suspect was your own partner?
 
-It had started at 3 o'clock in the morning. An emergency call - domestic violence in apartment 12B. Standard procedure. They had
-driven there, knocked on the door. Mrs. Chen, a neurologist Daryl had encountered before during a traffic stop,
-had called for help.
+It began around 3 a.m.  
+Domestic disturbance in apartment 12B. Standard response. They knocked.
 
-But when she opened the door, Jenny was just... freaked out.
+Mrs. Chen — a neurologist Daryl had once pulled over for speeding — had called for help.
 
-"You see it too, don't you?" Jenny had whispered, pointing her gun at Mrs. Chen. "The thing in her head. It's
-It's moving."
+But the moment the door opened, Jenny lost it.
 
-"Jenny, drop the gun!"
+“You see it too, don’t you?” she whispered, aiming her gun at Mrs. Chen. “That thing in her head. It’s moving.”
 
-"They're all infected, Daryl. Can't you see it?" Jenny's eyes were dilated, her pupils strangely small. "They
-have something in them. Something hungry."
+“Jenny, drop the weapon!”
 
-Mrs. Chen had tried to explain that she was all right, that she had just had a bad dream. But Jenny didn't listen.
-not listen. She took aim.
+“They’re infected, Daryl. All of them. Can’t you see it?” Her pupils were pinpoints. Her voice brittle.  
+“They’ve got something inside. Something _hungry_.”
 
-And then she pulled the trigger.
+Mrs. Chen tried to explain — it was just a bad dream, she was fine.
 
-Daryl had had no choice.
+Jenny didn’t listen.
 
-Now he knelt beside Mrs. Chen, who was wounded but alive. "It's okay," he murmured as he applied pressure to the
-the bullet wound on her shoulder. "You'll be fine."
+She pulled the trigger.
 
-"Officer," Mrs. Chen reached for his arm, her eyes wide and clear. "Your partner... she wasn't herself,
-wasn't she?"
+And Daryl had no choice.
 
-Daryl froze. "What do you mean?"
+Now he knelt beside Mrs. Chen. She was wounded, but alive.  
+“It’s okay,” he murmured, pressing a towel against her shoulder. “You’re going to be okay.”
 
-"The eyes. Did you see her eyes? The flickering?"
+“Officer...” she reached for his arm, eyes wide and lucid. “Your partner... she wasn’t herself, was she?”
 
-He had seen it. Jenny's eyes had pulsed as if there was a faint light behind them.
+Daryl froze. “What do you mean?”
 
-"It's not her fault," Mrs. Chen whispered. "She wasn't herself anymore. None of them are."
+“Her eyes. Did you see them flicker?”
 
-"Who are you talking about?"
+He had.  
+Jenny’s eyes had pulsed — as if something dim and alien was glowing behind them.
 
-Mrs. Chen gestured weakly towards the window. Daryl followed her gaze and saw people standing in the street. Dozens of
-of them. All of them were looking up at the apartment.
+“It wasn’t her fault,” Mrs. Chen whispered. “She wasn’t herself anymore. None of them are.”
 
-All with the same flickering light in their eyes.
+“None of who?”
 
-Daryl's radio crackled: "All units, all units. We have multiple incidents throughout the city.
-Repeat: multiple incidents. Officers are attacking civilians. Civilians attacking officers. All available
-units..."
+She pointed weakly to the window.
 
-The dispatcher's voice broke off. Then, after a moment of silence: "Help. Someone... they're here. They're all
-here and they're staring at me and I can't... I can't..."
+Outside, people stood in the street. Dozens of them.  
+All looking up at the apartment.  
+All with that same flickering glow in their eyes.
 
-Silence.
+Daryl’s radio crackled to life:  
+“All units, multiple incidents citywide. Repeat: Officers attacking civilians. Civilians attacking officers. All
+available units—”
 
-Daryl reached for his gun, checked the magazine. Full load. But how many shots would he need? And at
-who would he shoot?
+The voice cut out.  
+Silence.  
+Then: “Help. They’re here. They’re all here. They’re staring at me and I can’t— I can’t—”
 
-Mrs. Chen tugged at his sleeve. "The lights," she gasped, "have you seen the golden lights?"
+Silence again.
 
-He had seen them. Glowing dots in the sky that moved like living stars.
+Daryl checked his weapon. Full magazine.  
+But how many shots would he need?  
+And who — or what — would he be shooting?
 
-"What are they?"
+Mrs. Chen tugged on his sleeve. “The lights,” she gasped. “Did you see the golden lights?”
 
-"I don't know," Mrs. Chen replied. "But I think... I think they're here to help."
+He had.  
+Points of light in the sky, drifting like living stars.
+
+“What are they?”
+
+“I don’t know,” she said softly. “But I think... I think they’re here to help.”
 
 ---
 
@@ -165,89 +180,100 @@ He had seen them. Glowing dots in the sky that moved like living stars.
 
 ## 12:34 p.m. local time
 
-Miriam Košová hid thirteen children in the school library and prayed that the barricade in front of the door would hold.
+Miriam Košová huddled in the school library with thirteen children, praying the barricade would hold.
 
-She heard footsteps in the corridor outside. Slowly. Methodically. The footsteps of her colleagues, school by school,
-searching classroom by classroom.
+Outside, footsteps echoed down the hallway. Slow. Measured.  
+Her colleagues — searching room by room.
 
-It had started during the second lesson. Miriam was teaching history - the Velvet Revolution,
-Hope and Change - when Mr. Novák, the math teacher, stormed into the classroom.
+It had started during second period.  
+Miriam had been teaching history — the Velvet Revolution, hope, change — when Mr. Novák, the math teacher, burst in.
 
-Without a word, he had grabbed Anna, a ten-year-old girl in the front row, and thrown her against the wall.
+Without a word, he grabbed Anna, a ten-year-old girl in the front row, and threw her against the wall.
 
-"Mr. Novák!" Miriam had jumped up. "What are you doing?"
+“Mr. Novák!” Miriam jumped up. “What are you doing?!”
 
-He had looked at her with eyes that were not his. Eyes that flickered like faulty light bulbs. Then he had
-smiled.
+He turned to her with eyes that didn’t belong to him. Flickering like faulty lights.  
+Then he smiled.
 
-"Lessons," he had said. "I teach them what pain means."
+“Lessons,” he said. “I’m teaching them what pain means.”
 
-Miriam had pressed the emergency button, but there had been no emergency as planned. Instead, more teachers had
-had turned up. All with the same flickering gaze. All with the same hungry smiles.
+She hit the emergency alarm.  
+But the emergency never came.
 
-She had gathered as many children as she could and ran to the library. The safest place she knew.
-Books as a barricade, knowledge as protection.
+More teachers arrived instead.  
+All with flickering eyes. All with hungry smiles.
 
-But it wouldn't be enough.
+She gathered as many kids as she could and fled to the library.  
+Books as walls. Knowledge as shield.
 
-"Mrs. Košová," whispered Tomáš, an eight-year-old boy with big eyes. "Why have the teachers become so angry?"
+But it wouldn’t be enough.
 
-Miriam squatted down next to him. How do you explain to a child that the world had gone mad? That the people
-they trusted had become monsters?
+“Miss Košová,” whispered Tomáš, a wide-eyed eight-year-old. “Why are the teachers being so mean?”
 
-"Sometimes," she said quietly, "people are sick. But not in their bodies. In their..." she tapped her forehead.
-forehead, "in here."
+She crouched beside him.  
+How do you explain to a child that the world has gone mad?
 
-"Can they get better?"
+“Sometimes,” she said gently, “people get sick. Not in here—” she pointed to his chest “—but here.” She tapped her
+forehead.
 
-Miriam looked at the window. She saw strange lights dancing in the sky. Golden dots that moved in patterns that almost looked
-that almost looked like speech.
+“Can they get better?”
 
-"I think so," she said, hoping she was right.
+She glanced toward the window.
 
-The footsteps outside the door stopped.
+Golden lights drifted across the sky — moving in patterns that looked almost like language.
 
-"Miriam," called a familiar voice. Mrs. Dvořáková, the principal. "We know you're in there. With the
-children."
+“I think so,” she whispered, hoping it was true.
 
-Miriam told the children to be quiet.
+The footsteps stopped.
 
-"You can't protect them forever," the voice continued. "They have to learn. We all have to learn what we
-really are."
+“Miriam,” called a familiar voice — Principal Dvořáková. “We know you’re in there. With the children.”
 
-A knock on the door. Then a scratching sound. As if fingernails were scraping over wood.
+Miriam motioned for silence.
 
-"People are so fragile," whispered the principal. "So full of unnecessary emotions. Love. Hope.
-Compassion. We can help them let it all go."
+“You can’t protect them forever,” the voice continued. “They must learn. We all must learn what we really are.”
 
-Miriam hugged the children closer to her. Thirteen little lives entrusted to her. Thirteen reasons not to
-to give up.
+A knock at the door.  
+Then scratching.  
+Fingernails on wood.
 
-The scratching became louder.
+“Humans are so fragile,” the principal whispered. “So full of useless emotions. Love. Hope. Compassion.  
+We can help them let go.”
 
-And then, suddenly, it fell silent.
+Miriam held the children close.  
+Thirteen small souls.  
+Thirteen reasons not to give up.
 
-"What...?" The principal's voice sounded confused. "No. That's not possible."
+The scratching grew louder.
 
-Miriam heard quick footsteps. Footsteps running away.
+And then — silence.
 
-She crept to the window and looked out. The golden lights in the sky had become brighter. And all around the
-schoolyard - the teachers, the staff - stood staring around in confusion, as if they had just woken up from a dream.
-awakening from a dream.
+“What...?” The principal’s voice quivered. “No. That’s not possible.”
 
-"Mrs. Košová?" Tomáš tugged at her sleeve. "Are the bad teachers good again now?"
+Miriam heard footsteps. Retreating. Running.
 
-Miriam watched as Mr. Novák cupped his hands over his face and began to cry. How the principal
-sank to her knees and began to scream.
+She crept to the window.
 
-"I think," she said slowly, "someone is helping them."
+The golden lights were brighter now.  
+On the schoolyard below, teachers and staff stood blinking, confused — as if waking from a dream.
 
-But who? And how long would it take?
+“Miss Košová?” Tomáš tugged her sleeve. “Are the mean teachers nice again?”
 
-And what was the price they all had to pay?
+She watched as Mr. Novák buried his face in his hands and wept.  
+As the principal dropped to her knees and screamed.
 
-The golden lights pulsed brightly for once, and Miriam had the feeling that everything was about to change.
+“I think,” Miriam said slowly, “someone is helping them.”
 
-She just didn't know whether it was for the better or for the worse.
+But who?
+
+And for how long?
+
+And what would it cost?
+
+The golden lights pulsed once —  
+and Miriam knew:  
+Everything was about to change.
+
+She just didn’t know…  
+whether it was for better — or for worse.
 
 ---

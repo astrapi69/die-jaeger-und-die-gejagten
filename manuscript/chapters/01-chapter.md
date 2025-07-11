@@ -1,195 +1,204 @@
 # The hunters and the hunted
 
-## Chapter 1: Whispering in the dark {#chapter-1}
+## Chapter 1: The Whisper in the Dark {#chapter-1}
 
-![The invasion](../../assets/chapter_01_invasion.jpg)
+![The Invasion](../../assets/chapter_01_invasion.jpg)
 
 Dr. Sarah Chen awoke with a scream that never left her lips.
 
-3:17 am. The digital display of her alarm clock beamed at her through the darkness of her bedroom like a red
-reproach. Beads of sweat trickled down her forehead, even though the November air streamed coldly through the tilted window.
+3:17 a.m.  
+The red digits on her alarm clock glared at her through the darkness like a silent accusation. Beads of sweat trickled
+down her forehead, even as the cold November air streamed through the tilted window.
 
-Something was different. Wrong.
+Something was different.  
+Wrong.
 
-She lay completely still and listened into the silence. Her neurologist's brain worked automatically: pulse increased, breathing
-shallow, adrenaline rush with no recognizable trigger. A nightmare? No. She didn't remember any dreams.
+She lay perfectly still, straining into the silence. Her neurologist’s mind began its routine scan: elevated pulse,
+shallow breathing, adrenaline surge — without a discernible cause.  
+A nightmare? No. She remembered no dream.
 
 Then she heard it.
 
-A humming sound. So quiet that she wondered if it was real at all. Like the humming of old power lines or the
-the distant roar of a highway. But more metallic. More vivid.
+A faint humming. So soft she questioned if it was real. Like the hum of aging power lines, or the distant drone of
+highway traffic.  
+But more metallic.  
+More alive.  
+_Hungrier._
 
-*Hungry.
+Sarah slowly sat up and reached for the light. The dim glow from her bedside lamp pushed back the shadows — but not the
+dread that flowed through her veins like ice water.
 
-Sarah slowly sat up and felt for the light switch. The dim light from the bedside lamp chased away the shadows
-shadows, but not the unease that spread through her veins like ice water.
+The hum was gone.
 
-The buzzing had disappeared.
-
-She got up and went to the window. The street was deserted, the lanterns cast yellow cones on the wet asphalt.
-Everything was normal. Everything was quiet.
+She got up and moved to the window. The street outside lay deserted. Streetlights cast yellow cones across the wet
+asphalt.  
+Everything looked normal.  
+Everything was quiet.
 
 Too quiet.
 
-Where were the cats that usually sneaked through the gardens at this time of day? Where was the barking of Mr. Kowalski's dog, who
-barked at every night walker? The silence was not just the absence of sound - it was *absolute*. As if
-someone had muted the world.
+Where were the cats that normally roamed the gardens at this hour? Where was the bark of Mr. Kowalski’s dog, who always
+scolded midnight walkers?  
+This silence wasn’t the absence of sound — it was _total_. As if someone had muted the world.
 
-Sarah put on her robe and crept to the kitchen. A glass of warm milk, maybe that would help. As she
-pouring the milk into a saucepan, she noticed her trembling hands.
+Sarah pulled on her robe and padded into the kitchen. A warm glass of milk — maybe that would help. As she poured the
+milk into a pot, she noticed her hands were trembling.
 
-*Come on, Sarah*, she scolded herself. *You're a neurologist. You know panic attacks.
+_Come on, Sarah_, she scolded herself. _You’re a neurologist. You know what panic attacks feel like._
 
-But this wasn't a panic attack. This was...
+But this wasn’t a panic attack.
 
-The buzzing was back.
+The hum returned.
 
-This time it didn't come from outside. It came from her head.
+This time, it came from inside her head.
 
-Sarah froze, the pot of milk still in her hand. The sound pulsed behind her eyes, rhythmic like a second heartbeat.
-heartbeat. Like a signal.
-
+Sarah froze, the milk pot still in her hand. The sound throbbed behind her eyes — rhythmic, like a second heartbeat.  
+Like a signal.  
 Like a language.
 
-*At last*, whispered a voice in her head that was not her own. *A new host. And so... promising.
+_At last_, whispered a voice inside her mind. _A new host. And so... promising._
 
-The milk pot slipped from her fingers and smashed on the kitchen floor. White splashes everywhere, shards like teeth in the
+The pot slipped from her hands and shattered on the floor. Milk splattered everywhere. Shards gleamed like teeth in the
 candlelight.
 
-"What... Who...?" Sarah grabbed her head, pressing her palms against her temples. The buzzing grew louder,
-drilled deeper into her consciousness.
+“What... Who...?” Sarah clutched her head, pressing her palms to her temples. The buzzing intensified, drilling deeper
+into her consciousness.
 
-*Don't be afraid*, the voice purred amusedly. *I'm here to... complete you*.
+_Don’t be afraid_, purred the voice, almost playfully. _I’m here to... complete you._
 
-Sarah ran to the bathroom and stared at herself in the mirror. Her face was pale, her eyes wide with panic. But
-there was something else. Her pupils - they were flickering. As if a faint light was pulsing behind them.
+Sarah stumbled to the bathroom and stared into the mirror. Her face was pale, eyes wide with panic.  
+But there was something else. Her pupils — they flickered. As though a faint light pulsed behind them.
 
-*You're a scientist*, the voice continued, and Sarah felt her thoughts organize themselves, even though she didn't want to.
-didn't want to. *You will understand. We are the next stage of evolution. Not for us - for you.
+_You’re a scientist,_ the voice continued, and she felt her thoughts aligning, despite her resistance. _You’ll
+understand. We are the next stage of evolution. Not for us — for you._
 
-"Out." Sarah narrowed her eyes and concentrated. "Get out of my head!"
+“Get out.” Sarah narrowed her eyes and focused. “Get out of my head!”
 
-*That's not how it works, love.* The voice sounded closer now, more intimate. *I'm already part of you. Look.
+_That’s not how this works, love._ The voice was closer now, almost intimate. _I’m already a part of you. Look._
 
-Without Sarah wanting it, her right hand lifted. She watched, fascinated and horrified, as her own fingers
-spread apart and slowly clenched into a fist. Then they opened again.
+Without her willing it, her right hand lifted. She watched, horrified, as her fingers spread and then slowly curled into
+a fist — then relaxed again.
 
-Not their movement. Not their decision.
+Not her movement.  
+Not her choice.
 
-*Impressive, isn't it? Your neurological system is so... primitive. So easy to overwrite.
+_Fascinating, isn’t it? Your neural system is so... primitive. So easy to override._
 
-Sarah ran back into the bedroom and grabbed her cell phone. 911. She had to... She had to call someone. An
-Ambulance. The police. Someone.
+Sarah dashed back to her bedroom and grabbed her phone. 911. She had to call someone — an ambulance, the police —
+anyone.
 
 But her fingers dialed a different number.
 
-"Hello?" A sleepy voice. Her neighbor, Mrs. Patterson.
+“Hello?” A sleepy voice. Her neighbor — Mrs. Patterson.
 
-"Mrs. Patterson," Sarah heard herself say, though she didn't speak the words. "Could you come over here? I've...
-Something's happened to me."
+“Mrs. Patterson,” she heard herself say, though she hadn’t spoken. “Could you come over? Something’s... happened.”
 
-*Perfect*, praised the voice. *You learn quickly.
+_Perfect_, praised the voice. _You learn fast._
 
-"Sarah? It's the middle of the night, dear. Is everything all right?"
+“Sarah? It’s the middle of the night, dear. Is everything okay?”
 
-"Please," Sarah struggled to form her own words, "don't... don't... here..."
+“Please,” Sarah struggled to form her own words, “don’t... come...”
 
-But her voice said: "I've fallen. I need help. The door is open."
+But her voice said: “I fell. I need help. The door’s open.”
 
-Mrs. Patterson sighed, "I'll be right there."
+A sigh. “I’ll be right there.”
 
-The conversation ended. Sarah stared at the cell phone as if it were a snake.
+The call ended. Sarah stared at the phone as if it had turned into a snake.
 
-*Why?* she managed to think.
+_Why?_ she managed to think.
 
-*Because she trusts. Because she is weak. Because we need to spread out.* The voice sounded eager now. *Your planet
-is so full of delicious little flesh creatures. So full of pain and fear. We will help you realize your potential.
-unfold.*
+_Because she trusts. Because she’s weak. Because we need to spread._ The voice grew eager. _Your planet is so full of
+tender little meat-creatures. So full of pain. So full of fear. We’ll help you unlock your potential._
 
-Sarah heard footsteps outside the front door. Mrs. Patterson, the 78-year-old widow next door who baked cookies every Sunday
-and had three cats.
+Footsteps outside the front door.  
+Mrs. Patterson. The 78-year-old widow next door. Bakes cookies every Sunday. Owns three cats.
 
-*No.* Sarah threw herself against the bedroom door and turned the key. *I won't let you hurt her.
-hurt her.
+_No._ Sarah hurled herself against the bedroom door and locked it. _I won’t let you hurt her._
 
-*The voice laughed, a sound like shattering glass. *You still don't understand who's in control here.
-control here.
+_You won’t let me?_ The voice laughed — a sound like shattering glass. _You still don’t understand who’s in control._
 
-Sarah's body moved against her will. Her legs carried her to the door, her hand turned the key back. She
-fought against every movement, but it was as if she was fighting against steel.
+Her body moved against her will. Legs carried her to the door. Hand turned the key.  
+She fought every motion — but it was like wrestling steel.
 
-"Sarah? I'm here!" Mrs. Patterson's voice from downstairs.
+“Sarah? I’m here!” Mrs. Patterson’s voice, muffled, from downstairs.
 
-*The voice was now a command, cold as iron and irresistible. *Open the door. Invite her in.
+_Go._ The voice was no longer playful. It was a command. Cold. Irresistible. _Open the door. Let her in._
 
-Sarah walked down the stairs, each step a betrayal of her own will. She saw her hand move towards the door handle
-towards the door handle, saw it move to open.
+Sarah descended the stairs, each step a betrayal. Her hand reached for the doorknob — started to turn it.
 
-And then, in a last desperate surge of willpower, she screamed, "RUN! RUN AWAY!"
+Then, in one final surge of will, she screamed:  
+**“RUN! RUN AWAY!”**
 
 Silence.
 
-*That*, the voice said softly, *was very unwise.
+_That_, the voice murmured, _was very unwise._
 
-The pain came like a bolt of lightning. Sarah sank to her knees, her hands pressed to her head. It felt as if her brain was being
-her brain was being pierced with red-hot needles.
+The pain struck like lightning. Sarah dropped to her knees, clutching her head.  
+It felt like her brain was being stabbed with red-hot needles.
 
-"Sarah? What's going on in there?" Mrs. Patterson's worried voice. "I'm calling the police!"
+“Sarah? What’s going on in there?” Mrs. Patterson’s voice again — worried. “I’m calling the police!”
 
-*No*, the voice commanded, and the pain subsided. *You will tell her that everything is all right. You will
-invite her in. And you will watch as we show her what pain really means.
+_No_, barked the voice — and the pain ebbed. _You’ll tell her it’s fine. You’ll let her in. And you’ll watch as we show
+her what pain really means._
 
-Sarah stood up slowly. Her hand moved to the door handle.
+Sarah slowly rose. Her hand moved toward the door handle.
 
-But at that moment she heard something else. A different hum. Higher, clearer. And the voice in her head...
-fell silent.
+But then — she heard something else.  
+A new hum.
 
-*What...?* A hint of confusion. For the first time, the thing in her head sounded uncertain.
+Higher. Purer.
 
-The new humming grew louder. And with it came light - a soft, golden glow that fell through the window next to the door.
-door.
+And the voice in her head...  
+Fell silent.
 
-Sarah turned around and looked outside.
+_What... ?_  
+A flicker of confusion. For the first time, the thing inside her sounded unsure.
 
-Lights hovered in the sky. Hundreds of them. Like glowing snowflakes, moving in perfect patterns.
-They pulsed to the rhythm of the new hum, as if they were talking to each other.
+The new hum grew louder. And with it came light — soft, golden light spilling through the window by the door.
 
-*No*, hissed the voice in her head, now panicked. *That's not possible. You shouldn't... you can't
-not...*
+Sarah turned and looked outside.
 
-The golden light became brighter. And suddenly Sarah felt something loosen in her head. As if a cage
-opened.
+Lights hovered in the sky. Hundreds of them. Like glowing snowflakes, moving in perfect harmony.  
+They pulsed with the rhythm of the new hum — as if speaking to each other.
 
-She could think clearly again.
+_No,_ hissed the voice, now frantic. _This isn’t possible. They’re not supposed to... they can’t..._
 
-"Mrs. Patterson!" she called through the door. "Go home! Lock all the doors and windows! Don't trust
-no one!"
+The golden glow brightened — and something in Sarah’s mind snapped free.  
+Like a cage opening.
 
-"Sarah, what are you talking about? Let me in!"
+She could think again.
 
-"NO!" Sarah leaned against the door. "Look up at the sky! Do you see the lights? Something is happening. Something
-Big."
+“Mrs. Patterson!” she called through the door. “Go home! Lock your doors and windows! Don’t trust anyone!”
 
-She heard Mrs. Patterson's astonished murmur. "My God... what is that?"
+“Sarah, what are you talking about? Let me in!”
 
-*Come back*, the voice in Sarah's head whispered, but it sounded weaker now. *You're mine.
+“NO!” Sarah pressed herself against the door. “Look at the sky! Do you see the lights? Something’s happening. Something
+big.”
 
-"No," Sarah said loudly. "I don't belong to anyone."
+A stunned gasp. “My God... what is that?”
 
-The golden light pulsed brightly once, and the voice fell completely silent.
+_Come back,_ the voice whispered — faint now. _You’re mine._
 
-Sarah sank against the door and stared out through the window at the dancing lights in the sky. Somewhere out there,
-in the darkness, people were screaming. But here, in this moment, she was free.
+“No,” Sarah said aloud. “I belong to no one.”
 
-The only question was: for how long?
+The golden light surged — and the voice vanished completely.
 
-And who were the new players in this cosmic chess game?
+Sarah collapsed against the door, staring out at the dancing lights in the sky.  
+Somewhere out there, people were screaming.
 
-Sarah reached for her laptop. As a neurologist, she had to understand what was happening. As a human being, she had to
-survive.
+But here, in this moment, she was free.
+
+The only question was:  
+For how long?
+
+And who were the new players in this cosmic game?
+
+She reached for her laptop.  
+As a neurologist, she had to understand.  
+As a human being, she had to survive.
 
 As if the fate of the world depended on it.
 
-Which, as she would soon learn, was indeed the case.
+Which, as she would soon discover, it did.
 
 ---

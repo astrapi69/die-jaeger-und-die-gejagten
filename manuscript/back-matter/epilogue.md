@@ -214,6 +214,8 @@ still a team.
 
 Still a family.
 
+---
+
 ## Sydney, Australia {#-sydney-1}
 
 ## Galactic Communications Center
@@ -252,6 +254,8 @@ The galaxy was vast.
 
 But it was full of friends.
 
+---
+
 ## Rome, Italy {#-rom-1}
 
 ## Basilica of St. Peter
@@ -284,6 +288,8 @@ He looked around: at humans and aliens laughing, dancing, sharing stories. At a 
 difference rather than fear it.
 
 “I think,” he said with a smile, “He’s overjoyed.”
+
+---
 
 ## Brno, Czech Republic {#-brno-2}
 
@@ -319,6 +325,8 @@ She had learned something vital over the years:
 Pain could become wisdom.  
 Trauma could become compassion.  
 And love would always outlast fear.
+
+---
 
 ## Somewhere Among the Stars {#-somewhere}
 
@@ -356,6 +364,8 @@ Elyon nodded thoughtfully. *Humanity has taught us much.*
 *They’ve shown us that true strength isn’t control… it’s the choice to serve.*
 
 The two ancient beings drifted in silence, watching a galaxy that, at last, was learning how to be a family.
+
+---
 
 ## Griffith Observatory, Los Angeles {#-the-new-morning}
 

@@ -1,235 +1,209 @@
-# Chapter 6: First blood {#chapter-6}
+# Chapter 6: First Blood {#chapter-6}
 
-![reparation](../../assets/chapter_06_healing.jpg)
+![Reparation](../../assets/chapter_06_healing.jpg)
 
 ## Orbit of Mars {#-orbit-of-mars}
 
-## 11:43 Earth time
+## 11:43 Earth Time
 
-Sarah Chen raced towards the first alien spaceship she had ever seen at 50,000 kilometers per hour,
-and wondered whether she had gone completely mad.
+Sarah Chen raced toward the first alien spaceship she had ever seen—fifty thousand kilometers per hour—and wondered if
+she had lost her mind.
 
-The Vak'tar ship was a black thorn against the red of Mars. Angular, organic, like a giant insect made of
-living metal. It moved sluggishly through space, its sensors methodically scanning every corner of the solar system.
-solar system.
+The Vak'tar ship appeared as a black thorn against the red of Mars. Angular, organic, like a colossal insect made of
+living metal. It moved sluggishly through space, its sensors methodically scanning the solar system.
 
-**They haven't noticed us yet**, Aida glowered from her ship. **Your technology is designed to detect
-conventional space travel. We are flying outside their parameters.
+**They haven't noticed us yet**, Aida signaled from her ship. **Their tech is optimized for conventional spacecraft.
+We're flying outside their detection parameters.**
 
-**Good**, Sarah replied. **Element of surprise. How humans have always fought.
+**Good**, Sarah replied. **Element of surprise. Humanity's oldest tactic.**
 
-She felt the weight of her new responsibility. A few hours ago, she had been a neurologist who had slept badly.
-who had slept badly. Now she was leading humanity's first interplanetary mission.
+The weight of her new responsibility pressed on her. Hours ago, she'd been a sleep-deprived neurologist. Now, she was
+leading humanity’s first interplanetary combat mission.
 
-**Keep formation**, she ordered. **Daryl and I are going head-on. Aida, try to hack their systems. Father
-Martinez and Miriam, stay back and cover us.
+**Maintain formation**, she commanded. **Daryl and I will take point. Aida, try hacking their systems. Father Martinez
+and Miriam—cover us.**
 
-**Understood**, replied four voices simultaneously.
+**Understood**, came four voices in unison.
 
-The Vak'tar ship grew larger. Sarah could see details now - openings in the hull that looked like mouths,
-pulsing veins of dark light running through the structure. It wasn't just a ship. It was a living
-organism.
+The Vak'tar ship loomed larger. Sarah now saw the grotesque details—hull openings that resembled mouths, pulsating veins
+of dark light coursing through the structure. This wasn’t just a ship. It was a living organism.
 
-**My God**, Father Martinez whispered. **It's... beautiful**.
+**My God**, whispered Father Martinez. **It’s... beautiful.**
 
-**Beautiful and deadly**, Daryl corrected. **Like a Cobra**.
+**Beautiful and deadly**, Daryl corrected. **Like a cobra.**
 
-Sarah focused her enhanced senses on the ship. Now that she was closer, she could see the life forms inside.
-the life forms inside. Hundreds of them. None. Not life forms. Parasites. They crawled through the ship like blood through veins.
+Sarah focused her enhanced senses. Up close, she could feel the presence inside the vessel—hundreds of beings. No... not
+beings. Parasites. Crawling through the ship like blood through veins.
 
-**It's full of Vak'tar**, she reported. **Prepare yourselves**.
+**It’s full of Vak’tar**, she said. **Brace yourselves.**
 
-Suddenly, the enemy ship changed its movement. It turned towards them like a predator scenting prey.
-scenting prey.
+Suddenly, the alien ship changed course. It turned toward them like a predator catching the scent of prey.
 
-**They've spotted us**, Aida glowed. **I'm trying to disrupt their communications, but... their technology
-is different. Organic. Like a brain.
+**They’ve spotted us**, Aida alerted. **Trying to disrupt their communication, but... their systems are organic. Like a
+brain.**
 
-The Vak'tar ship opened one of its mouth openings, and something shot out. Not a projectile - something alive.
-A black mass that spread through space like ink in water.
+One of the ship’s gaping orifices opened—and something emerged. Not a missile. Something alive. A black mass unfurled
+into space like ink in water.
 
-**Miriam asked in alarm.
+**What is that?** Miriam asked, alarmed.
 
-Sarah felt it before she saw it. Millions of tiny life forms approaching them with terrifying speed.
-approaching them.
+Sarah sensed it before she saw it—millions of tiny lifeforms racing toward them.
 
-**Parasite swarm**, she realized. **They're trying to infiltrate our ships**.
+**Parasite swarm**, she realized. **They're attempting to breach our ships.**
 
-**Then we'll show them that humans aren't so easy to conquer anymore**, Daryl said grimly.
+**Then it’s time they learned—humans aren't so easy to conquer anymore,** Daryl said grimly.
 
-His ship transformed. The liquid light it was made of hardened into something that looked like winged steel.
-looked like winged steel. Weapons materialized on its hull - but not weapons Sarah knew. They glowed with the
-same golden energy as the Anari.
+His ship transformed. The liquid light it was made of solidified into what resembled winged steel. Strange weapons
+formed along its surface—glowing with the same golden energy as the Anari.
 
 Daryl fired.
 
-The beam of light that shot out of his ship was not just a beam of energy. It was *intelligent*. Sarah saw how it
-through the swarm of parasites, targeting and destroying every single organism.
+The beam wasn’t just energy—it was *intelligent*. Sarah watched it weave through the swarm, targeting and vaporizing
+each organism with surgical precision.
 
 The black mass evaporated like smoke.
 
-**Holy shit**, Daryl lit up. **That was better than any weapon I've ever used**.
+**Holy shit**, Daryl exclaimed. **That beats every weapon I've ever fired.**
 
-**Concentration**, warned Sarah. **That was just the first wave**.
+**Focus**, Sarah reminded. **That was only the first wave.**
 
-The Vak'tar ship reacted. Its entire surface began to pulsate, and Sarah felt something in her head begin to stir.
-something began to stir in her head. A familiar buzzing. An attempt at a takeover.
+The Vak'tar ship pulsed violently. Sarah felt something stir inside her mind. A familiar, sinister buzz. A psychic
+intrusion.
 
-*Little beings of light*, a cold voice whispered in her consciousness. *You think you can stop us? We are
-Legion. We are inevitable.
+*Little lights,* a cold voice whispered. *You think you can stop us? We are Legion. We are inevitable.*
 
-**They're trying to take us over**, Sarah warned. **Mental barriers up**.
+**They’re trying to possess us**, Sarah warned. **Raise mental shields!**
 
-But the voice just laughed. *You are still human, deep down. And humans are weak. They are afraid.
-Doubt. Pain.
+The voice only laughed. *You’re still human, deep down. And humans are weak. Afraid. Full of doubt. And pain.*
 
-Suddenly Sarah saw visions. Jenny Martinez, Daryl's partner, aiming at the child. Mrs. Delgado, raising the knife.
-Mrs. Delgado raising the knife. All the people who had become monsters tonight.
+Visions struck Sarah: Jenny Martinez aiming at a child. Mrs. Delgado with a raised knife. All the people turned into
+monsters tonight.
 
-*You see?* the voice whispered triumphantly. *You are all monsters. We're just showing you what you really are.
+*You see?* the voice hissed. *You are the monsters. We simply reveal the truth.*
 
-Sarah hesitated for a moment. Was that true? Were they really just beasts with a thin layer of civilization?
+Sarah hesitated. Was it right? Was civilization just a thin veil?
 
-Then she heard Father Martinez's voice, not mentally, but loud and clear over the comms:
+Then she heard Father Martinez—audibly, not mentally—his voice calm and firm over the comms:
 
 "Our Father in heaven, hallowed be your name..."
 
 **What are you doing?** Daryl asked.
 
-**Something very human**, Father Martinez replied calmly. **I pray. For all of us.
+**Something deeply human,** Martinez replied. **I’m praying. For all of us.**
 
-And suddenly Sarah felt it. Warmth spreading through her consciousness. Not the cold efficiency of
-Anari technology, but something deeper. Older. More human.
+And Sarah felt it—a warmth flowing through her mind. Not the cold precision of Anari tech, but something older. Deeper.
 
 Hope.
 
-*That's impossible,* the Vak'tar voice hissed, more uncertain now.
+*Impossible,* the Vak’tar voice faltered.
 
-**No**, Sarah shone with renewed clarity. **This is human. Something you'll never understand.
+**No**, Sarah responded with calm certainty. **It’s human. And you’ll never understand it.**
 
-She aimed her neural disruptor at the enemy ship and fired.
+She fired her neural disruptor.
 
-The beam was not golden like Daryl's weapons. It was white. Pure, clear light that cut through the room like a scalpel through flesh.
-scalpel through flesh.
+The beam wasn’t golden—it was white. Pure, clean light that sliced through space like a scalpel through flesh.
 
-When he met the Vak'tar ship, something unexpected happened.
+The Vak’tar ship screamed—not in sound, but in a vibration that shook her bones. A howl of millions of tormented souls.
 
-The ship screamed.
+**They’re not just parasites**, Aida gasped. **The ship… it’s made from assimilated lifeforms. Conquered species turned
+into tech.**
 
-Not with voices, but with a frequency that Sarah could feel in her bones. A scream from millions of throats,
-millions of tortured souls.
+Sarah saw it too. The ship’s “organic” parts weren’t grown. They were once *living beings*. Enslaved. Transformed into
+machinery.
 
-**It's not just parasites**, Aida suddenly realized. **The ship... It's made of conquered life forms. They
-have assimilated other species and made them part of their technology.
+**My God**, Miriam whispered. **They're prisoners.**
 
-Sarah saw it now, too. The "organic" parts of the ship had not grown - they *had once been living beings*.
-been*. Conquered aliens whose bodies and minds had been transformed into living components.
+Martinez’s voice rose: “…and deliver us from evil…”
 
-**My God**, Miriam whispered. **They're prisoners**.
+Sarah’s disruptor burrowed deeper. The screaming faded. In its place: gratitude. Relief. Peace.
 
-Father Martinez's voice became louder, more insistent: "...and lead us not into temptation, but deliver us from evil...".
-evil..."
+She was freeing them.
 
-Sarah's disruptor beam penetrated deeper into the ship. Everywhere it passed through, the screaming stopped.
-Instead, Sarah felt... Gratitude. Relief. Peace.
+**That’s it**, she declared. **We’re not killing them. We’re setting them free.**
 
-She freed them.
+The others understood. Four beams hit the Vak’tar ship from all sides—Daryl’s adaptive cannons, Aida’s quantum rays,
+Martinez’s healing energy, Miriam’s empathic pulses.
 
-**That's it**, she glowed triumphantly. **We're not killing them. We're freeing them.
+The ship unraveled—not destructively, but like a flower shedding its petals. Millions of light-points streamed from its
+hull. Liberated souls. Finally at rest.
 
-The others understood immediately. Four beams of light hit the Vak'tar ship from different sides. Daryl's adaptive
-weapons, Aida's quantum rays, Father Martinez's healing energy, Miriam's empathic impulses.
+The true Vak’tar—the parasites—were exposed. Small, fragile. Shivering in the vacuum of space.
 
-The ship began to fall apart. But not destructively - it disintegrated like a flower that drops its petals.
-dropping its petals. Millions of tiny points of light streamed out of its hull. Liberated souls that could finally rest.
+**They’re so... tiny**, Miriam said, almost pitying.
 
-The actual Vak'tar - the parasites - were suddenly naked and vulnerable without their conquered hosts. Sarah saw
-them for what they really were: tiny, desperate creatures huddled in the cold of space.
+**Tiny and vicious**, Daryl snapped, aiming his weapons.
 
-**You're so... small**, Miriam lit up with pity.
+**Wait**, Sarah said. A thought formed. **Aida, can you capture them? Alive?**
 
-**Small and vicious**, Daryl corrected. He aimed his weapons at the parasite clusters.
+**Why?**
 
-**Wait**, said Sarah. An idea formed in her expanded consciousness. **Aida, can you capture her? Alive?
-**
+**They hold intel. On their main fleet. On their weaknesses.**
 
-**Why would we want that?**
+Aida’s ship cast an energy net—catching the swarm without destroying it.
 
-**Because they have information. About the main fleet. About their weaknesses.
+**Captured**, she confirmed. **But they’re still dangerous.**
 
-Aida's ship projected an energy field. Like a giant net, it collected the scattered Vak'tar without killing them.
-killing them.
+Sarah looked toward the other two Vak’tar ships approaching. Slower. Cautious. They had witnessed everything.
 
-**Caught**, she reported. **But I warn you - they are still dangerous**.
+**Incoming transmission**, Aida said. **Not a language I recognize.**
 
-Sarah looked over at the two other Vak'tar ships that were now approaching them. Slower, more cautious.
-They had seen what had happened to their comrade.
+**Let me try**, said Martinez.
 
-**Message received**, Aida suddenly lit up. **The other ships are sending something... it's not a language I know.
-I know.
+He opened his empathic senses to the alien signal.
 
-Father Martinez's voice was soft: **Let me try**.
+**They're… afraid**, he said. **Truly afraid. And... confused.**
 
-He expanded his consciousness and touched the foreign signals with his newly acquired empathy.
+**Confused about what?** Sarah asked.
 
-**They... They're scared**, he reported in surprise. **Really scared. And... Confusion?**
+**That we freed their prisoners instead of destroying them. It’s… never happened before.**
 
-**Confusion about what?** Sarah asked.
+A wild idea sparked in Sarah’s mind.
 
-**About the fact that we freed their prisoners instead of killing them. That... that's never happened before.
+**Send them a message**, she said. **Tell them we’re not enemies. We came to free the prisoners. All of them.**
 
-Sarah sensed an idea germinating. A crazy, impossible idea.
+**Sarah**, Daryl warned. **They’re monsters.**
 
-**Send a message back**, she ordered. **Tell them... Tell them we are not their enemies. That we are here
-are here to free the prisoners. All the prisoners**.
+**No**, she said gently. **The parasites are monsters. The ships—they’re prisoners, too.**
 
-**Sarah**, Daryl lit up in warning. **These are killers. Monsters.
+A pause. Then: a response.
 
-**No**, she replied with renewed clarity. **These are the Vak'tar. The parasites are the monsters. But these
-ships... they are as much prisoners as the beings they have assimilated.
+Not weapons. A message.
 
-A long moment of silence. Then the other two ships responded.
+Martinez translated: **They ask… if we can help them too.**
 
-Not with weapons. But with a message.
+Sarah looked toward Earth—so small, so vulnerable. In seventeen hours, two thousand such ships would arrive. Each
+carrying millions of captives and thousands of parasites.
 
-Father Martinez translated: **They ask... They ask if we can help them too.
+An unwinnable war. Unless...
 
-Sarah looked down at the earth, this blue marble that looked so small and vulnerable. In seventeen hours
-a fleet of two thousand such ships would arrive. Each full of millions of prisoners and thousands of
-parasites.
+**Yes**, she signaled. **We can help. All of you.**
 
-An impossible battle. Except...
+**Sarah**, Aida warned. **This is a huge risk.**
 
-**Yes**, she beamed over to the Vak'tar ships. **We can help you. We can help you all.
+**This is hope**, Martinez said. **Something deeply human.**
 
-**Sarah**, Aida warned. **This is an enormous risk**.
+The enemy ships moved closer—like wild beasts seeing kindness for the first time.
 
-**This is hope**, Father Martinez corrected. **Something very, very human.
+**If this works**, Daryl said, **we’re not just fighting. We’re liberating.**
 
-The two enemy ships came closer. Cautiously, like wild animals experiencing friendliness for the first time.
+**And if it doesn’t?** asked Miriam.
 
-**If this works**, Daryl lit up, **then we're not just fighting a battle. We're fighting a liberation.
+Sarah looked at her four companions—reborn, yet still human.
 
-**And if it doesn't work?** asked Miriam.
+**Then we die as what we are. As people who tried to do the right thing.**
 
-Sarah looked over at her four companions - these impossible people who had become something new, but had not lost their humanity.
-had not lost their humanity.
+The first freed Vak’tar ship joined their formation. Its organic structure began to glow—not coldly, but warmly.
 
-**Then we die as what we are. As people who have tried to do the right thing.
+**It’s transforming**, Aida said in awe. **The freed parts are forming something new.**
 
-The first liberated Vak'tar ship approached their convoy. Its organic parts began to glow - not with the cold light of the
-the cold light of the parasites, but with something warmer.
+**An alliance**, Sarah smiled. **Between humans—and everyone who wants to be free.**
 
-**It's transforming**, Aida reported in amazement. **The liberated components... they form something new**.
+She looked toward the stars, where the main fleet approached.
 
-**An alliance**, Sarah said with a smile. **An alliance between humans and all those who want to be free**.
+**Send word to Earth**, she ordered. **Tell them we’re coming home. And we’re not coming alone.**
 
-She looked out at the stars, where the Vak'tar main fleet was approaching.
-
-**Send a message to Earth**, she ordered. **Tell them we're coming home. And we're bringing help.
-
-The war for Earth had just taken a completely new turn.
+The war for Earth had just taken a radical turn.
 
 ---
 
-## 16 hours, 47 minutes until the arrival of the Vak'tar main fleet
+## 16 hours, 47 minutes until the arrival of the Vak’tar main fleet

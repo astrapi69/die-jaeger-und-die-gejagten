@@ -13,7 +13,8 @@ transformed into something she would never have thought possible: a galactic wel
 welcome palace.
 
 Runways were lit up all over the planet. Hospitals had opened their doors. Schools had been converted into
-had been converted into shelters. In New York, London, Tokyo, Sydney - in every major city in the world, people were waiting with blankets,
+had been converted into shelters. In New York, London, Tokyo, Sydney - in every major city in the world, people were
+waiting with blankets,
 food and medical equipment.
 
 "Ready?" Daryl asked, standing next to her. His adaptive armor shimmered like liquid silver in the moonlight.
@@ -44,7 +45,8 @@ Vak'tar. Full of prisoners. Millions upon millions of assimilated beings from hu
 
 **What do you mean?** Father Martinez asked.
 
-Sarah understood now. **They're not coming to conquer the Earth. They bring all their prisoners with them. Every creature
+Sarah understood now. **They're not coming to conquer the Earth. They bring all their prisoners with them. Every
+creature
 they've ever assimilated. This isn't just an invasion - this is their entire... Civilization.
 
 **Why would they do that?** asked Miriam.
@@ -80,7 +82,8 @@ do not understand what you have done. These beings were weak. We have made them 
 
 "You have made them slaves."
 
-*We have improved them. Just like the Anari have improved you. The only difference is that we are honest about the price.
+*We have improved them. Just like the Anari have improved you. The only difference is that we are honest about the
+price.
 the price*.
 
 Sarah felt a stab of uncertainty. Was that true? Were she and the Vak'tar really that similar?
@@ -122,7 +125,8 @@ improvise."
 She expanded her consciousness and simultaneously spoke to all the people on Earth and all the prisoners in the
 Vak'tar fleet:
 
-"People of the earth. Assimilated beings of the galaxy. My name is Sarah Chen, and I am speaking to you in the darkest hour our
+"People of the earth. Assimilated beings of the galaxy. My name is Sarah Chen, and I am speaking to you in the darkest
+hour our
 hour our universe has ever seen."
 
 Her voice reached every functioning receiver on Earth and penetrated the communication systems of the Vak'tar ships.
@@ -131,7 +135,8 @@ Vak'tar ships.
 "The parasites have told you that resistance is pointless. That you are weak. That you need improvement.
 But they lie."
 
-In the Vak'tar ships, Sarah felt something begin to stir. Millions of suppressed consciousnesses hearing a different voice
+In the Vak'tar ships, Sarah felt something begin to stir. Millions of suppressed consciousnesses hearing a different
+voice
 hearing another voice for the first time in centuries.
 
 "You are not weak. You are not broken. You are imprisoned. But captivity is not permanent. Slavery
@@ -191,7 +196,8 @@ Sarah looked up at the struggling ships, at the millions of souls fighting for t
 
 "Then I'll die a human," she said simply.
 
-She opened her consciousness completely. Every barrier, every protection, every boundary fell away. Her power, reinforced by
+She opened her consciousness completely. Every barrier, every protection, every boundary fell away. Her power,
+reinforced by
 the four other humans and the three aliens, poured out like a supernova of pure will.
 
 **I AM SARAH CHEN**, she shone with the power of a sun. **I AM A HUMAN BEING FROM THE EARTH. AND I SAY TO YOU:

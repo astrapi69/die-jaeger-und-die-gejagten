@@ -10,8 +10,10 @@ The Vak'tar mothership was not a ship.
 
 It was a world.
 
-Sarah Chen stared up at the thing that loomed over the earth like a black moon and tried to comprehend what she was seeing,
-what she was seeing. Hundreds of kilometers in diameter, a sphere of living metal and organic tissue, crisscrossed by pulsing veins of dark light.
+Sarah Chen stared up at the thing that loomed over the earth like a black moon and tried to comprehend what she was
+seeing,
+what she was seeing. Hundreds of kilometers in diameter, a sphere of living metal and organic tissue, crisscrossed by
+pulsing veins of dark light.
 by pulsating veins of dark light.
 
 **My God**, Father Martinez glowed faintly. **It's... it's a whole civilization.
@@ -37,7 +39,8 @@ Something that found joy in suffering.
 
 **This is not a leader**, she whispered. **This is their god**.
 
-The voice that answered did not come through communication channels. It came directly from the depths of her thoughts, piercing
+The voice that answered did not come through communication channels. It came directly from the depths of her thoughts,
+piercing
 through all her defenses like a red-hot thorn:
 
 *Finally. The little would-be goddess shows her true colors.
@@ -74,7 +77,8 @@ living substance.
 *Your entire solar system will soon be mine*, Malgorth announced. *Every planet, every asteroid will become part of my
 body. And you will have to watch while I turn your world into a living nightmare.
 
-Sarah forced herself to stand up. Her body trembled, her mind was torn apart by Malgorth's attack, but somewhere deep inside
+Sarah forced herself to stand up. Her body trembled, her mind was torn apart by Malgorth's attack, but somewhere deep
+inside
 she still had a little spark burning. The spark that had made her what she was.
 
 Humanity.
@@ -151,7 +155,8 @@ here were old, had become organic parts of the structure.
 **
 
 They flew lower, following the pulsing arteries to the creature's heart. The temperature rose, the darkness became
-denser. Sarah's sensors showed impossible things - rooms larger than their outer walls, corridors that stretched into dimensions that shouldn't exist.
+denser. Sarah's sensors showed impossible things - rooms larger than their outer walls, corridors that stretched into
+dimensions that shouldn't exist.
 dimensions that should not exist.
 
 And then they reached the center.
@@ -204,7 +209,8 @@ Her childhood. Her dreams. The night the Vak'tar came. The fear, the hope, the f
 she had made. The love she had learned. The pain of loss and the joy of finding again.
 
 She showed him Mrs. Patterson with her welcome banner. The little girl who gave Zephyr flowers. Father Martinez,
-who prayed for everyone. Daryl, who threw down his gun to protect. Miriam, who saved children. Aida, who overcame her fear
+who prayed for everyone. Daryl, who threw down his gun to protect. Miriam, who saved children. Aida, who overcame her
+fear
 to help.
 
 She showed him what it meant to be human.

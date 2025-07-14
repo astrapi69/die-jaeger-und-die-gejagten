@@ -71,7 +71,7 @@
 
 ### [Chapter 7: Turning Point](#chapter-7)
 
-#### [Earth Orbit](#-erdorbit)
+#### [Earth Orbit](#-earth-orbit)
 
 - Return with three freed alien vessels  
 - A global press conference from space  
@@ -135,6 +135,6 @@
 - Hope reborn  
 - No one is alone anymore  
 
-## [About the Author](#-ueber-den-autor)
+## [About the Author](#-about-the-author)
 
 ---

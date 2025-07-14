@@ -8,197 +8,187 @@
 
 Sarah Chen died at 10:17 a.m. on a Tuesday morning.
 
-Not physically. Her heart continued to beat, her lungs breathed, her blood flowed. But the person she had been -
-the neurologist, the skeptic, the woman who had believed in the limits of science - that person ceased to exist.
-to exist.
+Not physically. Her heart kept beating, her lungs kept breathing, her blood kept flowing. But the woman she had been—the
+neurologist, the skeptic, the scientist who trusted in the limits of reason—was no more.
 
-The golden light did not simply penetrate them. It *became* them.
+The golden light didn’t just pass through her. It *became* her.
 
-Sarah felt her consciousness expanding like a balloon being inflated. But instead of bursting, it simply
-simply continued to grow. She saw through her own eyes, but also through the eyes of others. Daryl, who was
-screaming in pain. Aida, whose laptop screen suddenly displayed languages that no human had ever written. Father
-Martinez, who prayed and cried as his faith was redefined. Miriam, who thought of the children and felt
-every memory transformed into crystal clear perfection.
+She felt her consciousness expand like an inflating balloon. But instead of bursting, it grew endlessly. She saw through
+her own eyes—and through the eyes of others. Daryl, screaming in pain. Aida, whose laptop now displayed languages never
+written by human hands. Father Martinez, weeping and praying as his faith unraveled and reformed. Miriam, her thoughts
+flooded with the memory of children—every recollection crystallizing into perfect clarity.
 
-*Don't be afraid*, Elyon's voice whispered, but now it wasn't coming from outside. It came from her own expanded
-mind. *You are not dying. You are being born.
+*Don’t be afraid,* Elyon whispered—but the voice came from within now, not outside. *You’re not dying. You’re being
+born.*
 
-Sarah tried to speak, but her voice came out as light. Pulsating, golden light that carried meaning.
+Sarah tried to speak, but her words emerged as golden light. Pulsing. Alive with meaning.
 
-**I don't understand**, she lit up.
+**I don’t understand,** her glow responded.
 
-*You will. Soon.
+*You will. Soon.*
 
-Her body changed. Not dramatically, not visibly, but fundamentally. Sarah felt new nerve pathways forming
-formed, how her brain rewired itself. Her vision expanded beyond the visible spectrum. She
-she saw the infrared radiation of the bodies around her, the electromagnetic fields of her thoughts, the subtle
-gravitational waves running through the observatory.
+Her body began to change. Not visibly, not dramatically—but deeply. She sensed new neural pathways forming, her brain
+rewiring itself. Her vision stretched beyond the visible spectrum. She saw the infrared heat of nearby bodies, the
+electromagnetic shimmer of thought, the gentle hum of gravitational waves coursing through the observatory.
 
 And then she heard it.
 
-The universe spoke.
+The universe was speaking.
 
-Not in words, but in patterns. Energy signatures from distant stars. Quantum fluctuations that carried messages.
-carried. The constant noise of billions of civilizations communicating between galaxies.
+Not in words, but in patterns. Energy signatures from distant stars. Quantum pulses carrying intent. The endless murmur
+of civilizations whispering across the galaxies.
 
-Sarah had thought all her life that the earth was silent. Now she realized that she had been deaf.
+Sarah had always believed Earth was silent. Now she understood—she had been deaf.
 
-*That's the first step,* Elyon explained. *Consciousness expansion. You can now hear what the Vak'tar are whispering.
+*This is the first step,* Elyon explained. *Expanded awareness. Now you can hear the Vak'tar.*
 
-As if on cue, Sarah perceived a new frequency. Colder. Hungrier. Like the buzzing of billions of insects,
-approaching a feast.
+On cue, a new frequency pulsed into Sarah’s mind. Cold. Hungry. Like the droning of a billion insects closing in on a
+feast.
 
-The Vak'tar fleet.
+The Vak’tar fleet.
 
-*They got here early,** Daryl glowed, his new voice full of alarm. **Sixteen hours early**.
+*They arrived early,* Daryl pulsed, his new voice laced with dread. **Sixteen hours early.**
 
-Sarah focused her extended senses on the edge of the solar system. There, beyond Pluto, she saw them. Black
-Ships that swallowed the light. Thousands of them, like a swarm of deadly viruses hurtling towards a living organism.
-organism.
+Sarah turned her senses to the solar system’s edge. Beyond Pluto, she saw them—black ships that devoured light.
+Thousands of them, like viral swarms racing toward a living world.
 
-**How much longer?** pulsated Aida.
+**How long?** asked Aida.
 
-*Eighteen hours*, Elyon replied. *Maybe less if they increase the speed even more.
+*Eighteen hours,* Elyon answered. *Maybe less if they accelerate.*
 
-Father Martinez lit up with divine fury: **Then we don't have enough time for gentle transformations.
+Father Martinez radiated divine fury: **Then there’s no time for a gentle transformation.**
 
-*No. We have to move on to the second phase.
+*No. We must begin Phase Two.*
 
-**Second phase?** Sarah felt fear in her expanded consciousness.
+**Phase Two?** Sarah’s amplified mind trembled.
 
-*Physical augmentation. Combat readiness. It will be... painful*.
+*Physical augmentation. Combat readiness. It will be… painful.*
 
-The golden light around her intensified. Sarah felt something fundamental begin to work in her cells.
-began to work. Her DNA was being rewritten, not from the outside, but from the inside. Her body was optimizing itself.
+The golden light intensified. Sarah felt a force working inside her cells—rewriting DNA not from the outside, but from
+within. Her body began to evolve.
 
-The pain came like a wave.
+Then came the pain.
 
-Sarah fell to her knees, but her knees did not hit the ground. She floated, carried by forces she did not understand.
-understood. Around her, her companions screamed, but their screams were beams of light dancing through the air.
+She dropped to her knees—but never hit the ground. She floated, held by forces she couldn’t name. Around her, the others
+screamed—but their screams became beams of light, flickering in the air.
 
-Her muscles thickened, became denser, stronger. Her bones hardened into a substance that was stronger
-than steel, but lighter than carbon. Her heart beat slower but more powerfully, pumping a blood infused with nanobots
-Anari technology that worked on a cellular level.
+Her muscles compressed, densified, strengthened. Her bones hardened into something stronger than steel, lighter than
+carbon. Her heartbeat slowed, grew deeper, pumping nanobot-enhanced blood—Anari tech, active at the cellular level.
 
-*Your reflexes*, Elyon explained as Sarah felt her nervous system speed up, *are now a hundred times
-faster than a normal human. You can dodge a bullet after it's been fired.
+*Your reflexes,* Elyon explained, *are now a hundred times faster than a normal human's. You can dodge a bullet… after
+it's fired.*
 
-**And that's just the beginning**, added a new voice - Aida, but her mental voice now sounded like a supercomputer.
-supercomputer. **I can tap into any frequency, hack any database, take over any system. It's... incredible.
+**And that’s just the beginning,** came a new voice—Aida’s, now sounding like a sentient algorithm. **I can tap into any
+frequency, hack any database, override any system. It’s… astounding.**
+
+Sarah turned toward her. Aida’s body looked unchanged—slim, pale, short dark hair. But her eyes shimmered. And within
+them, Sarah saw torrents of data streaming like light.
+
+Daryl stood and flexed his abilities. He leapt—and landed on the observatory roof, twelve meters up. Then leapt again,
+landing softly like a leaf on the wind.
+
+**Holy shit,** he laughed. **This beats every drug I’ve ever tried.**
+
+Father Martinez knelt, eyes closed. But Sarah could see his aura—a quiet, powerful field wrapping them all in a
+protective glow.
+
+**I feel your pain,** he whispered. **And I can heal it.**
+
+Miriam pulsed with maternal warmth: **I can sense every lifeform within five kilometers. Every child. Every survivor.
+They’re not alone.**
+
+*Excellent,* Elyon said. *But these are just your baseline upgrades. For real combat—you’ll need weapons.*
+
+The air shimmered. Objects materialized before each of them.
+
+Before Sarah: a device between medical scanner and weapon. **Neural Disruptor,** said Elyon. **It extracts Vak’tar
+parasites from hosts—without killing the host.**
+
+Before Daryl: a silvery liquid, shape-shifting into any weapon he imagined. **Adaptive Combat Gear. Thought-controlled.
 **
 
-Sarah looked over at her. Aida still looked the same on the outside - slim, pale, with short black hair. But
-her eyes... her eyes glowed slightly, and Sarah could see the streams of data flowing through them.
+Before Aida: a sleek module, humming with quantum energy. **Quantum Network Interface. You can access any system in the
+universe.**
 
-Daryl stood up and tested his new skills. He jumped - and landed on the roof of the observatory, twelve meters
-meters above them. Then he jumped down again, landing as softly as a feather.
+Before Father Martinez: a crystalline staff of light. **Healer’s Focus. You can restore life where death is not yet
+final.**
 
-**Holy shit**, he lit up. **This is better than any drug**.
+Before Miriam: a star-shaped pendant. **Empathy Amplifier. You can influence emotions across vast distances.**
 
-Father Martinez knelt quietly, his eyes closed. But Sarah could see the energy around him - a calm, powerful
-calm, powerful aura that lay over everyone else like a protective shield.
+Sarah lifted her device. It pulsed—warm, aware. As her fingers touched it, knowledge surged into her. Instinctively, she
+understood how to use it.
 
-**I can feel your pain**, he glowed softly. **And they heal**.
+**This is beyond belief,** she radiated. **But… are we still human?**
 
-Miriam glowed with maternal warmth: **I can sense every living thing within a five kilometer radius.
-Every child, every survivor. You are not alone.
+*You are more than human,* Elyon said. *But your humanity remains. That is the difference between evolution and
+conquest.*
 
-*Very good,* said Elyon. *But that's just the basic equipment. You'll need weapons for the real fight.
+Suddenly, an alarm surged through their shared consciousness.
 
-The air shimmered, and something materialized in front of each of them.
+Aida flared with panic: **The Vak’tar vanguard—they’ve entered the solar system!**
 
-In front of Sarah: A device that looked like a cross between a medical scanner and a weapon. **Neuronal
-Disruptor**, Elyon explained. **It can remove Vak'tar parasites from a host without killing the host.
+Sarah focused. Three ships—sleek, black, lethal—skimming the outer planets.
 
-In front of Daryl: Something that looked like liquid metal, but could be molded into any weapon he imagined. *
-*Adaptive combat equipment. It reacts to your thoughts.
+**Scouts,** confirmed Elyon. **They’re probing your defenses.**
 
-In front of Aida: A small device, no bigger than a smartphone, but it hummed with the power of a supercomputer. *
-*Quantum network interface. You can now communicate with any system in the universe.
+**What defenses?** Daryl asked wryly.
 
-In front of Father Martinez: A kind of staff that looked like crystallized light. **Healer Focus. You can bring back life
-bring back life where death is not yet final.
+*You.*
 
-In front of Miriam: An amulet that looked like a small star. **Empathy Amplifier. You can influence the emotions of living beings
-of living beings within a radius of hundreds of kilometers.
-
-Sarah picked up her device. It felt warm, alive. As she touched it, information flooded into her mind.
-mind. She immediately understood how it worked, how she could use it.
-
-**This is incredible**, she glowed. **But... Are we still human?
-
-*You are more than human*, Elyon replied. *But you have not lost your humanity. That is the difference
-difference between evolution and conquest.
-
-Suddenly an alarm flashed through her expanded consciousness.
-
-Aida glowed in panic: **The Vak'tar Vanguard! They've reached the solar system!
-
-Sarah focused her new senses and saw them. Three black ships, small but deadly, orbiting the outer planets.
-orbiting the outer planets.
-
-**Scouts**, Elyon confirmed. **They are scanning your defenses**.
-
-**What defenses?** Daryl glared sarcastically.
-
-*You.
-
-Sarah stood up and felt the new strength in her muscles, the new clarity in her mind. "Then we should show them
-show them that the earth is no longer defenceless."
+Sarah rose. She felt power in her limbs, clarity in her mind. “Then let’s show them Earth isn’t defenseless anymore.”
 
 **How?** asked Miriam.
 
-Sarah smiled - and her smile lit up. "By paying them a visit."
+Sarah smiled—and her smile glowed. “By paying them a visit.”
 
-*That*, Elyon said with something that could have been pride, *sounds very... human.
-
-## 15 minutes later
-
-Sarah Chen stood in what had once been the parking lot of Griffith Observatory. Now it was a landing pad for
-five objects that looked like liquid light.
-
-**Anari ships**, Elyon explained. **They will respond to your thoughts**.
-
-Sarah touched the nearest one. It was warm, almost alive. When she looked inside, it opened like a flower.
-
-The interior was not what she had expected. No seats, no controls in the conventional sense. Just a room of
-of gently pulsating light.
-
-She climbed aboard and immediately felt the ship connect with her consciousness. She was no longer Sarah Chen
-in a spaceship. She was the spaceship. Every sensor was her skin, every weapon her hand, every drive her
-muscles.
-
-**Ready?** Daryl lit up from his own ship.
-
-**Ready**, the other four replied simultaneously.
-
-Sarah thought "up", and the ship responded. Not like a machine that executes a command, but like a
-body part that moves. It shot upwards, through the atmosphere, out into the blackness of space.
-
-Her four companions followed, five points of light stretching towards the stars.
-
-**My God**, Father Martinez glowed. **Is that...?**
-
-**The earth**, Miriam finished reverently.
-
-She looked so small from up here. So vulnerable. A blue marble floating in the blackness, unprotected against
-the hordes that approached.
-
-Sarah focused her sensors on the Vak'tar scouts. Three ships orbiting Mars. They looked like
-black insects, angular and evil.
-
-**Plan?** asked Aida.
-
-Sarah felt her new instincts awaken. Combat knowledge that the Anari had implanted in her consciousness.
-
-"We show them that this world has teeth," she said aloud.
-
-She thought "attack", and her ship shot forward like a golden flash.
-
-The war for the earth had begun.
-
-But this time the people fought back.
+*Now that,* Elyon said with what sounded like pride, *is very human.*
 
 ---
 
-## 17 hours, 42 minutes until the arrival of the Vak'tar main fleet
+## 15 minutes later
+
+Sarah stood on what used to be the Griffith Observatory parking lot. Now it was a landing site for five vessels of
+glowing liquid light.
+
+**Anari ships,** explained Elyon. **They respond to thought.**
+
+Sarah touched the nearest one. It felt warm—alive. As she peered in, it bloomed open like a flower.
+
+No seats. No controls. Just a chamber of softly pulsing light.
+
+She stepped inside—and the ship linked with her mind. She was no longer *in* the ship. She *was* the ship. Every sensor,
+her skin. Every weapon, her hand. Every thruster, her muscle.
+
+**Ready?** Daryl beamed from his own ship.
+
+**Ready,** came the chorus of four voices.
+
+Sarah thought *up*—and the ship obeyed. Not like a machine, but like a limb.
+
+She soared into the sky, through the atmosphere, and into the blackness of space.
+
+The others followed—five stars blazing toward the heavens.
+
+**My God,** Father Martinez breathed. **Is that…?**
+
+**Earth,** Miriam finished, reverent.
+
+From up here, it looked so small. So fragile. A blue marble adrift in darkness. Exposed. Alone.
+
+Sarah scanned the Vak’tar scouts: three ships orbiting Mars. Insectoid. Angular. Menacing.
+
+**Plan?** Aida asked.
+
+Sarah’s instincts surged. Anari battle knowledge ignited within her.
+
+“We show them this world has teeth.”
+
+She thought *attack*—and her ship launched like a golden bolt.
+
+The war for Earth had begun.
+
+But this time, humanity was ready.
+
+---
+
+## 17 hours, 42 minutes until the arrival of the Vak’tar main fleet

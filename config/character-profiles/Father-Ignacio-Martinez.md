@@ -8,7 +8,8 @@
 * **Beruf/Rolle**: Katholischer Priester, spiritueller Widerstandskämpfer
 * **Herkunft**: Mexiko, lebt in Kalifornien
 * **Aussehen**:
-  Kräftige Statur, graue Haare, tiefe Stirnfalten, stets in dunkler Kleidung mit schlichter Kette um den Hals; ausdrucksstarke, müdige Augen
+  Kräftige Statur, graue Haare, tiefe Stirnfalten, stets in dunkler Kleidung mit schlichter Kette um den Hals;
+  ausdrucksstarke, müdige Augen
 
 ---
 
@@ -79,7 +80,8 @@
 
 * **Tags**: `#charakter #priester #glaube #ruhe #spiritualität`
 * **Prompt-Vorlage**:
-  *„Schreibe einen inneren Monolog von Father Martinez, während er einem besessenen Kind gegenübersteht und seine Ruhe bewahrt.“*
+  *„Schreibe einen inneren Monolog von Father Martinez, während er einem besessenen Kind gegenübersteht und seine Ruhe
+  bewahrt.“*
 * **Hinweis zur Konsistenz**:
   *Martinez bleibt in allen Szenen ruhig, mitfühlend, und sucht stets nach Licht im Dunkeln.*
 

@@ -14,8 +14,8 @@
 * **Herkunft**: USA, chinesisch-amerikanische Wurzeln
 
 * **Aussehen**:  
-  Schlank, mittellang schwarzes Haar, meist in einem funktionalen Zopf; nüchterner Kleidungsstil, ernster Blick, aber wache, mitfühlende Augen
-
+  Schlank, mittellang schwarzes Haar, meist in einem funktionalen Zopf; nüchterner Kleidungsstil, ernster Blick, aber
+  wache, mitfühlende Augen
 
 * * *
 
@@ -29,7 +29,6 @@
 * **Lebensmotto**: „Verstehen ist der erste Schritt zur Heilung“
 
 * **Charakter-Archetyp**: Die Weise mit Schatten (wissend, aber gezeichnet)
-
 
 * * *
 
@@ -46,7 +45,6 @@
 * **Triggerpunkte**: Verlust von Autonomie, Kontrollverlust
 
 * **Typischer Denkfehler**: „Wenn ich es nicht verstehe, kann ich es nicht bekämpfen.“
-
 
 * * *
 
@@ -65,7 +63,6 @@
 
 * **Umgang mit Technik/Natur/Fremden**: Technik-freundlich, Natur neutral, Fremden gegenüber wachsam
 
-
 * * *
 
 🗣️ Sprache & Ausdruck
@@ -83,7 +80,6 @@
 
     * „Wir sind mehr als unsere dunklen Gedanken.“
 
-
 * * *
 
 👥 Beziehungen
@@ -99,7 +95,6 @@
 
 * **Gegenspieler oder Konfliktperson**: Der innere Vak'tar („S’Kral“) – verkörpert ihre dunkle Seite
 
-
 * * *
 
 🛤️ Entwicklungspotenzial
@@ -110,8 +105,8 @@
 * **Welche Eigenschaften bleiben konstant?**: Intellekt, Analysefähigkeit, Gerechtigkeitssinn
 
 * **Mögliche Story-Arcs (1–2 Sätze)**:  
-  Sie beginnt als isolierte Wissenschaftlerin mit Trauma, wird zur Führungsperson einer neuen Menschheit – ohne ihre Individualität aufzugeben.
-
+  Sie beginnt als isolierte Wissenschaftlerin mit Trauma, wird zur Führungsperson einer neuen Menschheit – ohne ihre
+  Individualität aufzugeben.
 
 * * *
 
@@ -121,11 +116,12 @@
 * **Tags**: `#charakter #rolle #neuro #trauma #heilung #sci-fi`
 
 * **Prompt-Vorlage**:  
-  _„Schreibe einen inneren Monolog von Dr. Sarah Chen, während sie erkennt, dass der Parasit in ihrem Kopf Angst vor ihrer Hoffnung hat.“_
+  _„Schreibe einen inneren Monolog von Dr. Sarah Chen, während sie erkennt, dass der Parasit in ihrem Kopf Angst vor
+  ihrer Hoffnung hat.“_
 
 * **Hinweis zur Konsistenz**:  
-  _Diese Figur bleibt in allen Szenen rational, traumatisiert und misstrauisch gegenüber unklaren Motiven – aber zutiefst ethisch._
-
+  _Diese Figur bleibt in allen Szenen rational, traumatisiert und misstrauisch gegenüber unklaren Motiven – aber
+  zutiefst ethisch._
 
 * * *
 

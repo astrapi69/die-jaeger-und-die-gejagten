@@ -14,8 +14,8 @@
 * **Herkunft**: USA, Eltern aus Ghana
 
 * **Aussehen**:  
-  Groß, muskulös, dunkelhäutig, kurz geschorenes Haar, kantiges Gesicht. Trägt oft Uniformreste oder zivile Kleidung mit Polizeielementen. Präsenz von Stärke und Müdigkeit.
-
+  Groß, muskulös, dunkelhäutig, kurz geschorenes Haar, kantiges Gesicht. Trägt oft Uniformreste oder zivile Kleidung mit
+  Polizeielementen. Präsenz von Stärke und Müdigkeit.
 
 * * *
 
@@ -29,7 +29,6 @@
 * **Lebensmotto**: „Stärke ist, Nein zu sagen, wenn alle Ja schreien.“
 
 * **Charakter-Archetyp**: Der Gebrochene Beschützer
-
 
 * * *
 
@@ -47,7 +46,6 @@
 
 * **Typischer Denkfehler**: „Ich bin nur gut, wenn ich stark bin.“
 
-
 * * *
 
 🔄 Verhalten & Routinen
@@ -63,8 +61,8 @@
 
 * **Rituale oder Ticks**: Knackt die Finger, wenn er sich unsicher fühlt
 
-* **Umgang mit Technik/Natur/Fremden**: Technik-kompetent, liebt Berge und Seen, misstraut Fremden zuerst – prüft dann objektiv
-
+* **Umgang mit Technik/Natur/Fremden**: Technik-kompetent, liebt Berge und Seen, misstraut Fremden zuerst – prüft dann
+  objektiv
 
 * * *
 
@@ -83,7 +81,6 @@
 
     * „Man muss nicht kämpfen, um mutig zu sein.“
 
-
 * * *
 
 👥 Beziehungen
@@ -97,8 +94,8 @@
 
 * **Soziale Rolle im Team**: Schutzschild, realistischer Mahner, einsamer Fels
 
-* **Gegenspieler oder Konfliktperson**: Ein ehemaliger Kollege, der vollständig übernommen wurde und ihn zu manipulieren versucht
-
+* **Gegenspieler oder Konfliktperson**: Ein ehemaliger Kollege, der vollständig übernommen wurde und ihn zu manipulieren
+  versucht
 
 * * *
 
@@ -110,8 +107,8 @@
 * **Welche Eigenschaften bleiben konstant?**: Mut, Loyalität, Klarheit in der Gefahr
 
 * **Mögliche Story-Arcs (1–2 Sätze)**:  
-  Daryl muss lernen, dass er nicht immer der letzte Mann sein muss – dass Vertrauen in andere keine Schwäche ist, sondern Teil von Heilung.
-
+  Daryl muss lernen, dass er nicht immer der letzte Mann sein muss – dass Vertrauen in andere keine Schwäche ist,
+  sondern Teil von Heilung.
 
 * * *
 
@@ -121,10 +118,11 @@
 * **Tags**: `#charakter #soldat #beschützer #posttrauma #ehrencodex`
 
 * **Prompt-Vorlage**:  
-  _„Schreibe einen inneren Monolog von Daryl, als er das erste Mal wieder bewusst eine Waffe in die Hand nimmt – um zu schützen, nicht zu zerstören.“_
+  _„Schreibe einen inneren Monolog von Daryl, als er das erste Mal wieder bewusst eine Waffe in die Hand nimmt – um zu
+  schützen, nicht zu zerstören.“_
 
 * **Hinweis zur Konsistenz**:  
-  _Diese Figur bleibt kampferfahren, misstrauisch und pflichtbewusst – aber wird mit der Zeit fähig, emotionale Bindung zuzulassen._
-
+  _Diese Figur bleibt kampferfahren, misstrauisch und pflichtbewusst – aber wird mit der Zeit fähig, emotionale Bindung
+  zuzulassen._
 
 * * *

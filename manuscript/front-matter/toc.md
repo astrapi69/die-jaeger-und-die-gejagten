@@ -1,5 +1,3 @@
-# The Hunters and the Hunted
-
 **Table of Contents**
 
 ---
@@ -62,7 +60,7 @@
 
 ### [Chapter 6: First Blood](#chapter-6)
 
-#### [Orbit of Mars](#-orbit-des-mars)
+#### [Orbit of Mars](#-orbit-of-mars)
 
 - Humanity’s first space battle  
 - Discovery: Vak’tar ships are prisons  
@@ -129,7 +127,7 @@
 - Elyon and Malgorth’s philosophical dialogues  
 - A galaxy on the path to healing  
 
-#### [The Next Morning](#-the-next-morning)
+#### [The Next Morning](#-the-new-morning)
 
 - A dawn shared by all  
 - Hope reborn  

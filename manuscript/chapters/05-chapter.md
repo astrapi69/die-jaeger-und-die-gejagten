@@ -6,26 +6,25 @@
 
 ## 10:17 a.m. local time
 
-Sarah Chen died at 10:17 a.m. on a Tuesday morning.
-
-Not physically. Her heart kept beating, her lungs kept breathing, her blood kept flowing. But the woman she had been—the
-neurologist, the skeptic, the scientist who trusted in the limits of reason—was no more.
+Sarah Chen died at 10:17 a.m. on a Tuesday morning—not physically. Her heart kept beating, her lungs kept breathing, her
+blood kept flowing. But the woman she had been—the neurologist, the skeptic, the scientist who trusted in the limits of
+reason—was no more.
 
 The golden light didn’t just pass through her. It *became* her.
 
 She felt her consciousness expand like an inflating balloon. But instead of bursting, it grew endlessly. She saw through
 her own eyes—and through the eyes of others. Daryl, screaming in pain. Aida, whose laptop now displayed languages never
 written by human hands. Father Martinez, weeping and praying as his faith unraveled and reformed. Miriam, her thoughts
-flooded with the memory of children—every recollection crystallizing into perfect clarity.
+flooded with memories of children—every recollection crystallizing into perfect clarity.
 
-*Don’t be afraid,* Elyon whispered—but the voice came from within now, not outside. *You’re not dying. You’re being
-born.*
+*"Don’t be afraid,"* Elyon whispered—but the voice came from within now, not outside. *"You’re not dying. You’re being
+born."*
 
 Sarah tried to speak, but her words emerged as golden light. Pulsing. Alive with meaning.
 
 **I don’t understand,** her glow responded.
 
-*You will. Soon.*
+*"You will. Soon."*
 
 Her body began to change. Not visibly, not dramatically—but deeply. She sensed new neural pathways forming, her brain
 rewiring itself. Her vision stretched beyond the visible spectrum. She saw the infrared heat of nearby bodies, the
@@ -40,29 +39,29 @@ of civilizations whispering across the galaxies.
 
 Sarah had always believed Earth was silent. Now she understood—she had been deaf.
 
-*This is the first step,* Elyon explained. *Expanded awareness. Now you can hear the Vak'tar.*
+*"This is the first step,"* Elyon explained. *"Expanded awareness. Now you can hear the Vak'tar."*
 
 On cue, a new frequency pulsed into Sarah’s mind. Cold. Hungry. Like the droning of a billion insects closing in on a
 feast.
 
 The Vak’tar fleet.
 
-*They arrived early,* Daryl pulsed, his new voice laced with dread. **Sixteen hours early.**
+*"They arrived early,"* Daryl pulsed, his new voice laced with dread. **Sixteen hours early.**
 
 Sarah turned her senses to the solar system’s edge. Beyond Pluto, she saw them—black ships that devoured light.
 Thousands of them, like viral swarms racing toward a living world.
 
 **How long?** asked Aida.
 
-*Eighteen hours,* Elyon answered. *Maybe less if they accelerate.*
+*"Eighteen hours,"* Elyon answered. *"Maybe less if they accelerate."*
 
 Father Martinez radiated divine fury: **Then there’s no time for a gentle transformation.**
 
-*No. We must begin Phase Two.*
+*"No. We must begin Phase Two."*
 
 **Phase Two?** Sarah’s amplified mind trembled.
 
-*Physical augmentation. Combat readiness. It will be… painful.*
+*"Physical augmentation. Combat readiness. It will be… painful."*
 
 The golden light intensified. Sarah felt a force working inside her cells—rewriting DNA not from the outside, but from
 within. Her body began to evolve.
@@ -75,8 +74,8 @@ screamed—but their screams became beams of light, flickering in the air.
 Her muscles compressed, densified, strengthened. Her bones hardened into something stronger than steel, lighter than
 carbon. Her heartbeat slowed, grew deeper, pumping nanobot-enhanced blood—Anari tech, active at the cellular level.
 
-*Your reflexes,* Elyon explained, *are now a hundred times faster than a normal human's. You can dodge a bullet… after
-it's fired.*
+*"Your reflexes,"* Elyon explained, *"are now a hundred times faster than a normal human's. You can dodge a bullet…
+after it's fired."*
 
 **And that’s just the beginning,** came a new voice—Aida’s, now sounding like a sentient algorithm. **I can tap into any
 frequency, hack any database, override any system. It’s… astounding.**
@@ -97,15 +96,15 @@ protective glow.
 Miriam pulsed with maternal warmth: **I can sense every lifeform within five kilometers. Every child. Every survivor.
 They’re not alone.**
 
-*Excellent,* Elyon said. *But these are just your baseline upgrades. For real combat—you’ll need weapons.*
+*"Excellent,"* Elyon said. *"But these are just your baseline upgrades. For real combat—you’ll need weapons."*
 
 The air shimmered. Objects materialized before each of them.
 
 Before Sarah: a device between medical scanner and weapon. **Neural Disruptor,** said Elyon. **It extracts Vak’tar
 parasites from hosts—without killing the host.**
 
-Before Daryl: a silvery liquid, shape-shifting into any weapon he imagined. **Adaptive Combat Gear. Thought-controlled.
-**
+Before Daryl: a silvery liquid, shape-shifting into any weapon he imagined. **Adaptive Combat Gear. Telepathic
+interface.**
 
 Before Aida: a sleek module, humming with quantum energy. **Quantum Network Interface. You can access any system in the
 universe.**
@@ -120,8 +119,8 @@ understood how to use it.
 
 **This is beyond belief,** she radiated. **But… are we still human?**
 
-*You are more than human,* Elyon said. *But your humanity remains. That is the difference between evolution and
-conquest.*
+*"You are more than human,"* Elyon said. *"But your humanity remains. That is the difference between evolution and
+conquest."*
 
 Suddenly, an alarm surged through their shared consciousness.
 
@@ -141,7 +140,7 @@ Sarah rose. She felt power in her limbs, clarity in her mind. “Then let’s sh
 
 Sarah smiled—and her smile glowed. “By paying them a visit.”
 
-*Now that,* Elyon said with what sounded like pride, *is very human.*
+*"Now that,"* Elyon said with what sounded like pride, *"is very human."*
 
 ---
 

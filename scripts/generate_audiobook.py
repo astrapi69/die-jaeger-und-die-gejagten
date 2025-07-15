@@ -11,31 +11,31 @@ os.chdir("..")
 import re
 
 def clean_markdown_for_tts(markdown_text: str) -> str:
-    # Entferne Bilder ![alt](url)
+    # Remove images ![alt](url)
     text = re.sub(r'!\[.*?\]\(.*?\)', '', markdown_text)
 
-    # Entferne Links [text](url) → "text"
+    # Remove links [text](url) → keep only "text"
     text = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', text)
 
-    # Entferne fette/kursive Markup **text**, *text*, __text__, _text_
+    # Remove bold/italic markdown: **text**, *text*, __text__, _text_
     text = re.sub(r'(\*\*|\*|__|_)(.*?)\1', r'\2', text)
 
-    # Entferne Überschriften (#) und bewahre Text
+    # Remove headings (#) but keep the text
     text = re.sub(r'^#{1,6}\s*', '', text, flags=re.MULTILINE)
 
-    # Entferne Codeblöcke (```...```)
+    # Remove code blocks (```...```)
     text = re.sub(r'```.*?```', '', text, flags=re.DOTALL)
 
-    # Entferne Inline-Code `code`
+    # Remove inline code `code`
     text = re.sub(r'`(.+?)`', r'\1', text)
 
-    # Entferne HTML-Tags
+    # Remove HTML tags
     text = re.sub(r'<[^>]+>', '', text)
 
-    # Entferne Tabellen-Zeilen (Markdown-Style)
+    # Remove table rows (Markdown-style)
     text = re.sub(r'^\s*\|.*\|\s*$', '', text, flags=re.MULTILINE)
 
-    # Entferne mehrfache Leerzeilen
+    # Remove multiple empty lines
     text = re.sub(r'\n{2,}', '\n\n', text)
 
     return text.strip()

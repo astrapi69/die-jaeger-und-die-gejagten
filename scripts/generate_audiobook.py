@@ -8,6 +8,37 @@ from scripts.tts.base import TTSAdapter
 # (Assumes the script is located one level inside the project root)
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 os.chdir("..")
+import re
+
+def clean_markdown_for_tts(markdown_text: str) -> str:
+    # Entferne Bilder ![alt](url)
+    text = re.sub(r'!\[.*?\]\(.*?\)', '', markdown_text)
+
+    # Entferne Links [text](url) → "text"
+    text = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', text)
+
+    # Entferne fette/kursive Markup **text**, *text*, __text__, _text_
+    text = re.sub(r'(\*\*|\*|__|_)(.*?)\1', r'\2', text)
+
+    # Entferne Überschriften (#) und bewahre Text
+    text = re.sub(r'^#{1,6}\s*', '', text, flags=re.MULTILINE)
+
+    # Entferne Codeblöcke (```...```)
+    text = re.sub(r'```.*?```', '', text, flags=re.DOTALL)
+
+    # Entferne Inline-Code `code`
+    text = re.sub(r'`(.+?)`', r'\1', text)
+
+    # Entferne HTML-Tags
+    text = re.sub(r'<[^>]+>', '', text)
+
+    # Entferne Tabellen-Zeilen (Markdown-Style)
+    text = re.sub(r'^\s*\|.*\|\s*$', '', text, flags=re.MULTILINE)
+
+    # Entferne mehrfache Leerzeilen
+    text = re.sub(r'\n{2,}', '\n\n', text)
+
+    return text.strip()
 
 def get_tts_adapter(engine: str, lang: str, voice: str, rate: int) -> TTSAdapter:
     if engine == "google":
@@ -26,7 +57,8 @@ def get_tts_adapter(engine: str, lang: str, voice: str, rate: int) -> TTSAdapter
 
 def generate_audio_from_markdown(input_dir: Path, output_dir: Path, tts: TTSAdapter):
     for md_file in sorted(input_dir.glob("*.md")):
-        text = md_file.read_text(encoding="utf-8")
+        raw_text = md_file.read_text(encoding="utf-8")
+        text = clean_markdown_for_tts(raw_text)
         out_path = output_dir / f"{md_file.stem}.mp3"
         print(f"Generating: {out_path.name}")
         tts.speak(text, out_path)

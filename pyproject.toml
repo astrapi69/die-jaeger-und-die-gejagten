@@ -15,6 +15,9 @@ python-dotenv = "^1.1.0"
 requests = "^2.31.0"
 pillow = "^11.2.1"
 pyyaml = "^6.0.2"
+pyttsx3 = "^2.99"
+gtts = "^2.5.4"
+elevenlabs = "^2.7.1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0.0"
@@ -29,6 +32,7 @@ translate-book-deepl = "scripts.translate_book_deepl:main"
 translate-book-lmstudio = "scripts.translate_book_lmstudio:main"
 create-chapters = "scripts.create_chapters:main"
 generate-images = "scripts.generate_images:main"
+generate-audiobook = "scripts.generate_audiobook:main"
 
 # 🏁 Export Shortcuts
 export-epub = "scripts.shortcuts:export_epub"

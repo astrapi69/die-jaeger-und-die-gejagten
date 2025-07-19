@@ -7,7 +7,8 @@
 * **Geschlecht**: Männlich
 * **Beruf/Rolle**: Ex-Sanäteter, zynischer Frontmann des Widerstands
 * **Herkunft**: Polen/Deutschland
-* **Aussehen**: Kurze braune Haare, vernarbte Hände, Kiefer mit leichtem Zittern, trägt oft schusssichere Weste unter Kapuzenjacke
+* **Aussehen**: Kurze braune Haare, vernarbte Hände, Kiefer mit leichtem Zittern, trägt oft schusssichere Weste unter
+  Kapuzenjacke
 
 ---
 
@@ -22,7 +23,8 @@
 
 ### 🧠 Psychologisches Profil
 
-* **Big-Five**: Offenheit: Mittel / Gewissenhaftigkeit: Hoch / Extraversion: Niedrig / Verträglichkeit: Niedrig / Neurotizismus: Hoch
+* **Big-Five**: Offenheit: Mittel / Gewissenhaftigkeit: Hoch / Extraversion: Niedrig / Verträglichkeit: Niedrig /
+  Neurotizismus: Hoch
 * **Innerer Konflikt**: Schuld über verlorene Kameraden vs. Pflicht, weiterzumachen
 * **Stressverhalten**: Aggression, Flashbacks, Witz als Selbstschutz
 * **Triggerpunkte**: Kameradschaftsverluste, Alarmsirenen
@@ -48,8 +50,8 @@
 * **Was nie?**: "Ich brauche dich."
 * **Typisch**:
 
-  * "Ich bin kein Held. Ich bin übrig geblieben."
-  * "Jeder hat Narben. Ich trag meine vorne."
+    * "Ich bin kein Held. Ich bin übrig geblieben."
+    * "Jeder hat Narben. Ich trag meine vorne."
 
 ---
 
@@ -65,14 +67,16 @@
 
 * **Veränderung**: Von Einzelkämpfer zum Schutzpatron des Kollektivs
 * **Konstant**: Direkte Sprache, Handlung vor Gefühl
-* **Story-Arc**: Verliert im Kampf fast alles, findet in den "Erben" eine neue Hoffnung für das, was er nie hatte: Zukunft
+* **Story-Arc**: Verliert im Kampf fast alles, findet in den "Erben" eine neue Hoffnung für das, was er nie hatte:
+  Zukunft
 
 ---
 
 ### 🗂️ KI-Anwendung
 
 * **Tags**: `#charakter #sanitäter #trauma #zyniker #widerstand`
-* **Prompt-Vorlage**: *"Schreibe einen inneren Monolog von Jonas, während er einer sterbenden Figur Morphin gibt und erkennt, dass er zum ersten Mal nicht lügt."*
+* **Prompt-Vorlage**: *"Schreibe einen inneren Monolog von Jonas, während er einer sterbenden Figur Morphin gibt und
+  erkennt, dass er zum ersten Mal nicht lügt."*
 
 ---
 

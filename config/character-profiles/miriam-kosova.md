@@ -14,8 +14,8 @@
 * **Herkunft**: Tschechien, lebt in Brno
 
 * **Aussehen**:  
-  Mittlere Größe, leicht füllig, kurzes braunes Haar mit grauen Strähnen, trägt oft bunte Halstücher. Ihre Augen wirken müde, aber freundlich. Warmherzige Ausstrahlung.
-
+  Mittlere Größe, leicht füllig, kurzes braunes Haar mit grauen Strähnen, trägt oft bunte Halstücher. Ihre Augen wirken
+  müde, aber freundlich. Warmherzige Ausstrahlung.
 
 * * *
 
@@ -29,7 +29,6 @@
 * **Lebensmotto**: „Menschlichkeit beginnt, wo Angst endet.“
 
 * **Charakter-Archetyp**: Die Beschützerin mit unbeirrbarem Herzen
-
 
 * * *
 
@@ -46,7 +45,6 @@
 * **Triggerpunkte**: Gewalt gegen Kinder, Misstrauen gegen Empathie
 
 * **Typischer Denkfehler**: „Ich muss alles selbst tragen, sonst zerbricht es.“
-
 
 * * *
 
@@ -65,7 +63,6 @@
 
 * **Umgang mit Technik/Natur/Fremden**: Technik-skeptisch, liebt Bäume, misstrauisch gegenüber Fremden – aber höflich
 
-
 * * *
 
 🗣️ Sprache & Ausdruck
@@ -83,7 +80,6 @@
 
     * „Wenn wir einander vergessen, haben sie schon gewonnen.“
 
-
 * * *
 
 👥 Beziehungen
@@ -99,7 +95,6 @@
 
 * **Gegenspieler oder Konfliktperson**: Eine Vak’tar-verseuchte Schülerin, die sie nicht loslassen kann
 
-
 * * *
 
 🛤️ Entwicklungspotenzial
@@ -110,8 +105,8 @@
 * **Welche Eigenschaften bleiben konstant?**: Ihre Fürsorglichkeit und Überzeugung, dass Mitgefühl stärker ist als Angst
 
 * **Mögliche Story-Arcs (1–2 Sätze)**:  
-  Miriam lernt, dass Schutz auch bedeutet, loszulassen – und dass sie nicht allein die Welt retten muss, um etwas Wesentliches zu bewirken.
-
+  Miriam lernt, dass Schutz auch bedeutet, loszulassen – und dass sie nicht allein die Welt retten muss, um etwas
+  Wesentliches zu bewirken.
 
 * * *
 
@@ -121,10 +116,10 @@
 * **Tags**: `#charakter #lehrerin #mutterfigur #resilienz #ethik`
 
 * **Prompt-Vorlage**:  
-  _„Schreibe einen inneren Monolog von Miriam, während sie merkt, dass eines ihrer Kinder besessen ist, aber noch Hoffnung besteht.“_
+  _„Schreibe einen inneren Monolog von Miriam, während sie merkt, dass eines ihrer Kinder besessen ist, aber noch
+  Hoffnung besteht.“_
 
 * **Hinweis zur Konsistenz**:  
   _Diese Figur bleibt empathisch, ruhig und opferbereit – ihre größte Stärke ist ihr Glaube an das Gute im Menschen._
-
 
 * * *

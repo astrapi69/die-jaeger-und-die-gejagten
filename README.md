@@ -1,23 +1,44 @@
-# 🦌 The Hunters and the Hunted
-
-> *A dark psychological and philosophical story exploring the fragile boundary between justice and revenge.*
+<div style="text-align: center">
+  🌍 Available languages:
+  <a href="https://github.com/astrapi69/die-jaeger-und-die-gejagten/tree/main"> 🇬🇧 English</a> |
+  <a href="https://github.com/astrapi69/die-jaeger-und-die-gejagten/tree/main-de"> 🇩🇪 Deutsch</a>
+</div>
 
 ---
+
+# 🦌 The Hunters and the Hunted – An Intergalactic Novel
+
+> *"What if the greatest monster in the universe was once a healer?"*
 
 ![Banner](assets/covers/cover.jpg)
 
-**The Hunters and the Hunted** is a literary project by Draven Quantum.  
-This repository contains the full manuscript, editing tools, and supporting assets for the book’s ongoing development
-and publication.
+Welcome to the official repository of the sci-fi novel **"The Hunters and the Hunted"** by **Draven Quantum** – an epic
+story of alien invasion, mental enslavement, and the transformative power of human empathy.
+
+This repository includes the full manuscript in Markdown format, enriched with chapter artwork, metadata, and automation
+tools for book production (PDF, EPUB, HTML).
 
 ---
 
-## 📖 Project Description
+## 📖 About the Book
 
-This project delves into the human psyche through the lens of pursuit — both literal and metaphorical.  
-It examines how moral lines blur when survival, ideology, and guilt intertwine.  
-Combining narrative intensity with philosophical undertones, it continues the author’s exploration of consciousness,
-morality, and identity.
+A mysterious alien species, the **Vak'tar**, takes control of humanity through psychic parasites. At the same time,
+golden lights appear in the sky – messengers of the **Anari**, an ancient civilization of light.
+
+Five survivors – a neurologist, a cop, a hacker, a priest, and a teacher – unite. But the key to salvation lies not in
+violence, but in **transformation**: physical, mental, and spiritual.
+
+In the end, it is not only a fight for Earth — but for the freedom of an entire galaxy.
+
+---
+
+## ✨ Repository Features
+
+- 📚 Complete manuscript in Markdown format
+- 📁 Organized per-chapter structure with cover art
+- 📦 Compatible with Pandoc & md-to-epub
+- ⚙️ Optional storyboard for visualization & AI art
+- 🌍 Planned multilingual release (DE, EN, ES, FR)
 
 ---
 
@@ -25,7 +46,7 @@ morality, and identity.
 
 | Directory     | Description                                                                    |
 |---------------|--------------------------------------------------------------------------------|
-| `manuscript/` | Contains the book’s chapters in Markdown format.                               |
+| `manuscript/` | Contains the book's chapters in Markdown format.                               |
 | `assets/`     | Visual assets such as cover drafts, concept art, and promotional images.       |
 | `scripts/`    | Utility scripts for text processing, export, and formatting (Python or shell). |
 | `tests/`      | Automated checks for formatting, consistency, and structure validation.        |
@@ -35,59 +56,42 @@ morality, and identity.
 
 ---
 
-### Dependencies
+## 🛠️ Technical Usage
 
-* Python ≥ 3.10
+Do you want to export this book to PDF, EPUB, HTML, or DOCX?
 
-* Pandoc (for document conversion)
+👉 **Check out the detailed guide in the Wiki:**  
+📚 [Easy Format Conversion (Pandoc & Automation)](https://github.com/astrapi69/write-book-template/wiki)
 
-* Optional: Poetry for dependency management
+There you'll find:
 
-* * *
+- Installation instructions (Poetry, Pandoc, etc.)
+- Example commands for conversion to different formats
+- Tips for embedding images, metadata, and styles
+- Automated export scripts for your own book project
 
-💡 Contribution
----------------
+---
 
-Contributions are welcome — especially for editing, translation, and technical improvements.
-
-1. Fork this repository
-
-2. Create a feature branch:
-
-    ```bash
-    git checkout -b feature/your-feature
-    ```
-
-3. Commit and push your changes
-
-4. Open a Pull Request describing your improvement
-
-* * *
-
-🪶 Author
----------
+## 🪶 Author
 
 **Draven Quantum**  
-Writer  
-📘 [Amazon Author](https://www.amazon.de/stores/author/B0FLQGSCG4/about)  
+Writer & Independent Publisher  
+📘 [Amazon Author Page](https://www.amazon.de/stores/author/B0FLQGSCG4/about)
 
-* * *
+---
 
-🪙 License
-----------
+## 🪙 License
 
-This project is released under the **Creative Commons CC0-1.0 License**.  
-You are free to share, adapt, and build upon the work without restriction.  
-For more details, see the LICENSE file.
+This project is licensed under the **Creative Commons CC0-1.0 License**. You are free to share, adapt, and build upon
+this work without restriction. See the `LICENSE` file for more details.
 
-* * *
+---
 
-⭐ Support
----------
+## ⭐ Support
 
-If you appreciate this project, consider giving it a **⭐ Star** on GitHub —  
-it helps others discover independent literary and philosophical works like this.
+If you appreciate this project, consider giving it a **⭐ Star** — it helps others discover independent literary and
+philosophical works.
 
-* * *
+---
 
-_“Every hunter becomes the hunted — once he sees his own reflection.”_
+_"Every hunter becomes the hunted — once he sees his own reflection."_
